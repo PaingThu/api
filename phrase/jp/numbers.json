@@ -1,0 +1,85 @@
+{
+    "title": "ဂဏန်း ၁ ၂ ၃ ၄ ၅",
+    "list": [
+        {
+            "type": "003",
+            "jp": "いち",
+            "mm": "တစ်",
+            "mmji": "အိချိ",
+            "romaji": "ichi",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "に",
+            "mm": "နှစ်",
+            "mmji": "နိ",
+            "romaji": "ni",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "さん",
+            "mm": "သုံး",
+            "mmji": "စန်း",
+            "romaji": "san",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "し / よん",
+            "mm": "ရှိ / ယွန်း",
+            "mmji": "",
+            "romaji": "shi / yon",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "ご",
+            "mm": "ငါး",
+            "mmji": "ဂေါ့",
+            "romaji": "go",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "ろく",
+            "mm": "ခြောက်",
+            "mmji": "ရောခု",
+            "romaji": "roku",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "なな / しち",
+            "mm": "ခွန်",
+            "mmji": "နန / ရှိချိ",
+            "romaji": "nana / shichi",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "はち",
+            "mm": "ရှစ်",
+            "mmji": "ဟချိ",
+            "romaji": "hachi",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "きゅう / く",
+            "mm": "ကိုး",
+            "mmji": "ခယူး / ခု",
+            "romaji": "kyuu / ku",
+            "remark": ""
+        },
+        {
+            "type": "003",
+            "jp": "じゅう",
+            "mm": "တစ်ဆယ်",
+            "mmji": "ဂျူး",
+            "romaji": "juu",
+            "remark": ""
+        }
+    ]
+}
