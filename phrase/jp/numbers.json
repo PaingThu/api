@@ -28,9 +28,9 @@
         {
             "type": "003",
             "jp": "し",
-            "mm": "ရှိ / ယွန်း",
+            "mm": "ရှိ",
             "mmji": "",
-            "romaji": "shi / yon",
+            "romaji": "shi",
             "remark": ""
         },
         {
@@ -51,10 +51,10 @@
         },
         {
             "type": "003",
-            "jp": "なな",
+            "jp": "しち",
             "mm": "ခွန်",
-            "mmji": "နန / ရှိချိ",
-            "romaji": "nana / shichi",
+            "mmji": "ရှိချိ",
+            "romaji": "shichi",
             "remark": ""
         },
         {
@@ -69,8 +69,8 @@
             "type": "003",
             "jp": "きゅう",
             "mm": "ကိုး",
-            "mmji": "ခယူး / ခု",
-            "romaji": "kyuu / ku",
+            "mmji": "ခယူး",
+            "romaji": "kyuu",
             "remark": ""
         },
         {
