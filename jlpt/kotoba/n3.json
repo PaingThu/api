@@ -1,0 +1,7922 @@
+[
+    {
+      "#": 1,
+      "no": 9539,
+      "romaji": "dansei",
+      "kana": "だんせい",
+      "kanji": "男性",
+      "meaning_mm": "အမျိုးသား",
+      "meaning_en": "man"
+    },
+    {
+      "#": 2,
+      "no": 9540,
+      "romaji": "josei",
+      "kana": "じょせい",
+      "kanji": "女性",
+      "meaning_mm": "အမျိုးသမီး",
+      "meaning_en": "woman"
+    },
+    {
+      "#": 3,
+      "no": 9541,
+      "romaji": "kōrei",
+      "kana": "こうれい",
+      "kanji": "高齢",
+      "meaning_mm": "အသက်ကြီးပိုင်း",
+      "meaning_en": "oldage, advanced age"
+    },
+    {
+      "#": 4,
+      "no": 9542,
+      "romaji": "toshiue",
+      "kana": "としうえ",
+      "kanji": "年上",
+      "meaning_mm": "ကိုယ့်ထက်အသက်ကြီးသူ၊ဝါကြီးသူ",
+      "meaning_en": "elder"
+    },
+    {
+      "#": 5,
+      "no": 9543,
+      "romaji": "meue",
+      "kana": "めうえ",
+      "kanji": "目上",
+      "meaning_mm": "ရာထူးကြီးသူ၊ကိုယ့်ထက်အသက်ကြီးသူ",
+      "meaning_en": "superior"
+    },
+    {
+      "#": 6,
+      "no": 9544,
+      "romaji": "senpai",
+      "kana": "せんぱい",
+      "kanji": "先輩",
+      "meaning_mm": "ဝါရင့်သူ",
+      "meaning_en": "senior"
+    },
+    {
+      "#": 7,
+      "no": 9545,
+      "romaji": "kōhai",
+      "kana": "こうはい",
+      "kanji": "後輩",
+      "meaning_mm": "နောက်လိုက်",
+      "meaning_en": "junior"
+    },
+    {
+      "#": 8,
+      "no": 9546,
+      "romaji": "jōshi",
+      "kana": "じょうし",
+      "kanji": "上司",
+      "meaning_mm": "အထက်အရာရှိ",
+      "meaning_en": "boss"
+    },
+    {
+      "#": 9,
+      "no": 9547,
+      "romaji": "aite",
+      "kana": "あいて",
+      "kanji": "相手",
+      "meaning_mm": "တဖက်လူ။ တဘက်သား။",
+      "meaning_en": "other people, opponent"
+    },
+    {
+      "#": 10,
+      "no": 9548,
+      "romaji": "shiriai",
+      "kana": "しりあい",
+      "kanji": "知り合い",
+      "meaning_mm": "အသိမိတ်ဆွေ",
+      "meaning_en": "acquaintance"
+    },
+    {
+      "#": 11,
+      "no": 9549,
+      "romaji": "yuujin",
+      "kana": "ゆうじん",
+      "kanji": "友人",
+      "meaning_mm": "သူငယ်ချင်း",
+      "meaning_en": "friend"
+    },
+    {
+      "#": 12,
+      "no": 9550,
+      "romaji": "naka",
+      "kana": "なか",
+      "kanji": "仲",
+      "meaning_mm": "ခင်မင်ရင်းနှီးခြင်း",
+      "meaning_en": "relations"
+    },
+    {
+      "#": 13,
+      "no": 9551,
+      "romaji": "seinengatsupi",
+      "kana": "せいねんがっぴ",
+      "kanji": "生年月日",
+      "meaning_mm": "မွေးနေ့သက္ကရာဇ်",
+      "meaning_en": "date of birth"
+    },
+    {
+      "#": 14,
+      "no": 9552,
+      "romaji": "tanjō",
+      "kana": "たんじょう",
+      "kanji": "誕生",
+      "meaning_mm": "မွေးဖွားခြင်း",
+      "meaning_en": "birth"
+    },
+    {
+      "#": 15,
+      "no": 9553,
+      "romaji": "toshi",
+      "kana": "とし",
+      "kanji": "年",
+      "meaning_mm": "အသက်အရွယ်",
+      "meaning_en": "year, age"
+    },
+    {
+      "#": 16,
+      "no": 9554,
+      "romaji": "shutsushin",
+      "kana": "しゅっしん",
+      "kanji": "出身",
+      "meaning_mm": "မွေးရာဇာတိ",
+      "meaning_en": "origin, homeland"
+    },
+    {
+      "#": 17,
+      "no": 9555,
+      "romaji": "kokyō",
+      "kana": "こきょう",
+      "kanji": "故郷",
+      "meaning_mm": "မွေးရပ်မြေ၊ဇာတိ",
+      "meaning_en": "hometown"
+    },
+    {
+      "#": 18,
+      "no": 9556,
+      "romaji": "seichō",
+      "kana": "せいちょう",
+      "kanji": "成長",
+      "meaning_mm": "ကြီးထွားလာခြင်း(သက်ရှိသတ္တဝါ)",
+      "meaning_en": "growth"
+    },
+    {
+      "#": 19,
+      "no": 9557,
+      "romaji": "seijin",
+      "kana": "せいじん",
+      "kanji": "成人",
+      "meaning_mm": "အရွယ်ရောက်သူ၊လူလားမြောက်သူ",
+      "meaning_en": "adult"
+    },
+    {
+      "#": 20,
+      "no": 9558,
+      "romaji": "goukaku",
+      "kana": "ごうかく",
+      "kanji": "合格",
+      "meaning_mm": "အောင်မြင်မှု၊ စာမေးပွဲအောင်ခြင်း၊စံချိန်မှီခြင်း",
+      "meaning_en": "passing, acceptance"
+    },
+    {
+      "#": 21,
+      "no": 9559,
+      "romaji": "shingaku",
+      "kana": "しんがく",
+      "kanji": "進学",
+      "meaning_mm": "အတန်းတက်သည်၊ကျောင်းဆက်တက်ခြင်း",
+      "meaning_en": "going to a higher school"
+    },
+    {
+      "#": 22,
+      "no": 9560,
+      "romaji": "taigaku",
+      "kana": "たいがく",
+      "kanji": "退学",
+      "meaning_mm": "ကျောင်းထွက်ခြင်း",
+      "meaning_en": "expulsion, dropping out"
+    },
+    {
+      "#": 23,
+      "no": 9561,
+      "romaji": "shūshoku",
+      "kana": "しゅうしょく",
+      "kanji": "就職",
+      "meaning_mm": "အလုပ်ဝင်ခြင်း",
+      "meaning_en": "getting employed, finding employment"
+    },
+    {
+      "#": 24,
+      "no": 9562,
+      "romaji": "taishoku",
+      "kana": "たいしょく",
+      "kanji": "退職",
+      "meaning_mm": "အလုပ်မှထွက်ခြင်း၊အငြိမ်းစားယူခြင်း",
+      "meaning_en": "resignation, returement"
+    },
+    {
+      "#": 25,
+      "no": 9563,
+      "romaji": "shitsugyou",
+      "kana": "しつぎょう",
+      "kanji": "失業",
+      "meaning_mm": "အလုပ်လက်မဲ့ဖြစ်ခြင်း",
+      "meaning_en": "unemployment"
+    },
+    {
+      "#": 26,
+      "no": 9564,
+      "romaji": "zangyou",
+      "kana": "ざんぎょう",
+      "kanji": "残業",
+      "meaning_mm": "အချိန်ပိုဆင်းခြင်း",
+      "meaning_en": "overtime work"
+    },
+    {
+      "#": 27,
+      "no": 9565,
+      "romaji": "seikatsu",
+      "kana": "せいかつ",
+      "kanji": "生活",
+      "meaning_mm": "နေထိုင်မှုဘဝ",
+      "meaning_en": "life"
+    },
+    {
+      "#": 28,
+      "no": 9566,
+      "romaji": "tsūkin",
+      "kana": "つうきん",
+      "kanji": "通勤",
+      "meaning_mm": "အလုပ်တက်ချိန်အားခွဲပြီးအလုပ်တက်ခြင်း",
+      "meaning_en": "commuting (to work)"
+    },
+    {
+      "#": 29,
+      "no": 9567,
+      "romaji": "gakureki",
+      "kana": "がくれき",
+      "kanji": "学歴",
+      "meaning_mm": "ပညာရေးသမိုင်း ၊ ပညာရေးအတွေ့အကြုံ",
+      "meaning_en": "educational background"
+    },
+    {
+      "#": 30,
+      "no": 9568,
+      "romaji": "kyūryō",
+      "kana": "きゅうりょう",
+      "kanji": "給料",
+      "meaning_mm": "လခ",
+      "meaning_en": "salary,pay"
+    },
+    {
+      "#": 31,
+      "no": 9569,
+      "romaji": "mensetsu",
+      "kana": "めんせつ",
+      "kanji": "面接",
+      "meaning_mm": "လူတွေ့နှုတ်ဖြေမေးမြန်းခြင်း",
+      "meaning_en": "interview"
+    },
+    {
+      "#": 32,
+      "no": 9570,
+      "romaji": "kyūkei",
+      "kana": "きゅうけい",
+      "kanji": "休憩",
+      "meaning_mm": "ခေတ္တခဏအနားယူခြင်း",
+      "meaning_en": "break"
+    },
+    {
+      "#": 33,
+      "no": 9571,
+      "romaji": "kankō",
+      "kana": "かんこう",
+      "kanji": "観光",
+      "meaning_mm": "ကမ္ဘာလှည့်ခရီး",
+      "meaning_en": "tourism, sightseeing"
+    },
+    {
+      "#": 34,
+      "no": 9572,
+      "romaji": "kikoku",
+      "kana": "きこく",
+      "kanji": "帰国",
+      "meaning_mm": "ကိုယ့်နိုင်ငံပြန်ခြင်း",
+      "meaning_en": "returing to one’s country"
+    },
+    {
+      "#": 35,
+      "no": 9573,
+      "romaji": "kisei",
+      "kana": "きせい",
+      "kanji": "帰省",
+      "meaning_mm": "မွေးရပ်ပြန်ခြင်း",
+      "meaning_en": "returing to one’s hometown"
+    },
+    {
+      "#": 36,
+      "no": 9574,
+      "romaji": "kitaku",
+      "kana": "きたく",
+      "kanji": "帰宅",
+      "meaning_mm": "အိမ်ပြန်ခြင်း",
+      "meaning_en": "going home"
+    },
+    {
+      "#": 37,
+      "no": 9575,
+      "romaji": "sanka",
+      "kana": "さんか",
+      "kanji": "参加",
+      "meaning_mm": "ပါဝင်ဆင်နွှဲခြင်း",
+      "meaning_en": "participation"
+    },
+    {
+      "#": 38,
+      "no": 9576,
+      "romaji": "shusseki",
+      "kana": "しゅっせき",
+      "kanji": "出席",
+      "meaning_mm": "တက်ရောက်ခြင်း",
+      "meaning_en": "attendance"
+    },
+    {
+      "#": 39,
+      "no": 9577,
+      "romaji": "kesseki",
+      "kana": "けっせき",
+      "kanji": "欠席",
+      "meaning_mm": "တက်ရောက်ခြင်းပျက်ကွက်မှု",
+      "meaning_en": "absence"
+    },
+    {
+      "#": 40,
+      "no": 9578,
+      "romaji": "chikoku",
+      "kana": "ちこく",
+      "kanji": "遅刻",
+      "meaning_mm": "နောက်ကျခြင်း၊ သတ်မှတ်ထားသောအချိန်ကိုမမှီခြင်း",
+      "meaning_en": "arriving late"
+    },
+    {
+      "#": 41,
+      "no": 9579,
+      "romaji": "keshō",
+      "kana": "けしょう",
+      "kanji": "化粧",
+      "meaning_mm": "အလှပြင်မှု၊မိတ်ကပ်လိမ်းခြင်း",
+      "meaning_en": "makeup"
+    },
+    {
+      "#": 42,
+      "no": 9580,
+      "romaji": "keisan",
+      "kana": "けいさん",
+      "kanji": "計算",
+      "meaning_mm": "ရေတွက်ခြင်း၊ တွက်ချက်ခြင်း၊ ကြိုတင်စဉ်းစားထားခြင်း",
+      "meaning_en": "calculation"
+    },
+    {
+      "#": 43,
+      "no": 9581,
+      "romaji": "keikaku",
+      "kana": "けいかく",
+      "kanji": "計画",
+      "meaning_mm": "စီမံကိန်း",
+      "meaning_en": "plan"
+    },
+    {
+      "#": 44,
+      "no": 9582,
+      "romaji": "seikō",
+      "kana": "せいこう",
+      "kanji": "成功",
+      "meaning_mm": "အောင်မြင်မှု",
+      "meaning_en": "success"
+    },
+    {
+      "#": 45,
+      "no": 9583,
+      "romaji": "shippai",
+      "kana": "しっぱい",
+      "kanji": "失敗",
+      "meaning_mm": "ဆုံးရှုံးမှု",
+      "meaning_en": "failure"
+    },
+    {
+      "#": 46,
+      "no": 9584,
+      "romaji": "junbi",
+      "kana": "じゅんび",
+      "kanji": "準備",
+      "meaning_mm": "ပြင်ဆင်ခြင်း",
+      "meaning_en": "preparation"
+    },
+    {
+      "#": 47,
+      "no": 9585,
+      "romaji": "seiri",
+      "kana": "せいり",
+      "kanji": "整理",
+      "meaning_mm": "သပ်ရပ်အောင်ပြုလုပ်ခြင်း",
+      "meaning_en": "organizing, arrangement, disposal"
+    },
+    {
+      "#": 48,
+      "no": 9586,
+      "romaji": "chiyuumon",
+      "kana": "ちゅうもん",
+      "kanji": "注文",
+      "meaning_mm": "မှာကြားခြင်း၊ ကဂျီကဂျောင်ပြောဆိုခြင်း",
+      "meaning_en": "order, request"
+    },
+    {
+      "#": 49,
+      "no": 9587,
+      "romaji": "chokin",
+      "kana": "ちょきん",
+      "kanji": "貯金",
+      "meaning_mm": "ငွေစုခြင်း",
+      "meaning_en": "savings, depositing"
+    },
+    {
+      "#": 50,
+      "no": 9588,
+      "romaji": "tetsuya",
+      "kana": "てつや",
+      "kanji": "徹夜",
+      "meaning_mm": "ညလုံးပေါက်လုပ်ခြင်း",
+      "meaning_en": "staying up all night"
+    },
+    {
+      "#": 51,
+      "no": 9589,
+      "romaji": "hikkoshi",
+      "kana": "ひっこし",
+      "kanji": "引っ越し",
+      "meaning_mm": "အိမ်ပြောင်းခြင်း",
+      "meaning_en": "move"
+    },
+    {
+      "#": 52,
+      "no": 9590,
+      "romaji": "shinchō",
+      "kana": "しんちょう",
+      "kanji": "身長",
+      "meaning_mm": "အရပ်အမောင်း",
+      "meaning_en": "body height"
+    },
+    {
+      "#": 53,
+      "no": 9591,
+      "romaji": "taijū",
+      "kana": "たいじゅう",
+      "kanji": "体重",
+      "meaning_mm": "ကိုယ်အလေးချိန်",
+      "meaning_en": "body weight"
+    },
+    {
+      "#": 54,
+      "no": 9592,
+      "romaji": "kega",
+      "kana": "けが",
+      "kanji": "けが",
+      "meaning_mm": "ဒဏ်ရာ၊အနာတရ",
+      "meaning_en": "injury"
+    },
+    {
+      "#": 55,
+      "no": 9593,
+      "romaji": "kai",
+      "kana": "かい",
+      "kanji": "会",
+      "meaning_mm": "အသင်းအဖွဲ့",
+      "meaning_en": "party"
+    },
+    {
+      "#": 56,
+      "no": 9594,
+      "romaji": "shumi",
+      "kana": "しゅみ",
+      "kanji": "趣味",
+      "meaning_mm": "ဝါသနာ",
+      "meaning_en": "hobby, interest, taste"
+    },
+    {
+      "#": 57,
+      "no": 9595,
+      "romaji": "kyōmi",
+      "kana": "きょうみ",
+      "kanji": "興味",
+      "meaning_mm": "ဝါသနာ",
+      "meaning_en": "interest"
+    },
+    {
+      "#": 58,
+      "no": 9596,
+      "romaji": "omoide",
+      "kana": "おもいで",
+      "kanji": "思い出",
+      "meaning_mm": "အောက်မေ့ဖွယ်ရာ၊အမှတ်တရ",
+      "meaning_en": "memory"
+    },
+    {
+      "#": 59,
+      "no": 9597,
+      "romaji": "jiyoudan",
+      "kana": "じょうだん",
+      "kanji": "冗談",
+      "meaning_mm": "ပြက်ရယ်ပြုစကား",
+      "meaning_en": "joke"
+    },
+    {
+      "#": 60,
+      "no": 9598,
+      "romaji": "mokuteki",
+      "kana": "もくてき",
+      "kanji": "目的",
+      "meaning_mm": "ရည်ရွယ်ချက်",
+      "meaning_en": "purpose"
+    },
+    {
+      "#": 61,
+      "no": 9599,
+      "romaji": "yakusoku",
+      "kana": "やくそく",
+      "kanji": "約束",
+      "meaning_mm": "ကတိ",
+      "meaning_en": "promise, appointment"
+    },
+    {
+      "#": 62,
+      "no": 9600,
+      "romaji": "oshaberi",
+      "kana": "おしゃべり",
+      "kanji": "おしゃべり",
+      "meaning_mm": "စကားပြောခြင်းအားကြိုက်နှစ်သက်သူ၊စကားအလွန်များခြင်း",
+      "meaning_en": "chatting, talktativeness"
+    },
+    {
+      "#": 63,
+      "no": 9601,
+      "romaji": "enriyo",
+      "kana": "えんりょ",
+      "kanji": "遠慮",
+      "meaning_mm": "အားနာခြင်း",
+      "meaning_en": "reserve, refraining"
+    },
+    {
+      "#": 64,
+      "no": 9602,
+      "romaji": "gaman",
+      "kana": "がまん",
+      "kanji": "我慢",
+      "meaning_mm": "သည်းခံခြင်း",
+      "meaning_en": "endurance, patience"
+    },
+    {
+      "#": 65,
+      "no": 9603,
+      "romaji": "meiwaku",
+      "kana": "めいわく",
+      "kanji": "迷惑",
+      "meaning_mm": "အနှောင့်အယှက်ဖြစ်စေခြင်း",
+      "meaning_en": "nuisance"
+    },
+    {
+      "#": 66,
+      "no": 9604,
+      "romaji": "kibou",
+      "kana": "きぼう",
+      "kanji": "希望",
+      "meaning_mm": "မျှော်လင့်ချက်၊ဆန္ဒ",
+      "meaning_en": "hope, wish"
+    },
+    {
+      "#": 67,
+      "no": 9605,
+      "romaji": "yume",
+      "kana": "ゆめ",
+      "kanji": "夢",
+      "meaning_mm": "အိမ်မက်",
+      "meaning_en": "dream"
+    },
+    {
+      "#": 68,
+      "no": 9606,
+      "romaji": "sansei",
+      "kana": "さんせい",
+      "kanji": "賛成",
+      "meaning_mm": "ထောက်ခံခြင်း ၊ သဘောတူခြင်း",
+      "meaning_en": "agreement, support"
+    },
+    {
+      "#": 69,
+      "no": 9607,
+      "romaji": "hantai",
+      "kana": "はんたい",
+      "kanji": "反対",
+      "meaning_mm": "ဆန့်ကျင်ခြင်း",
+      "meaning_en": "opposite, opposition"
+    },
+    {
+      "#": 70,
+      "no": 9608,
+      "romaji": "sōzou",
+      "kana": "そうぞう",
+      "kanji": "創造",
+      "meaning_mm": "တီထွင်ခြင်း",
+      "meaning_en": "imagination"
+    },
+    {
+      "#": 71,
+      "no": 9609,
+      "romaji": "doriyoku",
+      "kana": "どりょく",
+      "kanji": "努力",
+      "meaning_mm": "အားထုတ်မှု",
+      "meaning_en": "effort"
+    },
+    {
+      "#": 72,
+      "no": 9610,
+      "romaji": "taiyou",
+      "kana": "たいよう",
+      "kanji": "太陽",
+      "meaning_mm": "နေမင်း",
+      "meaning_en": "sun"
+    },
+    {
+      "#": 73,
+      "no": 9611,
+      "romaji": "chikyū",
+      "kana": "ちきゅう",
+      "kanji": "地球",
+      "meaning_mm": "ကမ္ဘာမြေကြီး",
+      "meaning_en": "earth"
+    },
+    {
+      "#": 74,
+      "no": 9612,
+      "romaji": "ondo",
+      "kana": "おんど",
+      "kanji": "温度",
+      "meaning_mm": "အပူချိန်",
+      "meaning_en": "temperature"
+    },
+    {
+      "#": 75,
+      "no": 9613,
+      "romaji": "shitsudo",
+      "kana": "しつど",
+      "kanji": "湿度",
+      "meaning_mm": "စိုထိုင်းဆ",
+      "meaning_en": "humidity"
+    },
+    {
+      "#": 76,
+      "no": 9614,
+      "romaji": "shikke",
+      "kana": "しっけ",
+      "kanji": "湿気",
+      "meaning_mm": "စိုထိုင်းမှု",
+      "meaning_en": "being humid, moisture"
+    },
+    {
+      "#": 77,
+      "no": 9615,
+      "romaji": "tsuyu",
+      "kana": "つゆ",
+      "kanji": "梅雨",
+      "meaning_mm": "မိုးရာသီ",
+      "meaning_en": "rainy season"
+    },
+    {
+      "#": 78,
+      "no": 9616,
+      "romaji": "kabi",
+      "kana": "かび",
+      "kanji": "かび",
+      "meaning_mm": "မှို(မှိုတက်ခြင်း၊မှိုစွဲခြင်း)",
+      "meaning_en": "mold"
+    },
+    {
+      "#": 79,
+      "no": 9617,
+      "romaji": "danbou",
+      "kana": "だんぼう",
+      "kanji": "暖房",
+      "meaning_mm": "လေပူပေးစက်",
+      "meaning_en": "heater"
+    },
+    {
+      "#": 80,
+      "no": 9618,
+      "romaji": "kawa",
+      "kana": "かわ",
+      "kanji": "皮",
+      "meaning_mm": "သားရေ",
+      "meaning_en": "skin, hide"
+    },
+    {
+      "#": 81,
+      "no": 9619,
+      "romaji": "kan",
+      "kana": "かん",
+      "kanji": "館",
+      "meaning_mm": "… တိုက်(အဆောက်အဦး)",
+      "meaning_en": "can"
+    },
+    {
+      "#": 82,
+      "no": 9620,
+      "romaji": "gamen",
+      "kana": "がめん",
+      "kanji": "画面",
+      "meaning_mm": "မျက်နှာပြင်၊ဖန်သားပြင်",
+      "meaning_en": "screen"
+    },
+    {
+      "#": 83,
+      "no": 9621,
+      "romaji": "bangumi",
+      "kana": "ばんぐみ",
+      "kanji": "番組",
+      "meaning_mm": "ရုပ်မြင်သံကြားအစီအစဥ်",
+      "meaning_en": "(radio/TV) program"
+    },
+    {
+      "#": 84,
+      "no": 9622,
+      "romaji": "kiji",
+      "kana": "きじ",
+      "kanji": "記事",
+      "meaning_mm": "သတင်းဆောင်းပါး",
+      "meaning_en": "article( newspaper/magazine)"
+    },
+    {
+      "#": 85,
+      "no": 9623,
+      "romaji": "kinjiyo",
+      "kana": "きんじょ",
+      "kanji": "近所",
+      "meaning_mm": "အိမ်နီးချင်း",
+      "meaning_en": "neighborhood"
+    },
+    {
+      "#": 86,
+      "no": 9624,
+      "romaji": "keisatsu",
+      "kana": "けいさつ",
+      "kanji": "警察",
+      "meaning_mm": "ရဲအဖွဲ့",
+      "meaning_en": "police"
+    },
+    {
+      "#": 87,
+      "no": 9625,
+      "romaji": "hannin",
+      "kana": "はんにん",
+      "kanji": "犯人",
+      "meaning_mm": "ရာဇဝတ်ကောင်၊ တရားခံ",
+      "meaning_en": "criminal"
+    },
+    {
+      "#": 88,
+      "no": 9626,
+      "romaji": "kozeni",
+      "kana": "こぜに",
+      "kanji": "小銭",
+      "meaning_mm": "အကြွေ",
+      "meaning_en": "small change"
+    },
+    {
+      "#": 89,
+      "no": 9627,
+      "romaji": "gochisō",
+      "kana": "ごちそう",
+      "kanji": "ごちそう",
+      "meaning_mm": "စားကောင်းသောက်ဖွယ်",
+      "meaning_en": "feast, treating to (a meal)"
+    },
+    {
+      "#": 90,
+      "no": 9628,
+      "romaji": "sakusha",
+      "kana": "さくしゃ",
+      "kanji": "作者",
+      "meaning_mm": "စာရေးဆရာ ၊ လက်ရာပြုလုပ်သူ",
+      "meaning_en": "writer, artist"
+    },
+    {
+      "#": 91,
+      "no": 9629,
+      "romaji": "sakuhin",
+      "kana": "さくひん",
+      "kanji": "作品",
+      "meaning_mm": "လက်ရာပစ္စည်း",
+      "meaning_en": "work (of art/literature)"
+    },
+    {
+      "#": 92,
+      "no": 9630,
+      "romaji": "seifuku",
+      "kana": "せいふく",
+      "kanji": "制服",
+      "meaning_mm": "ကျောင်းဝတ်စုံ၊တူညီဝတ်စုံ",
+      "meaning_en": "uniform"
+    },
+    {
+      "#": 93,
+      "no": 9631,
+      "romaji": "senzai",
+      "kana": "せんざい",
+      "kanji": "洗剤",
+      "meaning_mm": "ဆေးကြော်လျှော်ဖွတ်ဆေး၊ဆပ်ပြာမှုန့်",
+      "meaning_en": "detergent"
+    },
+    {
+      "#": 94,
+      "no": 9632,
+      "romaji": "soko",
+      "kana": "そこ",
+      "kanji": "底",
+      "meaning_mm": "အောက်ခြေ",
+      "meaning_en": "bottom"
+    },
+    {
+      "#": 95,
+      "no": 9633,
+      "romaji": "chika",
+      "kana": "ちか",
+      "kanji": "地下",
+      "meaning_mm": "မြေအောက်",
+      "meaning_en": "underground, basement"
+    },
+    {
+      "#": 96,
+      "no": 9634,
+      "romaji": "tera",
+      "kana": "てら",
+      "kanji": "寺",
+      "meaning_mm": "ဘုန်းကြီးကျောင်း",
+      "meaning_en": "temple"
+    },
+    {
+      "#": 97,
+      "no": 9635,
+      "romaji": "dōro",
+      "kana": "どうろ",
+      "kanji": "道路",
+      "meaning_mm": "လမ်း၊ ကားလမ်း",
+      "meaning_en": "road"
+    },
+    {
+      "#": 98,
+      "no": 9636,
+      "romaji": "saka",
+      "kana": "さか",
+      "kanji": "坂",
+      "meaning_mm": "ကုန်းတက်၊ကုန်းလျှော၊ဆင်ခြေလျှော",
+      "meaning_en": "hill, slope"
+    },
+    {
+      "#": 99,
+      "no": 9637,
+      "romaji": "kemuri",
+      "kana": "けむり",
+      "kanji": "煙",
+      "meaning_mm": "မီးခိုး",
+      "meaning_en": "smoke"
+    },
+    {
+      "#": 100,
+      "no": 9638,
+      "romaji": "hai",
+      "kana": "はい",
+      "kanji": "灰",
+      "meaning_mm": "ပြာ",
+      "meaning_en": "ash"
+    },
+    {
+      "#": 101,
+      "no": 9639,
+      "romaji": "han",
+      "kana": "はん",
+      "kanji": "判",
+      "meaning_mm": "တံဆိပ်တုံး",
+      "meaning_en": "seal"
+    },
+    {
+      "#": 102,
+      "no": 9640,
+      "romaji": "meishi",
+      "kana": "めいし",
+      "kanji": "名刺",
+      "meaning_mm": "နာမည်ကတ်ပြား",
+      "meaning_en": "calling card, visiting card"
+    },
+    {
+      "#": 103,
+      "no": 9641,
+      "romaji": "menkiyo",
+      "kana": "めんきょ",
+      "kanji": "免許",
+      "meaning_mm": "လိုင်စင်",
+      "meaning_en": "license"
+    },
+    {
+      "#": 104,
+      "no": 9642,
+      "romaji": "ōku",
+      "kana": "おおく",
+      "kanji": "多く",
+      "meaning_mm": "အများအပြား",
+      "meaning_en": "many"
+    },
+    {
+      "#": 105,
+      "no": 9643,
+      "romaji": "zenhan",
+      "kana": "ぜんはん",
+      "kanji": "前半",
+      "meaning_mm": "ပထမပိုင်း",
+      "meaning_en": "first half"
+    },
+    {
+      "#": 106,
+      "no": 9644,
+      "romaji": "kōhan",
+      "kana": "こうはん",
+      "kanji": "後半",
+      "meaning_mm": "ဒုတိယပိုင်း",
+      "meaning_en": "second half"
+    },
+    {
+      "#": 107,
+      "no": 9645,
+      "romaji": "saikō",
+      "kana": "さいこう",
+      "kanji": "最高",
+      "meaning_mm": "ထိပ်တန်း၊အမြင့်ဆုံး၊ အကောင်းဆုံး",
+      "meaning_en": "highest, best, really"
+    },
+    {
+      "#": 108,
+      "no": 9646,
+      "romaji": "saitei",
+      "kana": "さいてい",
+      "kanji": "最低",
+      "meaning_mm": "အောက်ဆုံး၊အနိမ့်ဆုံး",
+      "meaning_en": "lowest, wrost, disgusting"
+    },
+    {
+      "#": 109,
+      "no": 9647,
+      "romaji": "saisho",
+      "kana": "さいしょ",
+      "kanji": "最初",
+      "meaning_mm": "ဦးဆုံး",
+      "meaning_en": "first"
+    },
+    {
+      "#": 110,
+      "no": 9648,
+      "romaji": "saigo",
+      "kana": "さいご",
+      "kanji": "最後",
+      "meaning_mm": "နောက်ဆုံး",
+      "meaning_en": "last, end (of the line)"
+    },
+    {
+      "#": 111,
+      "no": 9649,
+      "romaji": "jidō",
+      "kana": "じどう",
+      "kanji": "自動",
+      "meaning_mm": "အလိုအလျောက်",
+      "meaning_en": "automation"
+    },
+    {
+      "#": 112,
+      "no": 9650,
+      "romaji": "shiyurui",
+      "kana": "しゅるい",
+      "kanji": "種類",
+      "meaning_mm": "အမျိုးအစား",
+      "meaning_en": "type, kind"
+    },
+    {
+      "#": 113,
+      "no": 9651,
+      "romaji": "seikaku",
+      "kana": "せいかく",
+      "kanji": "性格",
+      "meaning_mm": "အကျင့်စာရိတ္တ",
+      "meaning_en": "personality, character"
+    },
+    {
+      "#": 114,
+      "no": 9652,
+      "romaji": "seishitsu",
+      "kana": "せいしつ",
+      "kanji": "性質",
+      "meaning_mm": "ပင်ကိုယ်စရိုက်၊ဂုဏ်သတ္တိ",
+      "meaning_en": "property, disposition"
+    },
+    {
+      "#": 115,
+      "no": 9653,
+      "romaji": "junban",
+      "kana": "じゅんばん",
+      "kanji": "順番",
+      "meaning_mm": "အလှည့်အစီအစဉ်",
+      "meaning_en": "order, sequence"
+    },
+    {
+      "#": 116,
+      "no": 9654,
+      "romaji": "ban",
+      "kana": "ばん",
+      "kanji": "番",
+      "meaning_mm": "အစောင့်၊ အလှည့်",
+      "meaning_en": "one’s turn, watching over"
+    },
+    {
+      "#": 117,
+      "no": 9655,
+      "romaji": "hōhō",
+      "kana": "ほうほう",
+      "kanji": "方法",
+      "meaning_mm": "နည်းလမ်း",
+      "meaning_en": "method, way"
+    },
+    {
+      "#": 118,
+      "no": 9656,
+      "romaji": "seihin",
+      "kana": "せいひん",
+      "kanji": "製品",
+      "meaning_mm": "ထုတ်ကုန်၊ကုန်ချော",
+      "meaning_en": "product"
+    },
+    {
+      "#": 119,
+      "no": 9657,
+      "romaji": "neagari",
+      "kana": "ねあがり",
+      "kanji": "値上がり",
+      "meaning_mm": "စျေးတက်ခြင်း",
+      "meaning_en": "price rise"
+    },
+    {
+      "#": 120,
+      "no": 9658,
+      "romaji": "nama",
+      "kana": "なま",
+      "kanji": "生",
+      "meaning_mm": "အစိမ်း",
+      "meaning_en": "raw, draft (beer)"
+    },
+    {
+      "#": 121,
+      "no": 9659,
+      "romaji": "kawaku",
+      "kana": "かわく",
+      "kanji": "渇く",
+      "meaning_mm": "ရေဆာသည်၊ရေငတ်သည်",
+      "meaning_en": "become thirsty/ parched"
+    },
+    {
+      "#": 122,
+      "no": 9660,
+      "romaji": "kagu",
+      "kana": "かぐ",
+      "kanji": "嗅ぐ",
+      "meaning_mm": "အနံ့ခံသည်",
+      "meaning_en": "smell"
+    },
+    {
+      "#": 123,
+      "no": 9661,
+      "romaji": "tataku",
+      "kana": "たたく",
+      "kanji": "叩く",
+      "meaning_mm": "ထုသည်၊ရိုက်သည်",
+      "meaning_en": "sprank, tap, knock, clap"
+    },
+    {
+      "#": 124,
+      "no": 9662,
+      "romaji": "naguru",
+      "kana": "なぐる",
+      "kanji": "殴る",
+      "meaning_mm": "ထိုးသည်၊ ထုသည်",
+      "meaning_en": "punch"
+    },
+    {
+      "#": 125,
+      "no": 9663,
+      "romaji": "keru",
+      "kana": "ける",
+      "kanji": "ける",
+      "meaning_mm": "ကန်သည်",
+      "meaning_en": "kick"
+    },
+    {
+      "#": 126,
+      "no": 9664,
+      "romaji": "daku",
+      "kana": "だく",
+      "kanji": "抱く",
+      "meaning_mm": "ပွေ့ပိုက်သည် ၊ ဆန္ဒကိုပွေ့ပိုက်သည် |",
+      "meaning_en": "hold, hug"
+    },
+    {
+      "#": 127,
+      "no": 9665,
+      "romaji": "taoreru",
+      "kana": "たおれる",
+      "kanji": "倒れる",
+      "meaning_mm": "လဲကျသည်၊ပြိုလဲသည်",
+      "meaning_en": "fall over, collapse"
+    },
+    {
+      "#": 128,
+      "no": 9666,
+      "romaji": "taosu",
+      "kana": "たおす",
+      "kanji": "倒す",
+      "meaning_mm": "လှဲချသည်",
+      "meaning_en": "knock over, defeat"
+    },
+    {
+      "#": 129,
+      "no": 9667,
+      "romaji": "okiru",
+      "kana": "おきる",
+      "kanji": "起きる",
+      "meaning_mm": "အိပ်ရာထသည်",
+      "meaning_en": "wake up, stay up, occur, arise"
+    },
+    {
+      "#": 130,
+      "no": 9668,
+      "romaji": "okosu",
+      "kana": "おこす",
+      "kanji": "起こす",
+      "meaning_mm": "နှိုးသည်",
+      "meaning_en": "wake (someone) up, stand (something) up, cause"
+    },
+    {
+      "#": 131,
+      "no": 9669,
+      "romaji": "tazuneru",
+      "kana": "たずねる",
+      "kanji": "尋ねる",
+      "meaning_mm": "မေးမြန်းသည်",
+      "meaning_en": "ask"
+    },
+    {
+      "#": 132,
+      "no": 9670,
+      "romaji": "yobu",
+      "kana": "よぶ",
+      "kanji": "呼ぶ",
+      "meaning_mm": "ခေါ်သည်",
+      "meaning_en": "call, summon, attract"
+    },
+    {
+      "#": 133,
+      "no": 9671,
+      "romaji": "sakebu",
+      "kana": "さけぶ",
+      "kanji": "叫ぶ",
+      "meaning_mm": "အော်ဟစ်သည်",
+      "meaning_en": "yell"
+    },
+    {
+      "#": 134,
+      "no": 9672,
+      "romaji": "damaru",
+      "kana": "だまる",
+      "kanji": "黙る",
+      "meaning_mm": "တိတ်ဆိတ်သည်၊ နှုတ်ဆိတ်သည်",
+      "meaning_en": "be silent, do without permission"
+    },
+    {
+      "#": 135,
+      "no": 9673,
+      "romaji": "kau",
+      "kana": "かう",
+      "kanji": "飼う",
+      "meaning_mm": "မွေးမြူသည်",
+      "meaning_en": "keep (a pet)"
+    },
+    {
+      "#": 136,
+      "no": 9674,
+      "romaji": "kazoeru",
+      "kana": "かぞえる",
+      "kanji": "数える",
+      "meaning_mm": "ရေတွက်သည်",
+      "meaning_en": "count, number among"
+    },
+    {
+      "#": 137,
+      "no": 9675,
+      "romaji": "kawaku",
+      "kana": "かわく",
+      "kanji": "乾く",
+      "meaning_mm": "ခြောက်သွေ့သည်",
+      "meaning_en": "dry"
+    },
+    {
+      "#": 138,
+      "no": 9676,
+      "romaji": "kawakasu",
+      "kana": "かわかす",
+      "kanji": "乾かす",
+      "meaning_mm": "အခြောက်ခံသည်",
+      "meaning_en": "dry"
+    },
+    {
+      "#": 139,
+      "no": 9677,
+      "romaji": "tatamu",
+      "kana": "たたむ",
+      "kanji": "畳む",
+      "meaning_mm": "ခေါက်သည်၊ချိုးသည်",
+      "meaning_en": "fold"
+    },
+    {
+      "#": 140,
+      "no": 9678,
+      "romaji": "sasō",
+      "kana": "さそう",
+      "kanji": "誘う",
+      "meaning_mm": "အဖော်စပ်သည်/ဖိတ်ခေါ်သည်",
+      "meaning_en": "invite"
+    },
+    {
+      "#": 141,
+      "no": 9679,
+      "romaji": "ogoru",
+      "kana": "おごる",
+      "kanji": "おごる",
+      "meaning_mm": "ကျွေးသည်၊ကျွေးမွေးဧည့်ခံသည်",
+      "meaning_en": "treat to (something)"
+    },
+    {
+      "#": 142,
+      "no": 9680,
+      "romaji": "azukaru",
+      "kana": "あずかる",
+      "kanji": "預かる",
+      "meaning_mm": "ထိန်းသိမ်းသည်။ တာဝန်လွှဲအပ်ခြင်းခံရသည်။",
+      "meaning_en": "look after"
+    },
+    {
+      "#": 143,
+      "no": 9681,
+      "romaji": "azukeru",
+      "kana": "あずける",
+      "kanji": "預ける",
+      "meaning_mm": "အပ်နှံသည်",
+      "meaning_en": "deposit, put in the care of"
+    },
+    {
+      "#": 144,
+      "no": 9682,
+      "romaji": "kimaru",
+      "kana": "きまる",
+      "kanji": "決まる",
+      "meaning_mm": "ဆုံးဖြတ်သည်",
+      "meaning_en": "be decided, be set, be done perfectly"
+    },
+    {
+      "#": 145,
+      "no": 9683,
+      "romaji": "kimeru",
+      "kana": "きめる",
+      "kanji": "決める",
+      "meaning_mm": "ဆုံးဖြတ်သည်",
+      "meaning_en": "decide, always do, do perfectly"
+    },
+    {
+      "#": 146,
+      "no": 9684,
+      "romaji": "utsuru",
+      "kana": "うつる",
+      "kanji": "写る",
+      "meaning_mm": "ထင်ဟတ်သည်",
+      "meaning_en": "(camera ) take (photos), (photo) comes out"
+    },
+    {
+      "#": 147,
+      "no": 9685,
+      "romaji": "utsusu",
+      "kana": "うつす",
+      "kanji": "写す",
+      "meaning_mm": "ဓါတ်ပုံရိုက်သည်၊ ထင်ဟပ်စေသည်၊ ကူးယူသည်",
+      "meaning_en": "take (photos), capture (on film), copy"
+    },
+    {
+      "#": 148,
+      "no": 9686,
+      "romaji": "omoidasu",
+      "kana": "おもいだす",
+      "kanji": "思い出す",
+      "meaning_mm": "ပြန်သတိရသည်",
+      "meaning_en": "remember, recall"
+    },
+    {
+      "#": 149,
+      "no": 9687,
+      "romaji": "osowaru",
+      "kana": "おそわる",
+      "kanji": "教わる",
+      "meaning_mm": "သင်ယူသည်",
+      "meaning_en": "learn"
+    },
+    {
+      "#": 150,
+      "no": 9688,
+      "romaji": "mōshikomu",
+      "kana": "もうしこむ",
+      "kanji": "申し込む",
+      "meaning_mm": "လျှောက်လွှာတင်သည်",
+      "meaning_en": "apply"
+    },
+    {
+      "#": 151,
+      "no": 9689,
+      "romaji": "kotowaru",
+      "kana": "ことわる",
+      "kanji": "断る",
+      "meaning_mm": "ငြင်းဆန်သည်၊ခွင့်တောင်းသည်",
+      "meaning_en": "decline, seek permission"
+    },
+    {
+      "#": 152,
+      "no": 9690,
+      "romaji": "mitsukaru",
+      "kana": "みつかる",
+      "kanji": "見つかる",
+      "meaning_mm": "ရှာတွေ့သည်",
+      "meaning_en": "be found, be caught (did something)"
+    },
+    {
+      "#": 153,
+      "no": 9691,
+      "romaji": "mitsukeru",
+      "kana": "みつける",
+      "kanji": "見つける",
+      "meaning_mm": "ရှာတွေ့သည်",
+      "meaning_en": "find"
+    },
+    {
+      "#": 154,
+      "no": 9692,
+      "romaji": "tsukamaru",
+      "kana": "つかまる",
+      "kanji": "捕まる",
+      "meaning_mm": "ဖမ်းမိသည်",
+      "meaning_en": "be arrested, caught, hold on to"
+    },
+    {
+      "#": 155,
+      "no": 9693,
+      "romaji": "tsukamaeru",
+      "kana": "つかまえる",
+      "kanji": "捕まえる",
+      "meaning_mm": "ဖမ်းဆီးသည်",
+      "meaning_en": "arrest, catch"
+    },
+    {
+      "#": 156,
+      "no": 9694,
+      "romaji": "noru",
+      "kana": "のる",
+      "kanji": "乗る",
+      "meaning_mm": "စီးသည်",
+      "meaning_en": "ride"
+    },
+    {
+      "#": 157,
+      "no": 9695,
+      "romaji": "noseru",
+      "kana": "のせる",
+      "kanji": "乗せる",
+      "meaning_mm": "တင်ဆောင်သည်",
+      "meaning_en": "give a ride, take on"
+    },
+    {
+      "#": 158,
+      "no": 9696,
+      "romaji": "oriru",
+      "kana": "おりる",
+      "kanji": "降りる",
+      "meaning_mm": "ဆင်းသည်",
+      "meaning_en": "get off, go down, be shut, receive (approval, etc)"
+    },
+    {
+      "#": 159,
+      "no": 9697,
+      "romaji": "orosu",
+      "kana": "おろす",
+      "kanji": "降ろす",
+      "meaning_mm": "ချသည် ၊ တာဝန်မှရပ်စဲသည်",
+      "meaning_en": "drop (someone) off, take down, lower, withdraw"
+    },
+    {
+      "#": 160,
+      "no": 9698,
+      "romaji": "naoru",
+      "kana": "なおる",
+      "kanji": "直る",
+      "meaning_mm": "ကောင်းလာသည်",
+      "meaning_en": "be fixed, improve"
+    },
+    {
+      "#": 161,
+      "no": 9699,
+      "romaji": "naosu",
+      "kana": "なおす",
+      "kanji": "直す",
+      "meaning_mm": "ပြုပြင်သည်",
+      "meaning_en": "fix, correct, translate"
+    },
+    {
+      "#": 162,
+      "no": 9700,
+      "romaji": "naoru",
+      "kana": "なおる",
+      "kanji": "治る",
+      "meaning_mm": "ပျောက်သည်(ရောဂါ)",
+      "meaning_en": "get better"
+    },
+    {
+      "#": 163,
+      "no": 9701,
+      "romaji": "naosu",
+      "kana": "なおす",
+      "kanji": "治す",
+      "meaning_mm": "ပြုပြင်သည်၊ ဆေးကုသပေးသည်",
+      "meaning_en": "cure, recover"
+    },
+    {
+      "#": 164,
+      "no": 9702,
+      "romaji": "nakunaru",
+      "kana": "なくなる",
+      "kanji": "亡くなる",
+      "meaning_mm": "သေဆုံးသည်",
+      "meaning_en": "die"
+    },
+    {
+      "#": 165,
+      "no": 9703,
+      "romaji": "nakusu",
+      "kana": "なくす",
+      "kanji": "亡くす",
+      "meaning_mm": "ဆုံးရှုံးသည်(တစုံတစ်ယောက်သေဆုံး၍ ထိုသူအားဆုံးရှုံးလိုက်ရခြင်း)",
+      "meaning_en": "lose (someone)"
+    },
+    {
+      "#": 166,
+      "no": 9704,
+      "romaji": "umareru",
+      "kana": "うまれる",
+      "kanji": "生まれる",
+      "meaning_mm": "မွေးဖွားသည်",
+      "meaning_en": "be born, be created"
+    },
+    {
+      "#": 167,
+      "no": 9705,
+      "romaji": "umu",
+      "kana": "うむ",
+      "kanji": "生む",
+      "meaning_mm": "မွေးသည်(ကလေးမွေးသည်)",
+      "meaning_en": "give birth, create"
+    },
+    {
+      "#": 168,
+      "no": 9706,
+      "romaji": "deau",
+      "kana": "であう",
+      "kanji": "出会う",
+      "meaning_mm": "တွေ့ဆုံသည်",
+      "meaning_en": "meet (by chance)"
+    },
+    {
+      "#": 169,
+      "no": 9707,
+      "romaji": "tazuneru",
+      "kana": "たずねる",
+      "kanji": "訪ねる",
+      "meaning_mm": "အလည်သွားသည်",
+      "meaning_en": "visit"
+    },
+    {
+      "#": 170,
+      "no": 9708,
+      "romaji": "tsukiau",
+      "kana": "つきあう",
+      "kanji": "付き合う",
+      "meaning_mm": "ပေါင်းသင်းဆက်ဆံသည်",
+      "meaning_en": "associate with, keep company with, date"
+    },
+    {
+      "#": 171,
+      "no": 9709,
+      "romaji": "kiku",
+      "kana": "きく",
+      "kanji": "効く",
+      "meaning_mm": "ထိရောက်မှုရှိသည်",
+      "meaning_en": "be effective, work right"
+    },
+    {
+      "#": 172,
+      "no": 9710,
+      "romaji": "hayaru",
+      "kana": "はやる",
+      "kanji": "はやる",
+      "meaning_mm": "ရေပန်းစားသည်၊လူပြောများသည်",
+      "meaning_en": "be popular, (disease) spreads"
+    },
+    {
+      "#": 173,
+      "no": 9711,
+      "romaji": "tatsu",
+      "kana": "たつ",
+      "kanji": "経つ",
+      "meaning_mm": "ကြာညောင်းသည်",
+      "meaning_en": "elapse, pass"
+    },
+    {
+      "#": 174,
+      "no": 9712,
+      "romaji": "maniau",
+      "kana": "まにあう",
+      "kanji": "間に合う",
+      "meaning_mm": "အချိန်မှီသည်",
+      "meaning_en": "make it on time"
+    },
+    {
+      "#": 175,
+      "no": 9713,
+      "romaji": "maniawaseru",
+      "kana": "まにあわせる",
+      "kanji": "間に合わせる",
+      "meaning_mm": "အချိန်မှီစေသည်",
+      "meaning_en": "finish on time"
+    },
+    {
+      "#": 176,
+      "no": 9714,
+      "romaji": "kayou",
+      "kana": "かよう",
+      "kanji": "通う",
+      "meaning_mm": "သွားလာသည်",
+      "meaning_en": "commute, go regularly, understand (someone’s feelings)"
+    },
+    {
+      "#": 177,
+      "no": 9715,
+      "romaji": "komu",
+      "kana": "こむ",
+      "kanji": "込む",
+      "meaning_mm": "ပြည့်ကျပ်သည်",
+      "meaning_en": "be crowded"
+    },
+    {
+      "#": 178,
+      "no": 9716,
+      "romaji": "surechiausurechigau",
+      "kana": "すれちがう",
+      "kanji": "すれ違う",
+      "meaning_mm": "တစ်ယောက်နှင့်တစ်ယောက်မျက်နှာချင်းဆိုင်ဘေးတိုက်ဖြတ်လျှောက်သည်၊လမ်းလွဲချော်သည်",
+      "meaning_en": "pass each other, miss"
+    },
+    {
+      "#": 179,
+      "no": 9717,
+      "romaji": "kakaru",
+      "kana": "かかる",
+      "kanji": "掛かる",
+      "meaning_mm": "ချိတ်ထားသည်၊အားကျရောက်သည် ၊ ထောင်ချောက်ဆင်သည်",
+      "meaning_en": "be covered, take (time, money, etc), engine starts"
+    },
+    {
+      "#": 180,
+      "no": 9718,
+      "romaji": "kakeru",
+      "kana": "かける",
+      "kanji": "掛ける",
+      "meaning_mm": "ချိတ်သည်၊မြှောက်သည်",
+      "meaning_en": "cover, take one’s time, start (an engine) multiply"
+    },
+    {
+      "#": 181,
+      "no": 9719,
+      "romaji": "ugoku",
+      "kana": "うごく",
+      "kanji": "動く",
+      "meaning_mm": "လှုပ်ရှားသည်",
+      "meaning_en": "move, work, take action"
+    },
+    {
+      "#": 182,
+      "no": 9720,
+      "romaji": "ugokasu",
+      "kana": "うごかす",
+      "kanji": "動かす",
+      "meaning_mm": "လှုပ်ရှားစေသည် ၊ နေရာပြောင်းစေသည်။ ပစ္စည်းကိုလှုပ်ရမ်းသည်။",
+      "meaning_en": "move, work ( a machine), set in motion"
+    },
+    {
+      "#": 183,
+      "no": 9721,
+      "romaji": "hanareru",
+      "kana": "はなれる",
+      "kanji": "離れる",
+      "meaning_mm": "ကွဲကွာသည်",
+      "meaning_en": "be away from, be apart (in age, etc)"
+    },
+    {
+      "#": 184,
+      "no": 9722,
+      "romaji": "hanasu",
+      "kana": "はなす",
+      "kanji": "離す",
+      "meaning_mm": "ခွာသည်၊ ခွဲခွာသည်",
+      "meaning_en": "move apart, let go"
+    },
+    {
+      "#": 185,
+      "no": 9723,
+      "romaji": "butsukaru",
+      "kana": "ぶつかる",
+      "kanji": "ぶつかる",
+      "meaning_mm": "တိုက်မိသည်",
+      "meaning_en": "collide, disagree, conflict"
+    },
+    {
+      "#": 186,
+      "no": 9724,
+      "romaji": "butsukeru",
+      "kana": "ぶつける",
+      "kanji": "ぶつける",
+      "meaning_mm": "ဝင်ဆောင့်သည်",
+      "meaning_en": "crash into"
+    },
+    {
+      "#": 187,
+      "no": 9725,
+      "romaji": "koboreru",
+      "kana": "こぼれる",
+      "kanji": "こぼれる",
+      "meaning_mm": "ဖိတ်ကျသည်၊ပြည့်လျှံကျသည်",
+      "meaning_en": "be spilled, (tears) are shed"
+    },
+    {
+      "#": 188,
+      "no": 9726,
+      "romaji": "kobosu",
+      "kana": "こぼす",
+      "kanji": "こぼす",
+      "meaning_mm": "ဖိတ်ကျစေသည်",
+      "meaning_en": "spill, shed (tears)"
+    },
+    {
+      "#": 189,
+      "no": 9727,
+      "romaji": "fuku",
+      "kana": "ふく",
+      "kanji": "ふく",
+      "meaning_mm": "သုတ်သည်",
+      "meaning_en": "wipe"
+    },
+    {
+      "#": 190,
+      "no": 9728,
+      "romaji": "katazuku",
+      "kana": "かたづく",
+      "kanji": "片付く",
+      "meaning_mm": "ပြေအေးသည်၊သိမ်းဆည်းထား၍ရှင်းလာသည်",
+      "meaning_en": "be tidied, be finished, be settled"
+    },
+    {
+      "#": 191,
+      "no": 9729,
+      "romaji": "katazukeru",
+      "kana": "かたづける",
+      "kanji": "片付ける",
+      "meaning_mm": "သိမ်းဆည်းသည်။ရှင်းလင်းသည်",
+      "meaning_en": "tidy, finish, settle"
+    },
+    {
+      "#": 192,
+      "no": 9730,
+      "romaji": "tsutsumu",
+      "kana": "つつむ",
+      "kanji": "包む",
+      "meaning_mm": "ထုပ်ပိုးသည်",
+      "meaning_en": "wrap"
+    },
+    {
+      "#": 193,
+      "no": 9731,
+      "romaji": "haru",
+      "kana": "はる",
+      "kanji": "張る",
+      "meaning_mm": "ကြွားဝါသည်",
+      "meaning_en": "put up ( a poster), affix"
+    },
+    {
+      "#": 194,
+      "no": 9732,
+      "romaji": "nakunaru",
+      "kana": "なくなる",
+      "kanji": "無くなる",
+      "meaning_mm": "ပျောက်သွားသည်",
+      "meaning_en": "be lost"
+    },
+    {
+      "#": 195,
+      "no": 9733,
+      "romaji": "nakusu",
+      "kana": "なくす",
+      "kanji": "無くす",
+      "meaning_mm": "ပျောက်ဆုံးသည်၊ဆုံးရှုံးသည်",
+      "meaning_en": "lose"
+    },
+    {
+      "#": 196,
+      "no": 9734,
+      "romaji": "tariru",
+      "kana": "たりる",
+      "kanji": "足りる",
+      "meaning_mm": "လုံလောက်သည်",
+      "meaning_en": "be sufficient"
+    },
+    {
+      "#": 197,
+      "no": 9735,
+      "romaji": "nokoru",
+      "kana": "のこる",
+      "kanji": "残る",
+      "meaning_mm": "ကျန်သည်",
+      "meaning_en": "be left over, remain"
+    },
+    {
+      "#": 198,
+      "no": 9736,
+      "romaji": "nokosu",
+      "kana": "のこす",
+      "kanji": "残す",
+      "meaning_mm": "ချန်သည်",
+      "meaning_en": "not finish (eating), only (something) remains, leave behind"
+    },
+    {
+      "#": 199,
+      "no": 9737,
+      "romaji": "kusaru",
+      "kana": "くさる",
+      "kanji": "腐る",
+      "meaning_mm": "ပုပ်သိုးသည်",
+      "meaning_en": "rot"
+    },
+    {
+      "#": 200,
+      "no": 9738,
+      "romaji": "mukeru",
+      "kana": "むける",
+      "kanji": "むける",
+      "meaning_mm": "ကွာသည်",
+      "meaning_en": "peel off"
+    },
+    {
+      "#": 201,
+      "no": 9739,
+      "romaji": "muku",
+      "kana": "むく",
+      "kanji": "むく",
+      "meaning_mm": "ခွာသည်",
+      "meaning_en": "peel"
+    },
+    {
+      "#": 202,
+      "no": 9740,
+      "romaji": "suberu",
+      "kana": "すべる",
+      "kanji": "滑る",
+      "meaning_mm": "ချော်သည်",
+      "meaning_en": "skate, slip"
+    },
+    {
+      "#": 203,
+      "no": 9741,
+      "romaji": "tsumoru",
+      "kana": "つもる",
+      "kanji": "積もる",
+      "meaning_mm": "စုပုံသည်",
+      "meaning_en": "accumulate"
+    },
+    {
+      "#": 204,
+      "no": 9742,
+      "romaji": "tsumu",
+      "kana": "つむ",
+      "kanji": "積む",
+      "meaning_mm": "ပုံံသည်၊ စုပုံသည်",
+      "meaning_en": "pile, lay (bricks), load, accumulate"
+    },
+    {
+      "#": 205,
+      "no": 9743,
+      "romaji": "aku",
+      "kana": "あく",
+      "kanji": "空く",
+      "meaning_mm": "လစ်လပ်သည်",
+      "meaning_en": "(a hole) opens, be vacant, be available"
+    },
+    {
+      "#": 206,
+      "no": 9744,
+      "romaji": "akeru",
+      "kana": "あける",
+      "kanji": "空ける",
+      "meaning_mm": "မိုးလင်းသည်",
+      "meaning_en": "open ( a hole), vacate (a seat), keep open (a date)"
+    },
+    {
+      "#": 207,
+      "no": 9745,
+      "romaji": "sagaru",
+      "kana": "さがる",
+      "kanji": "下がる",
+      "meaning_mm": "ကျဆင်းသည်",
+      "meaning_en": "go down, step back"
+    },
+    {
+      "#": 208,
+      "no": 9746,
+      "romaji": "sageru",
+      "kana": "さげる",
+      "kanji": "下げる",
+      "meaning_mm": "ချသည်",
+      "meaning_en": "lower, take away"
+    },
+    {
+      "#": 209,
+      "no": 9747,
+      "romaji": "hieru",
+      "kana": "ひえる",
+      "kanji": "冷える",
+      "meaning_mm": "အေးစက်သည်",
+      "meaning_en": "be chilled, feel chilly"
+    },
+    {
+      "#": 210,
+      "no": 9748,
+      "romaji": "hiyasu",
+      "kana": "ひやす",
+      "kanji": "冷やす",
+      "meaning_mm": "အအေးခံသည်",
+      "meaning_en": "chill, calm down"
+    },
+    {
+      "#": 211,
+      "no": 9749,
+      "romaji": "sameru",
+      "kana": "さめる",
+      "kanji": "冷める",
+      "meaning_mm": "အအေးခံသည်",
+      "meaning_en": "get cold, lose passion"
+    },
+    {
+      "#": 212,
+      "no": 9750,
+      "romaji": "samasu",
+      "kana": "さます",
+      "kanji": "冷ます",
+      "meaning_mm": "အေးစေသည်",
+      "meaning_en": "allow (something) to cool"
+    },
+    {
+      "#": 213,
+      "no": 9751,
+      "romaji": "moeru",
+      "kana": "もえる",
+      "kanji": "燃える",
+      "meaning_mm": "မီးလောင်သည်",
+      "meaning_en": "burn, be passionate"
+    },
+    {
+      "#": 214,
+      "no": 9752,
+      "romaji": "moyasu",
+      "kana": "もやす",
+      "kanji": "燃やす",
+      "meaning_mm": "မီးရှို့သည်",
+      "meaning_en": "burn (something), burn with ( passion, etc)"
+    },
+    {
+      "#": 215,
+      "no": 9753,
+      "romaji": "waku",
+      "kana": "わく",
+      "kanji": "沸く",
+      "meaning_mm": "ဆူပွက်သည်",
+      "meaning_en": "boil, (bath) is ready, become excited"
+    },
+    {
+      "#": 216,
+      "no": 9754,
+      "romaji": "wakasu",
+      "kana": "わかす",
+      "kanji": "沸かす",
+      "meaning_mm": "ရေနွေးကျိုသည်",
+      "meaning_en": "boil, prepare (a bath), excite"
+    },
+    {
+      "#": 217,
+      "no": 9755,
+      "romaji": "naru",
+      "kana": "なる",
+      "kanji": "鳴る",
+      "meaning_mm": "မြည်သည်",
+      "meaning_en": "rumble, ring"
+    },
+    {
+      "#": 218,
+      "no": 9756,
+      "romaji": "narasu",
+      "kana": "ならす",
+      "kanji": "鳴らす",
+      "meaning_mm": "တီးသည်",
+      "meaning_en": "sound (buzzer)"
+    },
+    {
+      "#": 219,
+      "no": 9757,
+      "romaji": "yakudatsu",
+      "kana": "やくだつ",
+      "kanji": "役立つ",
+      "meaning_mm": "အသုံးဝင်သည်",
+      "meaning_en": "be helpful, be of use"
+    },
+    {
+      "#": 220,
+      "no": 9758,
+      "romaji": "yakudateru",
+      "kana": "やくだてる",
+      "kanji": "役立てる",
+      "meaning_mm": "အသုံးဝင်စေသည်",
+      "meaning_en": "put to use"
+    },
+    {
+      "#": 221,
+      "no": 9759,
+      "romaji": "kazari",
+      "kana": "かざり",
+      "kanji": "飾り",
+      "meaning_mm": "အဆင်တန်ဆာ",
+      "meaning_en": "decoration"
+    },
+    {
+      "#": 222,
+      "no": 9760,
+      "romaji": "asobi",
+      "kana": "あそび",
+      "kanji": "遊び",
+      "meaning_mm": "ကစားခြင်း",
+      "meaning_en": "game, play"
+    },
+    {
+      "#": 223,
+      "no": 9761,
+      "romaji": "atsumari",
+      "kana": "あつまり",
+      "kanji": "集まり",
+      "meaning_mm": "စုစည်းခြင်း",
+      "meaning_en": "gathering"
+    },
+    {
+      "#": 224,
+      "no": 9762,
+      "romaji": "oshie",
+      "kana": "おしえ",
+      "kanji": "教え",
+      "meaning_mm": "သွန်သင်ဆုံးမမှု",
+      "meaning_en": "teachings"
+    },
+    {
+      "#": 225,
+      "no": 9763,
+      "romaji": "odori",
+      "kana": "おどり",
+      "kanji": "踊り",
+      "meaning_mm": "အက",
+      "meaning_en": "dance"
+    },
+    {
+      "#": 226,
+      "no": 9764,
+      "romaji": "omoi",
+      "kana": "おもい",
+      "kanji": "思い",
+      "meaning_mm": "အတွေး၊ ခံစားချက်",
+      "meaning_en": "thoughts, feelings"
+    },
+    {
+      "#": 227,
+      "no": 9765,
+      "romaji": "kangae",
+      "kana": "かんがえ",
+      "kanji": "考え",
+      "meaning_mm": "စဉ်းစားမှု",
+      "meaning_en": "thought, idea"
+    },
+    {
+      "#": 228,
+      "no": 9766,
+      "romaji": "katazuke",
+      "kana": "かたづけ",
+      "kanji": "片づけ",
+      "meaning_mm": "သိမ်းဆည်းခြင်း",
+      "meaning_en": "tidying, disposal"
+    },
+    {
+      "#": 229,
+      "no": 9767,
+      "romaji": "tetsudai",
+      "kana": "てつだい",
+      "kanji": "手伝い",
+      "meaning_mm": "ကူညီမှု",
+      "meaning_en": "help"
+    },
+    {
+      "#": 230,
+      "no": 9768,
+      "romaji": "hataraki",
+      "kana": "はたらき",
+      "kanji": "働き",
+      "meaning_mm": "အလုပ်၊ အကျိုးပြုခြင်း",
+      "meaning_en": "function, action"
+    },
+    {
+      "#": 231,
+      "no": 9769,
+      "romaji": "kimari",
+      "kana": "きまり",
+      "kanji": "決まり",
+      "meaning_mm": "သတ်မှတ်ချက်စည်းကမ်း",
+      "meaning_en": "rule"
+    },
+    {
+      "#": 232,
+      "no": 9770,
+      "romaji": "sawagi",
+      "kana": "さわぎ",
+      "kanji": "騒ぎ",
+      "meaning_mm": "ဆူပူမှု",
+      "meaning_en": "commotion, trouble"
+    },
+    {
+      "#": 233,
+      "no": 9771,
+      "romaji": "shirase",
+      "kana": "しらせ",
+      "kanji": "知らせ",
+      "meaning_mm": "အသိပေးသည်",
+      "meaning_en": "notification, news"
+    },
+    {
+      "#": 234,
+      "no": 9772,
+      "romaji": "tanomi",
+      "kana": "たのみ",
+      "kanji": "頼み",
+      "meaning_mm": "တောင်းဆိုချက်",
+      "meaning_en": "request"
+    },
+    {
+      "#": 235,
+      "no": 9773,
+      "romaji": "tsukare",
+      "kana": "つかれ",
+      "kanji": "疲れ",
+      "meaning_mm": "ပင်ပန်းခြင်း၊ မောပန်းခြင်း",
+      "meaning_en": "fatigue"
+    },
+    {
+      "#": 236,
+      "no": 9774,
+      "romaji": "chigai",
+      "kana": "ちがい",
+      "kanji": "違い",
+      "meaning_mm": "ခြားနားချက်၊ ကွာခြားချက်",
+      "meaning_en": "difference"
+    },
+    {
+      "#": 237,
+      "no": 9775,
+      "romaji": "hajime",
+      "kana": "はじめ",
+      "kanji": "始め",
+      "meaning_mm": "အစ",
+      "meaning_en": "beginning"
+    },
+    {
+      "#": 238,
+      "no": 9776,
+      "romaji": "tsuzuki",
+      "kana": "つづき",
+      "kanji": "続き",
+      "meaning_mm": "အဆက်",
+      "meaning_en": "continutation, remainder"
+    },
+    {
+      "#": 239,
+      "no": 9777,
+      "romaji": "kure",
+      "kana": "くれ",
+      "kanji": "暮れ",
+      "meaning_mm": "နေဝင်အချိန်",
+      "meaning_en": "end (of the year)"
+    },
+    {
+      "#": 240,
+      "no": 9778,
+      "romaji": "iki",
+      "kana": "いき",
+      "kanji": "行き",
+      "meaning_mm": "အသွား၊ အသွားခရီး",
+      "meaning_en": "going"
+    },
+    {
+      "#": 241,
+      "no": 9779,
+      "romaji": "kaeri",
+      "kana": "かえり",
+      "kanji": "帰り",
+      "meaning_mm": "အပြန်",
+      "meaning_en": "returning"
+    },
+    {
+      "#": 242,
+      "no": 9780,
+      "romaji": "isogi",
+      "kana": "いそぎ",
+      "kanji": "急ぎ",
+      "meaning_mm": "အလျင်စလိုဖြစ်ခြင်း",
+      "meaning_en": "urgency"
+    },
+    {
+      "#": 243,
+      "no": 9781,
+      "romaji": "okure",
+      "kana": "おくれ",
+      "kanji": "遅れ",
+      "meaning_mm": "နောက်ကျသည်",
+      "meaning_en": "delay"
+    },
+    {
+      "#": 244,
+      "no": 9782,
+      "romaji": "kashi",
+      "kana": "かし",
+      "kanji": "貸し",
+      "meaning_mm": "ချေးငှားမှု",
+      "meaning_en": "loan, lending"
+    },
+    {
+      "#": 245,
+      "no": 9783,
+      "romaji": "kari",
+      "kana": "かり",
+      "kanji": "借り",
+      "meaning_mm": "ချေးငှားခြင်း",
+      "meaning_en": "debt, borrowing"
+    },
+    {
+      "#": 246,
+      "no": 9784,
+      "romaji": "kachi",
+      "kana": "かち",
+      "kanji": "勝ち",
+      "meaning_mm": "အနိုင်ရခြင်း",
+      "meaning_en": "victory"
+    },
+    {
+      "#": 247,
+      "no": 9785,
+      "romaji": "make",
+      "kana": "まけ",
+      "kanji": "負け",
+      "meaning_mm": "ရှုံးသည်",
+      "meaning_en": "defeat"
+    },
+    {
+      "#": 248,
+      "no": 9786,
+      "romaji": "mukae",
+      "kana": "むかえ",
+      "kanji": "迎え",
+      "meaning_mm": "ကြိုဆိုသည်၊ ခရီးဦးကြိုဆိုခြင်း",
+      "meaning_en": "picking up"
+    },
+    {
+      "#": 249,
+      "no": 9787,
+      "romaji": "hajimari",
+      "kana": "はじまり",
+      "kanji": "始まり",
+      "meaning_mm": "အစ",
+      "meaning_en": "beginning"
+    },
+    {
+      "#": 250,
+      "no": 9788,
+      "romaji": "owari",
+      "kana": "おわり",
+      "kanji": "終わり",
+      "meaning_mm": "ပြီးဆုံးမှု",
+      "meaning_en": "end"
+    },
+    {
+      "#": 251,
+      "no": 9789,
+      "romaji": "modori",
+      "kana": "もどり",
+      "kanji": "戻り",
+      "meaning_mm": "ပြန်လည်ရောက်ရှိခြင်း",
+      "meaning_en": "return"
+    },
+    {
+      "#": 252,
+      "no": 9790,
+      "romaji": "wakare",
+      "kana": "わかれ",
+      "kanji": "別れ",
+      "meaning_mm": "ကွဲကွာမှု",
+      "meaning_en": "parting"
+    },
+    {
+      "#": 253,
+      "no": 9791,
+      "romaji": "yorokobi",
+      "kana": "よろこび",
+      "kanji": "喜び",
+      "meaning_mm": "ဝမ်းသာမှု၊ပျော်ရွှင်မှု၊ပီတိ",
+      "meaning_en": "joy"
+    },
+    {
+      "#": 254,
+      "no": 9792,
+      "romaji": "tanoshimi",
+      "kana": "たのしみ",
+      "kanji": "楽しみ",
+      "meaning_mm": "ပျော်ရွှင်မှု",
+      "meaning_en": "fun"
+    },
+    {
+      "#": 255,
+      "no": 9793,
+      "romaji": "warai",
+      "kana": "わらい",
+      "kanji": "笑い",
+      "meaning_mm": "ရယ်မောခြင်း",
+      "meaning_en": "laughter"
+    },
+    {
+      "#": 256,
+      "no": 9794,
+      "romaji": "odoroki",
+      "kana": "おどろき",
+      "kanji": "驚き",
+      "meaning_mm": "ထိတ်လန့်ခြင်း",
+      "meaning_en": "surprise"
+    },
+    {
+      "#": 257,
+      "no": 9795,
+      "romaji": "ikari",
+      "kana": "いかり",
+      "kanji": "怒り",
+      "meaning_mm": "ဒေါသ",
+      "meaning_en": "anger"
+    },
+    {
+      "#": 258,
+      "no": 9796,
+      "romaji": "kanashimi",
+      "kana": "かなしみ",
+      "kanji": "悲しみ",
+      "meaning_mm": "ဝမ်းနည်းပူဆွေးခြင်း",
+      "meaning_en": "sadness"
+    },
+    {
+      "#": 259,
+      "no": 9797,
+      "romaji": "shiawasena",
+      "kana": "しあわせな",
+      "kanji": "幸せな",
+      "meaning_mm": "ချမ်းသာသုခရှိသော၊စိတ်ချမ်းသာသော",
+      "meaning_en": "happy"
+    },
+    {
+      "#": 260,
+      "no": 9798,
+      "romaji": "tokuina",
+      "kana": "とくいな",
+      "kanji": "得意な",
+      "meaning_mm": "ထူးချွန်သော၊ကျွမ်းကျင်သော၊တတ်ကျွမ်းသော",
+      "meaning_en": "strong, proud, smug"
+    },
+    {
+      "#": 261,
+      "no": 9799,
+      "romaji": "nigatena",
+      "kana": "にがてな",
+      "kanji": "苦手な",
+      "meaning_mm": "အားနည်းသော၊မကျွမ်းကျင်သော၊မသက်မသာဖြစ်သော",
+      "meaning_en": "weak, uncomfortable, unable to take"
+    },
+    {
+      "#": 262,
+      "no": 9800,
+      "romaji": "nesshinna",
+      "kana": "ねっしんな",
+      "kanji": "熱心な",
+      "meaning_mm": "စိတ်အားထက်သန်သော၊စိတ်ပါဝင်စားသော",
+      "meaning_en": "passionate"
+    },
+    {
+      "#": 263,
+      "no": 9801,
+      "romaji": "muchuuna",
+      "kana": "むちゅうな",
+      "kanji": "夢中な",
+      "meaning_mm": "စွဲလမ်းသော၊စိတ်ပါဝင်စားသော",
+      "meaning_en": "crazy, enamored"
+    },
+    {
+      "#": 264,
+      "no": 9802,
+      "romaji": "taikutsuna",
+      "kana": "たいくつな",
+      "kanji": "退屈な",
+      "meaning_mm": "ပျင်းရိငြီးငွေ့သော",
+      "meaning_en": "boring"
+    },
+    {
+      "#": 265,
+      "no": 9803,
+      "romaji": "kenkōna",
+      "kana": "けんこうな",
+      "kanji": "健康な",
+      "meaning_mm": "ကျန်းမာသန်စွမ်းသော",
+      "meaning_en": "healthy"
+    },
+    {
+      "#": 266,
+      "no": 9804,
+      "romaji": "kurushii",
+      "kana": "くるしい",
+      "kanji": "苦しい",
+      "meaning_mm": "ပင်ပန်းသောဝေဒနာရှိသော၊ စိတ်သောကရှိသော၊",
+      "meaning_en": "rough, agonizing"
+    },
+    {
+      "#": 267,
+      "no": 9805,
+      "romaji": "eikina",
+      "kana": "へいきな",
+      "kanji": "平気な",
+      "meaning_mm": "မဖြုံသော၊အရေးမစိုက်သော",
+      "meaning_en": "unfazed, brazen"
+    },
+    {
+      "#": 268,
+      "no": 9806,
+      "romaji": "kuyashii",
+      "kana": "くやしい",
+      "kanji": "悔しい",
+      "meaning_mm": "ခံပြင်းသော",
+      "meaning_en": "frustrating"
+    },
+    {
+      "#": 269,
+      "no": 9807,
+      "romaji": "urayamashii",
+      "kana": "うらやましい",
+      "kanji": "うらやましい",
+      "meaning_mm": "အားကျသော",
+      "meaning_en": "envious"
+    },
+    {
+      "#": 270,
+      "no": 9808,
+      "romaji": "kayui",
+      "kana": "かゆい",
+      "kanji": "かゆい",
+      "meaning_mm": "ယားယံသော",
+      "meaning_en": "itchy"
+    },
+    {
+      "#": 271,
+      "no": 9809,
+      "romaji": "otonashii",
+      "kana": "おとなしい",
+      "kanji": "おとなしい",
+      "meaning_mm": "တည်ငြိမ်သော၊တည်ကြည်သော",
+      "meaning_en": "quiet, subdued"
+    },
+    {
+      "#": 272,
+      "no": 9810,
+      "romaji": "gamanzuyoi",
+      "kana": "がまんづよい",
+      "kanji": "我慢強い",
+      "meaning_mm": "သည်းခံနိုင်မှုပြင်းသော၊ စိတ်ရှည်သော",
+      "meaning_en": "perservant"
+    },
+    {
+      "#": 273,
+      "no": 9811,
+      "romaji": "shōjikina",
+      "kana": "しょうじきな",
+      "kanji": "正直な",
+      "meaning_mm": "ရိုးသားဖြောင့်မတ်သော",
+      "meaning_en": "honest"
+    },
+    {
+      "#": 274,
+      "no": 9812,
+      "romaji": "kechina",
+      "kana": "けちな",
+      "kanji": "けちな",
+      "meaning_mm": "ကပ်စေးနှဲသော",
+      "meaning_en": "stingy"
+    },
+    {
+      "#": 275,
+      "no": 9813,
+      "romaji": "wagamamana",
+      "kana": "わがままな",
+      "kanji": "我儘な",
+      "meaning_mm": "တကိုယ်ကောင်းဆန်သော",
+      "meaning_en": "selfish"
+    },
+    {
+      "#": 276,
+      "no": 9814,
+      "romaji": "sekkyokutekina",
+      "kana": "せっきょくてきな",
+      "kanji": "積極的な",
+      "meaning_mm": "စိတ်ပါလက်ပါဖြစ်သော၊တက်တက်ကြွကြွလုပ်ဆောင်တတ်သော",
+      "meaning_en": "active, positive"
+    },
+    {
+      "#": 277,
+      "no": 9815,
+      "romaji": "shiyoukyokutekina",
+      "kana": "しょうきょくてきな",
+      "kanji": "消極的な",
+      "meaning_mm": "တက်ကြွမှုမရှိဘဲအငြင်းသဘောဆောင်တတ်သော",
+      "meaning_en": "passive, negative"
+    },
+    {
+      "#": 278,
+      "no": 9816,
+      "romaji": "manzokuna",
+      "kana": "まんぞくな",
+      "kanji": "満足な",
+      "meaning_mm": "ကျေနပ်သော၊တင်းတိမ်ရောင့်ရဲသော",
+      "meaning_en": "satisfying, contented"
+    },
+    {
+      "#": 279,
+      "no": 9817,
+      "romaji": "fumanna",
+      "kana": "ふまんな",
+      "kanji": "不満な",
+      "meaning_mm": "တင်းတိမ်ရောင့်ရဲမှုမရှိသော၊မကျေနပ်နိုင်သော",
+      "meaning_en": "dissatisfying, discontented"
+    },
+    {
+      "#": 280,
+      "no": 9818,
+      "romaji": "fuanna",
+      "kana": "ふあんな",
+      "kanji": "不安な",
+      "meaning_mm": "စိုးရိမ်သော၊စိတ်မချသော",
+      "meaning_en": "worrisome, uneasy"
+    },
+    {
+      "#": 281,
+      "no": 9819,
+      "romaji": "taihenna",
+      "kana": "たいへんな",
+      "kanji": "大変な",
+      "meaning_mm": "မလွယ်ကူသော၊ကြမ်းတမ်းသော",
+      "meaning_en": "tough, awful"
+    },
+    {
+      "#": 282,
+      "no": 9820,
+      "romaji": "murina",
+      "kana": "むりな",
+      "kanji": "無理な",
+      "meaning_mm": "မဖြစ်နိုင်သော",
+      "meaning_en": "impossible, by force"
+    },
+    {
+      "#": 283,
+      "no": 9821,
+      "romaji": "fuchiyuuina",
+      "kana": "ふちゅういな",
+      "kanji": "不注意な",
+      "meaning_mm": "သတိမပြုမိသော၊သတိမမူမိသော၊သတိမထားမိသော",
+      "meaning_en": "careless"
+    },
+    {
+      "#": 284,
+      "no": 9822,
+      "romaji": "rakuna",
+      "kana": "らくな",
+      "kanji": "楽な",
+      "meaning_mm": "သက်သာသော၊လွယ်ကူသော",
+      "meaning_en": "easy"
+    },
+    {
+      "#": 285,
+      "no": 9823,
+      "romaji": "mendōna",
+      "kana": "めんどうな",
+      "kanji": "面倒な",
+      "meaning_mm": "အလုပ်ရှုပ်သော",
+      "meaning_en": "troublesome"
+    },
+    {
+      "#": 286,
+      "no": 9824,
+      "romaji": "shitsureina",
+      "kana": "しつれいな",
+      "kanji": "失礼な",
+      "meaning_mm": "ရိုင်းစိုင်းသော",
+      "meaning_en": "rude"
+    },
+    {
+      "#": 287,
+      "no": 9825,
+      "romaji": "tōzenna",
+      "kana": "とうぜんな",
+      "kanji": "当然な",
+      "meaning_mm": "မထူးဆန်းသော၊မျှော်မှန်းထားသည့်အတိုင်းဖြစ်သော",
+      "meaning_en": "natural, expected"
+    },
+    {
+      "#": 288,
+      "no": 9826,
+      "romaji": "igaina",
+      "kana": "いがいな",
+      "kanji": "意外な",
+      "meaning_mm": "မျှော်မှန်းထားသည်နှင့်ကွဲလွဲနေသော",
+      "meaning_en": "unexpected, surprising"
+    },
+    {
+      "#": 289,
+      "no": 9827,
+      "romaji": "kekkōna",
+      "kana": "けっこうな",
+      "kanji": "結構な",
+      "meaning_mm": "အတော်အသင့်များသော",
+      "meaning_en": "nice, fine, No, thank you"
+    },
+    {
+      "#": 290,
+      "no": 9828,
+      "romaji": "hadena",
+      "kana": "はでな",
+      "kanji": "派手な",
+      "meaning_mm": "တောက်ပသော၊ထင်ရှားသော",
+      "meaning_en": "flash, fancy"
+    },
+    {
+      "#": 291,
+      "no": 9829,
+      "romaji": "jimina",
+      "kana": "じみな",
+      "kanji": "地味な",
+      "meaning_mm": "မှေးမှိန်သော၊မထင်မရှားဖြစ်သော",
+      "meaning_en": "plain"
+    },
+    {
+      "#": 292,
+      "no": 9830,
+      "romaji": "osharena",
+      "kana": "おしゃれな",
+      "kanji": "おしゃれな",
+      "meaning_mm": "စတိုင်လ်ကောင်းသော၊ဖက်ရှင်ကျသော",
+      "meaning_en": "stylish, fashionable"
+    },
+    {
+      "#": 293,
+      "no": 9831,
+      "romaji": "henna",
+      "kana": "へんな",
+      "kanji": "変な",
+      "meaning_mm": "ထူးဆန်းသော၊တမျိုးဖြစ်နေသော",
+      "meaning_en": "weird"
+    },
+    {
+      "#": 294,
+      "no": 9832,
+      "romaji": "fushigina",
+      "kana": "ふしぎな",
+      "kanji": "不思議な",
+      "meaning_mm": "ထူးဆန်းသော",
+      "meaning_en": "strange, mysterious, miraculous"
+    },
+    {
+      "#": 295,
+      "no": 9833,
+      "romaji": "mashina",
+      "kana": "ましな",
+      "kanji": "ましな",
+      "meaning_mm": "ပိုကောင်းသော",
+      "meaning_en": "preferable, better"
+    },
+    {
+      "#": 296,
+      "no": 9834,
+      "romaji": "mudana",
+      "kana": "むだな",
+      "kanji": "むだな",
+      "meaning_mm": "အချည်းအနှီးဖြစ်သော၊အလဟဿဖြစ်သော",
+      "meaning_en": "futile, wasteful"
+    },
+    {
+      "#": 297,
+      "no": 9835,
+      "romaji": "jiyuuna",
+      "kana": "じゆうな",
+      "kanji": "自由な",
+      "meaning_mm": "လွတ်လပ်သော",
+      "meaning_en": "free"
+    },
+    {
+      "#": 298,
+      "no": 9836,
+      "romaji": "fujiyuuna",
+      "kana": "ふじゆうな",
+      "kanji": "不自由な",
+      "meaning_mm": "မလွတ်လပ်သော၊အဆင်မပြေသော",
+      "meaning_en": "impaired, inconvenient, disadvantaged"
+    },
+    {
+      "#": 299,
+      "no": 9837,
+      "romaji": "atatamaru",
+      "kana": "あたたまる",
+      "kanji": "温まる",
+      "meaning_mm": "နွေးလာသည်",
+      "meaning_en": "become warm"
+    },
+    {
+      "#": 300,
+      "no": 9838,
+      "romaji": "atatameru",
+      "kana": "あたためる",
+      "kanji": "温める",
+      "meaning_mm": "နွှေးသည်။ ပူအောင်လုပ်သည်",
+      "meaning_en": "warm, heat"
+    },
+    {
+      "#": 301,
+      "no": 9839,
+      "romaji": "takamaru",
+      "kana": "たかまる",
+      "kanji": "高まる",
+      "meaning_mm": "မြင့်လာသည်",
+      "meaning_en": "rise"
+    },
+    {
+      "#": 302,
+      "no": 9840,
+      "romaji": "takameru",
+      "kana": "たかめる",
+      "kanji": "高める",
+      "meaning_mm": "မြှင့်တင်သည်",
+      "meaning_en": "raise"
+    },
+    {
+      "#": 303,
+      "no": 9841,
+      "romaji": "tsuyomaru",
+      "kana": "つよまる",
+      "kanji": "強まる",
+      "meaning_mm": "အားပြင်းသည်",
+      "meaning_en": "strengthen"
+    },
+    {
+      "#": 304,
+      "no": 9842,
+      "romaji": "tsuyomeru",
+      "kana": "つよめる",
+      "kanji": "強める",
+      "meaning_mm": "အားပြင်းစေသည်",
+      "meaning_en": "strengthen, confirm"
+    },
+    {
+      "#": 305,
+      "no": 9843,
+      "romaji": "yowamaru",
+      "kana": "よわまる",
+      "kanji": "弱まる",
+      "meaning_mm": "အားလျော့သည်(လေမိုးနှင်းမုန်တိုင်းအစရှိသောအင်အား)",
+      "meaning_en": "weaken"
+    },
+    {
+      "#": 306,
+      "no": 9844,
+      "romaji": "yowameru",
+      "kana": "よわめる",
+      "kanji": "弱める",
+      "meaning_mm": "အားလျော့စေသည်",
+      "meaning_en": "weaken, reduce"
+    },
+    {
+      "#": 307,
+      "no": 9845,
+      "romaji": "hiromaru",
+      "kana": "ひろまる",
+      "kanji": "広まる",
+      "meaning_mm": "ပြန့်ပွားသည်၊ ကျယ်လာသည်",
+      "meaning_en": "spread"
+    },
+    {
+      "#": 308,
+      "no": 9846,
+      "romaji": "hiromeru",
+      "kana": "ひろめる",
+      "kanji": "広める",
+      "meaning_mm": "ဖြန့်သည်၊ ချဲ့သည်",
+      "meaning_en": "spread, popularize"
+    },
+    {
+      "#": 309,
+      "no": 9847,
+      "romaji": "fukamaru",
+      "kana": "ふかまる",
+      "kanji": "深まる",
+      "meaning_mm": "နက်ရှိုင်းလာသည်",
+      "meaning_en": "deepen"
+    },
+    {
+      "#": 310,
+      "no": 9848,
+      "romaji": "fukameru",
+      "kana": "ふかめる",
+      "kanji": "深める",
+      "meaning_mm": "နက်ရှိုင်းစေသည်",
+      "meaning_en": "deepen, cultivate"
+    },
+    {
+      "#": 311,
+      "no": 9849,
+      "romaji": "sewa",
+      "kana": "せわ",
+      "kanji": "世話",
+      "meaning_mm": "ကူညီစောင့်ရှောက်ပေးတဲ့အတွက်ကျေးဇူးတင်ပါတယ်",
+      "meaning_en": "care, support"
+    },
+    {
+      "#": 312,
+      "no": 9850,
+      "romaji": "katei",
+      "kana": "かてい",
+      "kanji": "家庭",
+      "meaning_mm": "အိမ်ထောင်",
+      "meaning_en": "home, household"
+    },
+    {
+      "#": 313,
+      "no": 9851,
+      "romaji": "kiyouryoku",
+      "kana": "きょうりょく",
+      "kanji": "協力",
+      "meaning_mm": "ကူညီမှု၊ပူးပေါင်းကူညီမှု",
+      "meaning_en": "cooperation"
+    },
+    {
+      "#": 314,
+      "no": 9852,
+      "romaji": "kansha",
+      "kana": "かんしゃ",
+      "kanji": "感謝",
+      "meaning_mm": "ကျေးဇူးတင်ခြင်း",
+      "meaning_en": "gratitude, thank"
+    },
+    {
+      "#": 315,
+      "no": 9853,
+      "romaji": "orei",
+      "kana": "おれい",
+      "kanji": "お礼",
+      "meaning_mm": "ကျေးဇူး",
+      "meaning_en": "token of gratitude/ appreciation"
+    },
+    {
+      "#": 316,
+      "no": 9854,
+      "romaji": "owabi",
+      "kana": "おわび",
+      "kanji": "お詫び",
+      "meaning_mm": "တောင်းပန်ခြင်း",
+      "meaning_en": "apology"
+    },
+    {
+      "#": 317,
+      "no": 9855,
+      "romaji": "ojigi",
+      "kana": "おじぎ",
+      "kanji": "おじぎ",
+      "meaning_mm": "ဦးခေါင်းကိုညွတ်၍ အရိုအသေပေးခြင်း",
+      "meaning_en": "bow"
+    },
+    {
+      "#": 318,
+      "no": 9856,
+      "romaji": "akushiyu",
+      "kana": "あくしゅ",
+      "kanji": "握手",
+      "meaning_mm": "လက်ဆွဲနှုတ်ခြင်း",
+      "meaning_en": "handshake"
+    },
+    {
+      "#": 319,
+      "no": 9857,
+      "romaji": "ijiwaru",
+      "kana": "いじわる",
+      "kanji": "いじわる",
+      "meaning_mm": "အကျင့်မကောင်းသောသူ၊စိတ်ပုတ်သောသူ၊တပါးသူအားတမင်တကာဒုက္ခရောက်အောင်ပြုလုပ်သည်",
+      "meaning_en": "spite"
+    },
+    {
+      "#": 320,
+      "no": 9858,
+      "romaji": "itazura",
+      "kana": "いたずら",
+      "kanji": "いたずら",
+      "meaning_mm": "နောက်ပြောင်ခြင်း",
+      "meaning_en": "prank, mischief"
+    },
+    {
+      "#": 321,
+      "no": 9859,
+      "romaji": "setsuyaku",
+      "kana": "せつやく",
+      "kanji": "節約",
+      "meaning_mm": "ချွေတာမှု",
+      "meaning_en": "saving (money, electricity, etc.)"
+    },
+    {
+      "#": 322,
+      "no": 9860,
+      "romaji": "keiei",
+      "kana": "けいえい",
+      "kanji": "経営",
+      "meaning_mm": "စီမံညွှန်ကြားခြင်း၊ စီမံအုပ်ချုပ်ခြင်း",
+      "meaning_en": "management"
+    },
+    {
+      "#": 323,
+      "no": 9861,
+      "romaji": "hansei",
+      "kana": "はんせい",
+      "kanji": "反省",
+      "meaning_mm": "ပြန်လည်သုံးသပ်ခြင်း၊ နောင်တရခြင်း",
+      "meaning_en": "reflection, remorse"
+    },
+    {
+      "#": 324,
+      "no": 9862,
+      "romaji": "jikkō",
+      "kana": "じっこう",
+      "kanji": "実行",
+      "meaning_mm": "လက်တွေ့ကျင့်သုံးခြင်း ၊",
+      "meaning_en": "implementation, practice"
+    },
+    {
+      "#": 325,
+      "no": 9863,
+      "romaji": "shimpo",
+      "kana": "しんぽ",
+      "kanji": "進歩",
+      "meaning_mm": "တိုးတက်မှု",
+      "meaning_en": "progress"
+    },
+    {
+      "#": 326,
+      "no": 9864,
+      "romaji": "henka",
+      "kana": "へんか",
+      "kanji": "変化",
+      "meaning_mm": "အပြောင်းအလဲ",
+      "meaning_en": "change"
+    },
+    {
+      "#": 327,
+      "no": 9865,
+      "romaji": "hattatsu",
+      "kana": "はったつ",
+      "kanji": "発達",
+      "meaning_mm": "ဖွံ့ဖြိုးတိုးတက်ခြင်း၊ ထွန်းကားခြင်း",
+      "meaning_en": "development"
+    },
+    {
+      "#": 328,
+      "no": 9866,
+      "romaji": "tairiyoku",
+      "kana": "たいりょく",
+      "kanji": "体力",
+      "meaning_mm": "ခွန်အား",
+      "meaning_en": "physical strength"
+    },
+    {
+      "#": 329,
+      "no": 9867,
+      "romaji": "shiyutsujou",
+      "kana": "しゅつじょう",
+      "kanji": "出場",
+      "meaning_mm": "ပါဝင်ဆင်နွှဲခြင်း",
+      "meaning_en": "participation (in atheletic event)"
+    },
+    {
+      "#": 330,
+      "no": 9868,
+      "romaji": "katsuyaku",
+      "kana": "かつやく",
+      "kanji": "活躍",
+      "meaning_mm": "အစွမ်းပြခြင်း",
+      "meaning_en": "activity"
+    },
+    {
+      "#": 331,
+      "no": 9869,
+      "romaji": "kyōsō",
+      "kana": "きょうそう",
+      "kanji": "競争",
+      "meaning_mm": "ပြိုင်ဆိုင်ခြင်း",
+      "meaning_en": "competition"
+    },
+    {
+      "#": 332,
+      "no": 9870,
+      "romaji": "ouen",
+      "kana": "おうえん",
+      "kanji": "応援",
+      "meaning_mm": "အားပေးခြင်း ၊ လုပ်အားပေးသည်",
+      "meaning_en": "cheering, support"
+    },
+    {
+      "#": 333,
+      "no": 9871,
+      "romaji": "hakushiyu",
+      "kana": "はくしゅ",
+      "kanji": "拍手",
+      "meaning_mm": "လက်ခုပ်တီးခြင်း",
+      "meaning_en": "applause"
+    },
+    {
+      "#": 334,
+      "no": 9872,
+      "romaji": "ninki",
+      "kana": "にんき",
+      "kanji": "人気",
+      "meaning_mm": "လူကြိုက်များခြင်း",
+      "meaning_en": "popularity"
+    },
+    {
+      "#": 335,
+      "no": 9873,
+      "romaji": "uwasa",
+      "kana": "うわさ",
+      "kanji": "うわさ",
+      "meaning_mm": "ကောလဟလ",
+      "meaning_en": "rumor"
+    },
+    {
+      "#": 336,
+      "no": 9874,
+      "romaji": "jiyouhou",
+      "kana": "じょうほう",
+      "kanji": "情報",
+      "meaning_mm": "သတင်းအချက်အလက်",
+      "meaning_en": "information"
+    },
+    {
+      "#": 337,
+      "no": 9875,
+      "romaji": "kōkan",
+      "kana": "こうかん",
+      "kanji": "交換",
+      "meaning_mm": "လဲလှယ်ခြင်း",
+      "meaning_en": "exchange, replacement"
+    },
+    {
+      "#": 338,
+      "no": 9876,
+      "romaji": "ryūkō",
+      "kana": "りゅうこう",
+      "kanji": "流行",
+      "meaning_mm": "ခေတ်စားသည်၊ ပြန့်ပွားသည်",
+      "meaning_en": "fashion, fad, spread ( of disease)"
+    },
+    {
+      "#": 339,
+      "no": 9877,
+      "romaji": "senden",
+      "kana": "せんでん",
+      "kanji": "宣伝",
+      "meaning_mm": "ကြော်ငြာစာ၊ကြော်ငြာခြင်း၊ချဲ့ပြောခြင်း",
+      "meaning_en": "publicity"
+    },
+    {
+      "#": 340,
+      "no": 9878,
+      "romaji": "kōkoku",
+      "kana": "こうこく",
+      "kanji": "広告",
+      "meaning_mm": "အချပ်ပိုကြော်ငြာ",
+      "meaning_en": "advertisement"
+    },
+    {
+      "#": 341,
+      "no": 9879,
+      "romaji": "chiyuumoku",
+      "kana": "ちゅうもく",
+      "kanji": "注目",
+      "meaning_mm": "အာရုံစိုက်ကြည့်ခြင်း",
+      "meaning_en": "attention"
+    },
+    {
+      "#": 342,
+      "no": 9880,
+      "romaji": "tsūyaku",
+      "kana": "つうやく",
+      "kanji": "通訳",
+      "meaning_mm": "စကားပြန်",
+      "meaning_en": "interpretation, interpreter"
+    },
+    {
+      "#": 343,
+      "no": 9881,
+      "romaji": "honyaku",
+      "kana": "ほんやく",
+      "kanji": "翻訳",
+      "meaning_mm": "ဘာသာပြန်ခြင်း",
+      "meaning_en": "translation"
+    },
+    {
+      "#": 344,
+      "no": 9882,
+      "romaji": "dengon",
+      "kana": "でんごん",
+      "kanji": "伝言",
+      "meaning_mm": "တဆင့်စကား",
+      "meaning_en": "message"
+    },
+    {
+      "#": 345,
+      "no": 9883,
+      "romaji": "hōkoku",
+      "kana": "ほうこく",
+      "kanji": "報告",
+      "meaning_mm": "အစီရင်ခံခြင်း",
+      "meaning_en": "report"
+    },
+    {
+      "#": 346,
+      "no": 9884,
+      "romaji": "rokuga",
+      "kana": "ろくが",
+      "kanji": "録画",
+      "meaning_mm": "အသံသွင်းအသံဖမ်းခြင်း(ဗွီဒီယို)",
+      "meaning_en": "recording ( a video)"
+    },
+    {
+      "#": 347,
+      "no": 9885,
+      "romaji": "konzatsu",
+      "kana": "こんざつ",
+      "kanji": "混雑",
+      "meaning_mm": "ရှုတ်ယှက်ခတ်ခြင်း၊လူရှုတ်ခြင်း",
+      "meaning_en": "congestion"
+    },
+    {
+      "#": 348,
+      "no": 9886,
+      "romaji": "jūtai",
+      "kana": "じゅうたい",
+      "kanji": "渋滞",
+      "meaning_mm": "လမ်းကြောပိတ်ဆို့မှု့၊ ယာဉ်ကြောပိတ်ဆို့မှု",
+      "meaning_en": "crowd"
+    },
+    {
+      "#": 349,
+      "no": 9887,
+      "romaji": "shōtotsu",
+      "kana": "しょうとつ",
+      "kanji": "衝突",
+      "meaning_mm": "တိုက်ခိုက်မှု၊ဝင်တိုက်ခြင်း၊တိုက်မိခြင်း",
+      "meaning_en": "collision, conflict"
+    },
+    {
+      "#": 350,
+      "no": 9888,
+      "romaji": "higai",
+      "kana": "ひがい",
+      "kanji": "被害",
+      "meaning_mm": "နစ်နာဆုံးရှုံးမှု၊ လုပ်ကြံခံရခြင်း၊ ဖျက်ဆီးခံရခြင်း",
+      "meaning_en": "damage"
+    },
+    {
+      "#": 351,
+      "no": 9889,
+      "romaji": "jiko",
+      "kana": "じこ",
+      "kanji": "事故",
+      "meaning_mm": "ယာဉ်တိုက်မှု၊ မတော်တဆမှု",
+      "meaning_en": "accident"
+    },
+    {
+      "#": 352,
+      "no": 9890,
+      "romaji": "jiken",
+      "kana": "じけん",
+      "kanji": "事件",
+      "meaning_mm": "အမှု",
+      "meaning_en": "incident, event"
+    },
+    {
+      "#": 353,
+      "no": 9891,
+      "romaji": "koshō",
+      "kana": "こしょう",
+      "kanji": "故障",
+      "meaning_mm": "စက်ပျက်စီးခြင်း၊ အဆင်မပြေခြင်း",
+      "meaning_en": "malfunction, breakdown"
+    },
+    {
+      "#": 354,
+      "no": 9892,
+      "romaji": "shūri",
+      "kana": "しゅうり",
+      "kanji": "修理",
+      "meaning_mm": "ပြုပြင်ခြင်း",
+      "meaning_en": "repair"
+    },
+    {
+      "#": 355,
+      "no": 9893,
+      "romaji": "teiden",
+      "kana": "ていでん",
+      "kanji": "停電",
+      "meaning_mm": "မီးပျက်ခြင်း",
+      "meaning_en": "blackout"
+    },
+    {
+      "#": 356,
+      "no": 9894,
+      "romaji": "chōshi",
+      "kana": "ちょうし",
+      "kanji": "調子",
+      "meaning_mm": "အခြေအနေ၊ အရှိန်",
+      "meaning_en": "condition, tone"
+    },
+    {
+      "#": 357,
+      "no": 9895,
+      "romaji": "kinchō",
+      "kana": "きんちょう",
+      "kanji": "緊張",
+      "meaning_mm": "တင်းမာမှု၊စိတ်လှုပ်ရှားမှု၊ ပဋိပက္ခဖြစ်တော့မယ့်ပုံ",
+      "meaning_en": "tension"
+    },
+    {
+      "#": 358,
+      "no": 9896,
+      "romaji": "jishin",
+      "kana": "じしん",
+      "kanji": "自信",
+      "meaning_mm": "မိမိကိုယ်ကိုယုံကြည်မှု",
+      "meaning_en": "confidence"
+    },
+    {
+      "#": 359,
+      "no": 9897,
+      "romaji": "jiman",
+      "kana": "じまん",
+      "kanji": "自慢",
+      "meaning_mm": "ကြွားဝါခြင်း ၊",
+      "meaning_en": "pride, boast"
+    },
+    {
+      "#": 360,
+      "no": 9898,
+      "romaji": "kanshin",
+      "kana": "かんしん",
+      "kanji": "感心",
+      "meaning_mm": "စိတ်ထဲမှချီးကျူးခြင်း",
+      "meaning_en": "admiration, praiseworthy"
+    },
+    {
+      "#": 361,
+      "no": 9899,
+      "romaji": "kandō",
+      "kana": "かんどう",
+      "kanji": "感動",
+      "meaning_mm": "စိတ်လှုပ်ရှားမှု",
+      "meaning_en": "feeling moved, being touched"
+    },
+    {
+      "#": 362,
+      "no": 9900,
+      "romaji": "kōfun",
+      "kana": "こうふん",
+      "kanji": "興奮",
+      "meaning_mm": "သွေးဆူခြင်း၊ စိတ်လှုပ်ရှားခြင်း",
+      "meaning_en": "excitement"
+    },
+    {
+      "#": 363,
+      "no": 9901,
+      "romaji": "kansō",
+      "kana": "かんそう",
+      "kanji": "感想",
+      "meaning_mm": "ခံစားချက်",
+      "meaning_en": "impression, feeling"
+    },
+    {
+      "#": 364,
+      "no": 9902,
+      "romaji": "yosō",
+      "kana": "よそう",
+      "kanji": "予想",
+      "meaning_mm": "ကြိုတင်ခန့်မှန်းချက်",
+      "meaning_en": "forecast"
+    },
+    {
+      "#": 365,
+      "no": 9903,
+      "romaji": "senmon",
+      "kana": "せんもん",
+      "kanji": "専門",
+      "meaning_mm": "အဓိကဘာသာရပ်",
+      "meaning_en": "speciality"
+    },
+    {
+      "#": 366,
+      "no": 9904,
+      "romaji": "kenkyū",
+      "kana": "けんきゅう",
+      "kanji": "研究",
+      "meaning_mm": "သုတေသနပြုလုပ်ခြင်း",
+      "meaning_en": "research, study"
+    },
+    {
+      "#": 367,
+      "no": 9905,
+      "romaji": "chousa",
+      "kana": "ちょうさ",
+      "kanji": "調査",
+      "meaning_mm": "စုံစမ်းစစ်ဆေးမှု",
+      "meaning_en": "investigation, survey"
+    },
+    {
+      "#": 368,
+      "no": 9906,
+      "romaji": "genin",
+      "kana": "げんいん",
+      "kanji": "原因",
+      "meaning_mm": "အကြောင်းအရင်း",
+      "meaning_en": "cause"
+    },
+    {
+      "#": 369,
+      "no": 9907,
+      "romaji": "kekka",
+      "kana": "けっか",
+      "kanji": "結果",
+      "meaning_mm": "အကျိုးရလဒ်",
+      "meaning_en": "result"
+    },
+    {
+      "#": 370,
+      "no": 9908,
+      "romaji": "kaiketsu",
+      "kana": "かいけつ",
+      "kanji": "解決",
+      "meaning_mm": "ဖြေရှင်းခြင်း",
+      "meaning_en": "solution"
+    },
+    {
+      "#": 371,
+      "no": 9909,
+      "romaji": "kakunin",
+      "kana": "かくにん",
+      "kanji": "確認",
+      "meaning_mm": "အသိအမှတ်ပြုသည် ၊ သေချာအောင်စစ်ဆေးသည်",
+      "meaning_en": "confirmation"
+    },
+    {
+      "#": 372,
+      "no": 9910,
+      "romaji": "riyou",
+      "kana": "りよう",
+      "kanji": "利用",
+      "meaning_mm": "လက်တွေ့အသုံးပြုခြင်း",
+      "meaning_en": "use, exploitation"
+    },
+    {
+      "#": 373,
+      "no": 9911,
+      "romaji": "rikai",
+      "kana": "りかい",
+      "kanji": "理解",
+      "meaning_mm": "နားလည်မှု",
+      "meaning_en": "understanding"
+    },
+    {
+      "#": 374,
+      "no": 9912,
+      "romaji": "hakken",
+      "kana": "はっけん",
+      "kanji": "発見",
+      "meaning_mm": "စတင်တွေ့ရှိခြင်း၊ ရှာတွေ့ခြင်း",
+      "meaning_en": "discovery"
+    },
+    {
+      "#": 375,
+      "no": 9913,
+      "romaji": "hatsumei",
+      "kana": "はつめい",
+      "kanji": "発明",
+      "meaning_mm": "တီထွင်ခြင်း",
+      "meaning_en": "invention"
+    },
+    {
+      "#": 376,
+      "no": 9914,
+      "romaji": "kankei",
+      "kana": "かんけい",
+      "kanji": "関係",
+      "meaning_mm": "အကြောင်းအရင်းနဲ့ ရလဒ်",
+      "meaning_en": "relationship"
+    },
+    {
+      "#": 377,
+      "no": 9915,
+      "romaji": "dantai",
+      "kana": "だんたい",
+      "kanji": "団体",
+      "meaning_mm": "အသင်းအဖွဲ့",
+      "meaning_en": "group"
+    },
+    {
+      "#": 378,
+      "no": 9916,
+      "romaji": "senkiyo",
+      "kana": "せんきょ",
+      "kanji": "選挙",
+      "meaning_mm": "ရွေးကောက်ပွဲ",
+      "meaning_en": "election"
+    },
+    {
+      "#": 379,
+      "no": 9917,
+      "romaji": "zeikin",
+      "kana": "ぜいきん",
+      "kanji": "税金",
+      "meaning_mm": "အခွန်",
+      "meaning_en": "tax"
+    },
+    {
+      "#": 380,
+      "no": 9918,
+      "romaji": "sekinin",
+      "kana": "せきにん",
+      "kanji": "責任",
+      "meaning_mm": "တာဝန်",
+      "meaning_en": "responsibility"
+    },
+    {
+      "#": 381,
+      "no": 9919,
+      "romaji": "shorui",
+      "kana": "しょるい",
+      "kanji": "書類",
+      "meaning_mm": "စာရွက်စာတမ်း",
+      "meaning_en": "form, document"
+    },
+    {
+      "#": 382,
+      "no": 9920,
+      "romaji": "daimei",
+      "kana": "だいめい",
+      "kanji": "題名",
+      "meaning_mm": "ခေါင်းစဥ်",
+      "meaning_en": "title"
+    },
+    {
+      "#": 383,
+      "no": 9921,
+      "romaji": "jiyouken",
+      "kana": "じょうけん",
+      "kanji": "条件",
+      "meaning_mm": "သတ်မှတ်ချက်၊စည်းကမ်းသတ်မှတ်ချက်၊စည်းမျဥ်း",
+      "meaning_en": "condition"
+    },
+    {
+      "#": 384,
+      "no": 9922,
+      "romaji": "shimekiri",
+      "kana": "しめきり",
+      "kanji": "締め切り",
+      "meaning_mm": "နောက်ဆုံးပိတ်ရက်",
+      "meaning_en": "deadline"
+    },
+    {
+      "#": 385,
+      "no": 9923,
+      "romaji": "kikan",
+      "kana": "きかん",
+      "kanji": "期間",
+      "meaning_mm": "ကာလအပိုင်းအခြား",
+      "meaning_en": "period"
+    },
+    {
+      "#": 386,
+      "no": 9924,
+      "romaji": "bai",
+      "kana": "ばい",
+      "kanji": "倍",
+      "meaning_mm": "အဆုတ်",
+      "meaning_en": "double, ~times"
+    },
+    {
+      "#": 387,
+      "no": 9925,
+      "romaji": "kuji",
+      "kana": "くじ",
+      "kanji": "くじ",
+      "meaning_mm": "ထီ",
+      "meaning_en": "(drawing a ) lot"
+    },
+    {
+      "#": 388,
+      "no": 9926,
+      "romaji": "chikamichi",
+      "kana": "ちかみち",
+      "kanji": "近道",
+      "meaning_mm": "ဖြတ်လမ်း",
+      "meaning_en": "shortcut"
+    },
+    {
+      "#": 389,
+      "no": 9927,
+      "romaji": "chūshin",
+      "kana": "ちゅうしん",
+      "kanji": "中心",
+      "meaning_mm": "အလယ်ဗဟို",
+      "meaning_en": "center"
+    },
+    {
+      "#": 390,
+      "no": 9928,
+      "romaji": "atari",
+      "kana": "あたり",
+      "kanji": "辺り",
+      "meaning_mm": "အနီးအနား",
+      "meaning_en": "surroundings, around"
+    },
+    {
+      "#": 391,
+      "no": 9929,
+      "romaji": "mawari",
+      "kana": "まわり",
+      "kanji": "周り",
+      "meaning_mm": "ပတ်ဝန်းကျင်၊ပတ်လည်",
+      "meaning_en": "circumference, (things/people) around someone/something"
+    },
+    {
+      "#": 392,
+      "no": 9930,
+      "romaji": "ana",
+      "kana": "あな",
+      "kanji": "穴",
+      "meaning_mm": "အပေါက်",
+      "meaning_en": "hole"
+    },
+    {
+      "#": 393,
+      "no": 9931,
+      "romaji": "retsu",
+      "kana": "れつ",
+      "kanji": "列",
+      "meaning_mm": "အတန်း၊လိုင်း",
+      "meaning_en": "line, row"
+    },
+    {
+      "#": 394,
+      "no": 9932,
+      "romaji": "waba",
+      "kana": "はば",
+      "kanji": "幅",
+      "meaning_mm": "အနံ၊ အကျယ်၊ ကွာဟချက်",
+      "meaning_en": "width, range"
+    },
+    {
+      "#": 395,
+      "no": 9933,
+      "romaji": "hani",
+      "kana": "はんい",
+      "kanji": "範囲",
+      "meaning_mm": "ဘောင်",
+      "meaning_en": "scope, extent"
+    },
+    {
+      "#": 396,
+      "no": 9934,
+      "romaji": "naiyō",
+      "kana": "ないよう",
+      "kanji": "内容",
+      "meaning_mm": "အကြောင်းအရာ၊ အနှစ်သာရ",
+      "meaning_en": "content"
+    },
+    {
+      "#": 397,
+      "no": 9935,
+      "romaji": "nakami",
+      "kana": "なかみ",
+      "kanji": "中身",
+      "meaning_mm": "အတွင်းသား",
+      "meaning_en": "contents, gist"
+    },
+    {
+      "#": 398,
+      "no": 9936,
+      "romaji": "tokuchou",
+      "kana": "とくちょう",
+      "kanji": "特徴",
+      "meaning_mm": "ထူးခြားချက်",
+      "meaning_en": "feature, distinctiveness"
+    },
+    {
+      "#": 399,
+      "no": 9937,
+      "romaji": "futsū",
+      "kana": "ふつう",
+      "kanji": "普通",
+      "meaning_mm": "ရိုးရိုး",
+      "meaning_en": "ordinary, normal"
+    },
+    {
+      "#": 400,
+      "no": 9938,
+      "romaji": "atarimae",
+      "kana": "あたりまえ",
+      "kanji": "当たり前",
+      "meaning_mm": "အဆန်းမဟုတ်ခြင်း၊ သဘာဝ",
+      "meaning_en": "natural"
+    },
+    {
+      "#": 401,
+      "no": 9939,
+      "romaji": "nise",
+      "kana": "にせ",
+      "kanji": "偽",
+      "meaning_mm": "အတုပြုလုပ်ခြင်း",
+      "meaning_en": "fake"
+    },
+    {
+      "#": 402,
+      "no": 9940,
+      "romaji": "betsu",
+      "kana": "べつ",
+      "kanji": "別",
+      "meaning_mm": "တခြား၊အခြား",
+      "meaning_en": "difference, distinction"
+    },
+    {
+      "#": 403,
+      "no": 9941,
+      "romaji": "kokuseki",
+      "kana": "こくせき",
+      "kanji": "国籍",
+      "meaning_mm": "နိုင်ငံသား",
+      "meaning_en": "nationality"
+    },
+    {
+      "#": 404,
+      "no": 9942,
+      "romaji": "touyō",
+      "kana": "とうよう",
+      "kanji": "東洋",
+      "meaning_mm": "အရှေ့တိုင်း",
+      "meaning_en": "the East, the Orient"
+    },
+    {
+      "#": 405,
+      "no": 9943,
+      "romaji": "seiyō",
+      "kana": "せいよう",
+      "kanji": "西洋",
+      "meaning_mm": "အနောက်တိုင်း",
+      "meaning_en": "the West, the Occident"
+    },
+    {
+      "#": 406,
+      "no": 9944,
+      "romaji": "kokusai",
+      "kana": "こくさい",
+      "kanji": "国際",
+      "meaning_mm": "အပြည်ပြည်ဆိုင်ရာ",
+      "meaning_en": "international"
+    },
+    {
+      "#": 407,
+      "no": 9945,
+      "romaji": "shizen",
+      "kana": "しぜん",
+      "kanji": "自然",
+      "meaning_mm": "သဘာဝ",
+      "meaning_en": "nature"
+    },
+    {
+      "#": 408,
+      "no": 9946,
+      "romaji": "keshiki",
+      "kana": "けしき",
+      "kanji": "景色",
+      "meaning_mm": "ရှုခင်း",
+      "meaning_en": "scenery"
+    },
+    {
+      "#": 409,
+      "no": 9947,
+      "romaji": "shūkyō",
+      "kana": "しゅうきょう",
+      "kanji": "宗教",
+      "meaning_mm": "ဘာသာရေး",
+      "meaning_en": "religion"
+    },
+    {
+      "#": 410,
+      "no": 9948,
+      "romaji": "ai",
+      "kana": "あい",
+      "kanji": "愛",
+      "meaning_mm": "အချစ်၊ ချစ်ခင်မြတ်နိုးခြင်း",
+      "meaning_en": "love"
+    },
+    {
+      "#": 411,
+      "no": 9949,
+      "romaji": "todoku",
+      "kana": "とどく",
+      "kanji": "届く",
+      "meaning_mm": "ရောက်ရှိသည်(ပစ္စည်း၊ စာ၊ အထုပ်အပိုး)",
+      "meaning_en": "be delivered, reach"
+    },
+    {
+      "#": 412,
+      "no": 9950,
+      "romaji": "todokeru",
+      "kana": "とどける",
+      "kanji": "届ける",
+      "meaning_mm": "အကြောင်းကြားသည်၊ အိမ်အထိယူသွားသည်",
+      "meaning_en": "deliver, notify"
+    },
+    {
+      "#": 413,
+      "no": 9951,
+      "romaji": "kaku",
+      "kana": "かく",
+      "kanji": "かく",
+      "meaning_mm": "ကုတ်သည်၊ခြစ်သည်",
+      "meaning_en": "scratch, emit (sweat/snores), suffer (humiliation)"
+    },
+    {
+      "#": 414,
+      "no": 9952,
+      "romaji": "tsukamu",
+      "kana": "つかむ",
+      "kanji": "つかむ",
+      "meaning_mm": "အရေးကြီးသောအချက်လုပ်နည်းလုပ်ပုံ",
+      "meaning_en": "grab, grasp (opportunity, meaning, etc), acquire (riches)"
+    },
+    {
+      "#": 415,
+      "no": 9953,
+      "romaji": "nigiru",
+      "kana": "にぎる",
+      "kanji": "握る",
+      "meaning_mm": "ဆုပ်ကိုင်သည်",
+      "meaning_en": "grip, squeeze (one’s hands)"
+    },
+    {
+      "#": 416,
+      "no": 9954,
+      "romaji": "osaeru",
+      "kana": "おさえる",
+      "kanji": "抑える",
+      "meaning_mm": "ဖိနှိပ်သည်၊ထိန်းချုပ်သည်",
+      "meaning_en": "put one’s hands on, hold open"
+    },
+    {
+      "#": 417,
+      "no": 9955,
+      "romaji": "chikazuku",
+      "kana": "ちかづく",
+      "kanji": "近づく",
+      "meaning_mm": "ချည်းကပ်သည်၊ နီးလာသည်",
+      "meaning_en": "approach"
+    },
+    {
+      "#": 418,
+      "no": 9956,
+      "romaji": "chikazukeru",
+      "kana": "ちかづける",
+      "kanji": "近づける",
+      "meaning_mm": "နီးကပ်စေသည်၊ချဥ်းကပ်စေသည်",
+      "meaning_en": "move (something) nearer"
+    },
+    {
+      "#": 419,
+      "no": 9957,
+      "romaji": "au",
+      "kana": "あう",
+      "kanji": "合う",
+      "meaning_mm": "ကိုက်ညီသည်။ အံဝင်ခွင်ကျသည်။ တထပ်တည်းဖြစ်သည်။တူညီသည်။",
+      "meaning_en": "(eyes) meet, coincide, match, suit, (calulation) is correct"
+    },
+    {
+      "#": 420,
+      "no": 9958,
+      "romaji": "awaseru",
+      "kana": "あわせる",
+      "kanji": "合わせる",
+      "meaning_mm": "ပေါင်းစပ်သည်",
+      "meaning_en": "combine, adapt to, match with, set ( a clock)"
+    },
+    {
+      "#": 421,
+      "no": 9959,
+      "romaji": "ataru",
+      "kana": "あたる",
+      "kanji": "当たる",
+      "meaning_mm": "ထိမှန်သည်",
+      "meaning_en": "be hit, prove true, win (a lottery), (sunlight) falls upon, go up against"
+    },
+    {
+      "#": 422,
+      "no": 9960,
+      "romaji": "ateru",
+      "kana": "あてる",
+      "kanji": "当てる",
+      "meaning_mm": "ထိမှန်သည်။ တို့သည်။ နေရောင်ခြည်။ လေ၊ အပူဓါတ်ကို ထိရောက်စေသည်",
+      "meaning_en": "hit with, get right, expose to, touch"
+    },
+    {
+      "#": 423,
+      "no": 9961,
+      "romaji": "kuraberu",
+      "kana": "くらべる",
+      "kanji": "比べる",
+      "meaning_mm": "နှိုင်းယှဉ်သည်",
+      "meaning_en": "compare"
+    },
+    {
+      "#": 424,
+      "no": 9962,
+      "romaji": "niau",
+      "kana": "にあう",
+      "kanji": "似合う",
+      "meaning_mm": "လိုက်ဖက်ညီသည်",
+      "meaning_en": "look good on, match"
+    },
+    {
+      "#": 425,
+      "no": 9963,
+      "romaji": "niru",
+      "kana": "にる",
+      "kanji": "似る",
+      "meaning_mm": "တူသည်၊ ဆင်တူသည်",
+      "meaning_en": "resemble"
+    },
+    {
+      "#": 426,
+      "no": 9964,
+      "romaji": "niseru",
+      "kana": "にせる",
+      "kanji": "似せる",
+      "meaning_mm": "ဆင်တူစေသည်၊တုပသည်",
+      "meaning_en": "imitate"
+    },
+    {
+      "#": 427,
+      "no": 9965,
+      "romaji": "wakareru",
+      "kana": "わかれる",
+      "kanji": "分かれる",
+      "meaning_mm": "ကွဲကွာသည်",
+      "meaning_en": "be divided"
+    },
+    {
+      "#": 428,
+      "no": 9966,
+      "romaji": "wakeru",
+      "kana": "わける",
+      "kanji": "分ける",
+      "meaning_mm": "ခွဲဝေသည်",
+      "meaning_en": "divide, push one’s way through"
+    },
+    {
+      "#": 429,
+      "no": 9967,
+      "romaji": "tasu",
+      "kana": "たす",
+      "kanji": "足す",
+      "meaning_mm": "ပေါင်းသည်",
+      "meaning_en": "add"
+    },
+    {
+      "#": 430,
+      "no": 9968,
+      "romaji": "hiku",
+      "kana": "ひく",
+      "kanji": "引く",
+      "meaning_mm": "ဆွဲသည်",
+      "meaning_en": "pull, lead, draw (a line), substract, arouse (interest, etc)"
+    },
+    {
+      "#": 431,
+      "no": 9969,
+      "romaji": "fueru",
+      "kana": "ふえる",
+      "kanji": "増える",
+      "meaning_mm": "တိုးပွားသည်",
+      "meaning_en": "increase"
+    },
+    {
+      "#": 432,
+      "no": 9970,
+      "romaji": "fuyasu",
+      "kana": "ふやす",
+      "kanji": "増やす",
+      "meaning_mm": "တိုးချဲ့သည်၊တိုးစေသည်",
+      "meaning_en": "increase"
+    },
+    {
+      "#": 433,
+      "no": 9971,
+      "romaji": "heru",
+      "kana": "へる",
+      "kanji": "減る",
+      "meaning_mm": "လျော့သည်",
+      "meaning_en": "decrease"
+    },
+    {
+      "#": 434,
+      "no": 9972,
+      "romaji": "herasu",
+      "kana": "へらす",
+      "kanji": "減らす",
+      "meaning_mm": "လျှော့ချသည်",
+      "meaning_en": "decrease"
+    },
+    {
+      "#": 435,
+      "no": 9973,
+      "romaji": "kawaru",
+      "kana": "かわる",
+      "kanji": "変わる",
+      "meaning_mm": "ပြောင်းလဲသည်",
+      "meaning_en": "change"
+    },
+    {
+      "#": 436,
+      "no": 9974,
+      "romaji": "kaeru",
+      "kana": "かえる",
+      "kanji": "変える",
+      "meaning_mm": "ပြောင်းလဲသည်",
+      "meaning_en": "change"
+    },
+    {
+      "#": 437,
+      "no": 9975,
+      "romaji": "kawaru",
+      "kana": "かわる",
+      "kanji": "代わる・替わる・換わる",
+      "meaning_mm": "ပြောင်းလဲသည်၊အစားထိုးသည်",
+      "meaning_en": "change, substitute"
+    },
+    {
+      "#": 438,
+      "no": 9976,
+      "romaji": "kaeru",
+      "kana": "かえる",
+      "kanji": "代える・替える・換える",
+      "meaning_mm": "ပြောင်းလဲစေသည်၊အစားထိုးစေသည်",
+      "meaning_en": "change, replace"
+    },
+    {
+      "#": 439,
+      "no": 9977,
+      "romaji": "kaeru",
+      "kana": "かえる",
+      "kanji": "返る",
+      "meaning_mm": "မူလအတိုင်းပြန်လာသည်၊ ပြောင်းပြန်လှန်သည်၊ တုံ့ပြန်လာသည်",
+      "meaning_en": "return"
+    },
+    {
+      "#": 440,
+      "no": 9978,
+      "romaji": "kaesu",
+      "kana": "かえす",
+      "kanji": "返す",
+      "meaning_mm": "ပြန်ပေးသည်",
+      "meaning_en": "retrun"
+    },
+    {
+      "#": 441,
+      "no": 9979,
+      "romaji": "yuzuru",
+      "kana": "ゆずる",
+      "kanji": "譲る",
+      "meaning_mm": "လွှဲပြောင်းပေးသည်",
+      "meaning_en": "give up (one’s seat), let have, pass on"
+    },
+    {
+      "#": 442,
+      "no": 9980,
+      "romaji": "tasukaru",
+      "kana": "たすかる",
+      "kanji": "助かる",
+      "meaning_mm": "အသက်ချမ်းသာရာရသည်",
+      "meaning_en": "survive, be helpful"
+    },
+    {
+      "#": 443,
+      "no": 9981,
+      "romaji": "tasukeru",
+      "kana": "たすける",
+      "kanji": "助ける",
+      "meaning_mm": "ကယ်တင်သည်",
+      "meaning_en": "save (someone), help"
+    },
+    {
+      "#": 444,
+      "no": 9982,
+      "romaji": "ijimeru",
+      "kana": "いじめる",
+      "kanji": "いじめる",
+      "meaning_mm": "အနိုင်ကျင့်သည်",
+      "meaning_en": "bully"
+    },
+    {
+      "#": 445,
+      "no": 9983,
+      "romaji": "damaru",
+      "kana": "だまる",
+      "kanji": "だまる",
+      "meaning_mm": "နှုတ်ပိတ်တိတ်ဆိတ်သည်",
+      "meaning_en": "deceive"
+    },
+    {
+      "#": 446,
+      "no": 9984,
+      "romaji": "nusumu",
+      "kana": "ぬすむ",
+      "kanji": "盗む",
+      "meaning_mm": "ခိုးသည်",
+      "meaning_en": "steal"
+    },
+    {
+      "#": 447,
+      "no": 9985,
+      "romaji": "sasaru",
+      "kana": "ささる",
+      "kanji": "刺さる",
+      "meaning_mm": "စူးဝင်သည်",
+      "meaning_en": "be stuck in"
+    },
+    {
+      "#": 448,
+      "no": 9986,
+      "romaji": "sasu",
+      "kana": "さす",
+      "kanji": "刺す",
+      "meaning_mm": "ထိုးသည်(ဓါးဖြင့်)",
+      "meaning_en": "stick, stab"
+    },
+    {
+      "#": 449,
+      "no": 9987,
+      "romaji": "korosu",
+      "kana": "ころす",
+      "kanji": "殺す",
+      "meaning_mm": "သတ်ဖြတ်သည် ၊ ဆုံးရှုံးစေသည်၊ ထိန်းချုပ်သည်",
+      "meaning_en": "kill"
+    },
+    {
+      "#": 450,
+      "no": 9988,
+      "romaji": "kakureru",
+      "kana": "かくれる",
+      "kanji": "隠れる",
+      "meaning_mm": "ပုန်းသည် ၊ ပုန်းအောင်းသည် ၊ လျှို့ဝှက်ထားသည်",
+      "meaning_en": "hide"
+    },
+    {
+      "#": 451,
+      "no": 9989,
+      "romaji": "kakusu",
+      "kana": "かくす",
+      "kanji": "隠す",
+      "meaning_mm": "ဖွက်သည် ၊ လျှို့ဝှက်ထားသည် ၊ ဖုံးအုပ်ထားသည်",
+      "meaning_en": "hide"
+    },
+    {
+      "#": 452,
+      "no": 9990,
+      "romaji": "umaru",
+      "kana": "うまる",
+      "kanji": "埋まる",
+      "meaning_mm": "မြုပ်သည်၊ လူပြည်သည်၊ ပစ္စည်းနှင့်ပြည့်နေသည်၊ ဖြည့်စွက်နိုင်သည်",
+      "meaning_en": "be buried"
+    },
+    {
+      "#": 453,
+      "no": 9991,
+      "romaji": "umeru",
+      "kana": "うめる",
+      "kanji": "埋める",
+      "meaning_mm": "မြေမြုပ်သည် ၊ ဖုံးအုပ်သည် ၊ ဖုံးလွှမ်းသည်",
+      "meaning_en": "bury, fill (a hole/blank"
+    },
+    {
+      "#": 454,
+      "no": 9992,
+      "romaji": "kakomu",
+      "kana": "かこむ",
+      "kanji": "囲む",
+      "meaning_mm": "ဝိုင်းရံသည်",
+      "meaning_en": "surround, circle"
+    },
+    {
+      "#": 455,
+      "no": 9993,
+      "romaji": "tsumaru",
+      "kana": "つまる",
+      "kanji": "詰まる",
+      "meaning_mm": "ပိတ်ဆို့သည်",
+      "meaning_en": "be packed, be clogged, be close together"
+    },
+    {
+      "#": 456,
+      "no": 9994,
+      "romaji": "tsumeru",
+      "kana": "つめる",
+      "kanji": "詰める",
+      "meaning_mm": "အပြည့်ထည့်သည်၊ သွတ်သွင်းသည်",
+      "meaning_en": "pack, fill, reduce (distance), shorten"
+    },
+    {
+      "#": 457,
+      "no": 9995,
+      "romaji": "hiraku",
+      "kana": "ひらく",
+      "kanji": "開く",
+      "meaning_mm": "ပွင့်သည်",
+      "meaning_en": "open, bloom, (gap) increases, hold (an event)"
+    },
+    {
+      "#": 458,
+      "no": 9996,
+      "romaji": "tojiru",
+      "kana": "とじる",
+      "kanji": "閉じる",
+      "meaning_mm": "ပိတ်သည််",
+      "meaning_en": "close"
+    },
+    {
+      "#": 459,
+      "no": 9997,
+      "romaji": "tobu",
+      "kana": "とぶ",
+      "kanji": "飛ぶ",
+      "meaning_mm": "ပျံသန်းသည်",
+      "meaning_en": "fly, splash, rush, (pages) are missing, disappear"
+    },
+    {
+      "#": 460,
+      "no": 9998,
+      "romaji": "tobasu",
+      "kana": "とばす",
+      "kanji": "飛ばす",
+      "meaning_mm": "ပျံသန်းစေသည်",
+      "meaning_en": "fly, let fly, blow away, skip"
+    },
+    {
+      "#": 461,
+      "no": 9999,
+      "romaji": "furu",
+      "kana": "ふる",
+      "kanji": "振る",
+      "meaning_mm": "လှုပ်သည်၊ခါသည်၊လှုပ်ရမ်းသည်",
+      "meaning_en": "wave, sprinkle, reject"
+    },
+    {
+      "#": 462,
+      "no": 10000,
+      "romaji": "mekuru",
+      "kana": "めくる",
+      "kanji": "めくる",
+      "meaning_mm": "လှန်သည်",
+      "meaning_en": "turn over"
+    },
+    {
+      "#": 463,
+      "no": 10001,
+      "romaji": "mikakeru",
+      "kana": "みかける",
+      "kanji": "見かける",
+      "meaning_mm": "ကြုံတွေ့သည်",
+      "meaning_en": "see, come across"
+    },
+    {
+      "#": 464,
+      "no": 10002,
+      "romaji": "tashikameru",
+      "kana": "たしかめる",
+      "kanji": "確かめる",
+      "meaning_mm": "မှန်မမှန်စစ်ဆေးသည်၊သေချာအောင်ပြုလုပ်သည်",
+      "meaning_en": "check, confirm"
+    },
+    {
+      "#": 465,
+      "no": 10003,
+      "romaji": "tamesu",
+      "kana": "ためす",
+      "kanji": "試す",
+      "meaning_mm": "စမ်းသပ်သည်",
+      "meaning_en": "try, test"
+    },
+    {
+      "#": 466,
+      "no": 10004,
+      "romaji": "kurikaesu",
+      "kana": "くりかえす",
+      "kanji": "繰り返す",
+      "meaning_mm": "ထပ်ခါထပ်ခါလုပ်သည်",
+      "meaning_en": "repeat"
+    },
+    {
+      "#": 467,
+      "no": 10005,
+      "romaji": "yakusu",
+      "kana": "やくす",
+      "kanji": "訳す",
+      "meaning_mm": "ဘာသာပြန်သည်",
+      "meaning_en": "translate"
+    },
+    {
+      "#": 468,
+      "no": 10006,
+      "romaji": "okonau",
+      "kana": "おこなう",
+      "kanji": "行う",
+      "meaning_mm": "ကျင်းပသည်။ပြုလုပ်သည်",
+      "meaning_en": "hold (an event)"
+    },
+    {
+      "#": 469,
+      "no": 10007,
+      "romaji": "machigau",
+      "kana": "まちがう",
+      "kanji": "間違う",
+      "meaning_mm": "မှားယွင်းသည်",
+      "meaning_en": "be incorrect/wrong, make a mistake"
+    },
+    {
+      "#": 470,
+      "no": 10008,
+      "romaji": "machigaeru",
+      "kana": "まちがえる",
+      "kanji": "間違える",
+      "meaning_mm": "မှားယွင်းသည်",
+      "meaning_en": "get wrong, mistake for"
+    },
+    {
+      "#": 471,
+      "no": 10009,
+      "romaji": "yurusu",
+      "kana": "ゆるす",
+      "kanji": "許す",
+      "meaning_mm": "ခွင့်လွှတ်သည်",
+      "meaning_en": "forgive, allow"
+    },
+    {
+      "#": 472,
+      "no": 10010,
+      "romaji": "nareru",
+      "kana": "なれる",
+      "kanji": "慣れる",
+      "meaning_mm": "ကျင့်သားရသည်",
+      "meaning_en": "be accustomed, be tame"
+    },
+    {
+      "#": 473,
+      "no": 10011,
+      "romaji": "narasu",
+      "kana": "ならす",
+      "kanji": "慣らす",
+      "meaning_mm": "အကျင့်ရအောင်လုပ်သည်",
+      "meaning_en": "warm up (one’s body), tame"
+    },
+    {
+      "#": 474,
+      "no": 10012,
+      "romaji": "tatsu",
+      "kana": "たつ",
+      "kanji": "立つ",
+      "meaning_mm": "ထသည်၊မတ်တပ်ရပ်သည်",
+      "meaning_en": "stand, be put up"
+    },
+    {
+      "#": 475,
+      "no": 10013,
+      "romaji": "tateru",
+      "kana": "たてる",
+      "kanji": "立てる",
+      "meaning_mm": "ထောင်သည်",
+      "meaning_en": "put up, stand"
+    },
+    {
+      "#": 476,
+      "no": 10014,
+      "romaji": "tatsu",
+      "kana": "たつ",
+      "kanji": "建つ",
+      "meaning_mm": "တည်ဆောက်ပြီးမြောက်သည်",
+      "meaning_en": "be constructed"
+    },
+    {
+      "#": 477,
+      "no": 10015,
+      "romaji": "tateru",
+      "kana": "たてる",
+      "kanji": "建てる",
+      "meaning_mm": "ဆောက်လုပ်သည်",
+      "meaning_en": "construct"
+    },
+    {
+      "#": 478,
+      "no": 10016,
+      "romaji": "sodatsu",
+      "kana": "そだつ",
+      "kanji": "育つ",
+      "meaning_mm": "ကြီးထွားလာသည်",
+      "meaning_en": "grow, be trained"
+    },
+    {
+      "#": 479,
+      "no": 10017,
+      "romaji": "sodateru",
+      "kana": "そだてる",
+      "kanji": "育てる",
+      "meaning_mm": "မွေးသည်၊ကျွေးမွေးသည်၊ပြုစုပျိုးထောင်သည်",
+      "meaning_en": "raise (children), grow (flowers), train"
+    },
+    {
+      "#": 480,
+      "no": 10018,
+      "romaji": "haeru",
+      "kana": "はえる",
+      "kanji": "生える",
+      "meaning_mm": "အပင်ပေါက်သည်",
+      "meaning_en": "(hair etc) grows, (tooth) comes in"
+    },
+    {
+      "#": 481,
+      "no": 10019,
+      "romaji": "hayasu",
+      "kana": "はやす",
+      "kanji": "生やす",
+      "meaning_mm": "မုတ်ဆိတ်မွေးမွေးသည်",
+      "meaning_en": "grow ( a beard)"
+    },
+    {
+      "#": 482,
+      "no": 10020,
+      "romaji": "yogoreru",
+      "kana": "よごれる",
+      "kanji": "汚れる",
+      "meaning_mm": "ပေကျံသည်၊အနာအဆာရသည်",
+      "meaning_en": "be dirty"
+    },
+    {
+      "#": 483,
+      "no": 10021,
+      "romaji": "yogosu",
+      "kana": "よごす",
+      "kanji": "汚す",
+      "meaning_mm": "စွန်းထင်သည်၊ပေကျံစေသည်",
+      "meaning_en": "dirty, pollute"
+    },
+    {
+      "#": 484,
+      "no": 10022,
+      "romaji": "kowareru",
+      "kana": "こわれる",
+      "kanji": "壊れる",
+      "meaning_mm": "ပျက်သည်",
+      "meaning_en": "break"
+    },
+    {
+      "#": 485,
+      "no": 10023,
+      "romaji": "kowasu",
+      "kana": "こわす",
+      "kanji": "壊す",
+      "meaning_mm": "ဖျက်သည်",
+      "meaning_en": "break, damage (one’s health)"
+    },
+    {
+      "#": 486,
+      "no": 10024,
+      "romaji": "wareru",
+      "kana": "われる",
+      "kanji": "割れる",
+      "meaning_mm": "ကွဲသည်",
+      "meaning_en": "break, be split"
+    },
+    {
+      "#": 487,
+      "no": 10025,
+      "romaji": "waru",
+      "kana": "わる",
+      "kanji": "割る",
+      "meaning_mm": "ခွဲခြမ်းသည်",
+      "meaning_en": "break, divide"
+    },
+    {
+      "#": 488,
+      "no": 10026,
+      "romaji": "oreru",
+      "kana": "おれる",
+      "kanji": "折れる",
+      "meaning_mm": "ကျိုးသည်၊ကွေ့သည်",
+      "meaning_en": "break, snap"
+    },
+    {
+      "#": 489,
+      "no": 10027,
+      "romaji": "oru",
+      "kana": "おる",
+      "kanji": "折る",
+      "meaning_mm": "ချိုးသည်",
+      "meaning_en": "break, fold"
+    },
+    {
+      "#": 490,
+      "no": 10028,
+      "romaji": "yabureru",
+      "kana": "やぶれる",
+      "kanji": "破れる",
+      "meaning_mm": "စုတ်ပြဲသည်",
+      "meaning_en": "be ripped"
+    },
+    {
+      "#": 491,
+      "no": 10029,
+      "romaji": "yaburu",
+      "kana": "やぶる",
+      "kanji": "破る",
+      "meaning_mm": "ဆုတ်ဖြဲသည်",
+      "meaning_en": "rip, break ( a promise/rule/ record)"
+    },
+    {
+      "#": 492,
+      "no": 10030,
+      "romaji": "magaru",
+      "kana": "まがる",
+      "kanji": "曲がる",
+      "meaning_mm": "ကောက်သည်၊ကွေးသည်",
+      "meaning_en": "turn, curve"
+    },
+    {
+      "#": 493,
+      "no": 10031,
+      "romaji": "mageru",
+      "kana": "まげる",
+      "kanji": "曲げる",
+      "meaning_mm": "ခေါက်သည်၊ချိုးသည်",
+      "meaning_en": "bend, curve"
+    },
+    {
+      "#": 494,
+      "no": 10032,
+      "romaji": "hazureru",
+      "kana": "はずれる",
+      "kanji": "外れる",
+      "meaning_mm": "ပြုတ်သည်",
+      "meaning_en": "come off, be wrong, drop out"
+    },
+    {
+      "#": 495,
+      "no": 10033,
+      "romaji": "hazusu",
+      "kana": "はずす",
+      "kanji": "外す",
+      "meaning_mm": "ဖြုတ်သည်၊ ချွတ်သည်",
+      "meaning_en": "take off, get wrong, exclude"
+    },
+    {
+      "#": 496,
+      "no": 10034,
+      "romaji": "yureru",
+      "kana": "ゆれる",
+      "kanji": "揺れる",
+      "meaning_mm": "လှုပ်ရမ်းသည်",
+      "meaning_en": "shake, waver"
+    },
+    {
+      "#": 497,
+      "no": 10035,
+      "romaji": "yurasu",
+      "kana": "ゆらす",
+      "kanji": "揺らす",
+      "meaning_mm": "လှုပ်ခါသည်",
+      "meaning_en": "push ( a swing)"
+    },
+    {
+      "#": 498,
+      "no": 10036,
+      "romaji": "nagareru",
+      "kana": "ながれる",
+      "kanji": "流れる",
+      "meaning_mm": "ရေစီးသည်၊ စီးဆင်းသည်",
+      "meaning_en": "flow, drift, be spread"
+    },
+    {
+      "#": 499,
+      "no": 10037,
+      "romaji": "nagasu",
+      "kana": "ながす",
+      "kanji": "流す",
+      "meaning_mm": "ရေသွန်သည်၊ ရေမျှောသည်",
+      "meaning_en": "flush, shed, wash away, play (music), spread"
+    },
+    {
+      "#": 500,
+      "no": 10038,
+      "romaji": "nureru",
+      "kana": "ぬれる",
+      "kanji": "濡れる",
+      "meaning_mm": "ရေစိုသည်",
+      "meaning_en": "become wet"
+    },
+    {
+      "#": 501,
+      "no": 10039,
+      "romaji": "nurasu",
+      "kana": "ぬらす",
+      "kanji": "濡らす",
+      "meaning_mm": "ရေစွတ်သည်",
+      "meaning_en": "wet"
+    },
+    {
+      "#": 502,
+      "no": 10040,
+      "romaji": "mayou",
+      "kana": "まよう",
+      "kanji": "迷う",
+      "meaning_mm": "မျက်စိလည်သည်",
+      "meaning_en": "become lost, vacillate"
+    },
+    {
+      "#": 503,
+      "no": 10041,
+      "romaji": "nayamu",
+      "kana": "なやむ",
+      "kanji": "悩む",
+      "meaning_mm": "စိတ်ရှုပ်သည်၊ တွေဝေသည်၊ စိတ်သောကရောက်သည်",
+      "meaning_en": "be troubled, suffer"
+    },
+    {
+      "#": 504,
+      "no": 10042,
+      "romaji": "awateru",
+      "kana": "あわてる",
+      "kanji": "慌てる",
+      "meaning_mm": "လောသည်။ပြာယာခတ်သည်",
+      "meaning_en": "hurry, panic"
+    },
+    {
+      "#": 505,
+      "no": 10043,
+      "romaji": "sameru",
+      "kana": "さめる",
+      "kanji": "覚める",
+      "meaning_mm": "အေးသွားသည်",
+      "meaning_en": "wake up, sober up"
+    },
+    {
+      "#": 506,
+      "no": 10044,
+      "romaji": "samasu",
+      "kana": "さます",
+      "kanji": "覚ます",
+      "meaning_mm": "နိုးစေသည်",
+      "meaning_en": "wake up, sober up"
+    },
+    {
+      "#": 507,
+      "no": 10045,
+      "romaji": "nemuru",
+      "kana": "ねむる",
+      "kanji": "眠る",
+      "meaning_mm": "အိပ်သည်",
+      "meaning_en": "sleep"
+    },
+    {
+      "#": 508,
+      "no": 10046,
+      "romaji": "inoru",
+      "kana": "いのる",
+      "kanji": "祈る",
+      "meaning_mm": "မေတ္တာပို့သည်၊ ဆုတောင်းသည်",
+      "meaning_en": "pray"
+    },
+    {
+      "#": 509,
+      "no": 10047,
+      "romaji": "iwau",
+      "kana": "いわう",
+      "kanji": "祝う",
+      "meaning_mm": "ဂုဏ်ပြုသည်",
+      "meaning_en": "celebrate"
+    },
+    {
+      "#": 510,
+      "no": 10048,
+      "romaji": "kanjiru",
+      "kana": "かんじる",
+      "kanji": "感じる",
+      "meaning_mm": "ခံစားသည်",
+      "meaning_en": "feel"
+    },
+    {
+      "#": 511,
+      "no": 10049,
+      "romaji": "kurasumēto",
+      "kana": "クラスメート",
+      "kanji": "クラスメート",
+      "meaning_mm": "အတန်းဖော်",
+      "meaning_en": "classmate"
+    },
+    {
+      "#": 512,
+      "no": 10050,
+      "romaji": "gurūpu",
+      "kana": "グループ",
+      "kanji": "グループ",
+      "meaning_mm": "အုပ်စု၊အဖွဲ့",
+      "meaning_en": "group"
+    },
+    {
+      "#": 513,
+      "no": 10051,
+      "romaji": "chīmu",
+      "kana": "チーム",
+      "kanji": "チーム",
+      "meaning_mm": "အသင်းအဖွဲ့",
+      "meaning_en": "team"
+    },
+    {
+      "#": 514,
+      "no": 10052,
+      "romaji": "purofesshonaru",
+      "kana": "プロフェッショナル",
+      "kanji": "プロフェッショナル",
+      "meaning_mm": "ပညာရှင်ကျသော၊ပညာရှင်အဆင့်",
+      "meaning_en": "professional"
+    },
+    {
+      "#": 515,
+      "no": 10053,
+      "romaji": "amachua",
+      "kana": "アマチュア",
+      "kanji": "アマチュア",
+      "meaning_mm": "ဝါသနာရှင်အဆင့်",
+      "meaning_en": "amateur"
+    },
+    {
+      "#": 516,
+      "no": 10054,
+      "romaji": "torēningu",
+      "kana": "トレーニング",
+      "kanji": "トレーニング",
+      "meaning_mm": "လေ့ကျင့်ရေး",
+      "meaning_en": "training"
+    },
+    {
+      "#": 517,
+      "no": 10055,
+      "romaji": "massāji",
+      "kana": "マッサージ",
+      "kanji": "マッサージ",
+      "meaning_mm": "နှိပ်နယ်ခြင်း",
+      "meaning_en": "massage"
+    },
+    {
+      "#": 518,
+      "no": 10056,
+      "romaji": "adobaisu",
+      "kana": "アドバイス",
+      "kanji": "アドバイス",
+      "meaning_mm": "အကြံဥာဏ်ပေးခြင်း",
+      "meaning_en": "advice"
+    },
+    {
+      "#": 519,
+      "no": 10057,
+      "romaji": "aidea･aidia",
+      "kana": "アイデア・アイディア",
+      "kanji": "アイデア・アイディア",
+      "meaning_mm": "အကြံဥာဏ်၊စိတ်ကူးစိတ်သန်း",
+      "meaning_en": "idea"
+    },
+    {
+      "#": 520,
+      "no": 10058,
+      "romaji": "toppu",
+      "kana": "トップ",
+      "kanji": "トップ",
+      "meaning_mm": "ထွတ်ထိပ်",
+      "meaning_en": "top, first"
+    },
+    {
+      "#": 521,
+      "no": 10059,
+      "romaji": "supīdo",
+      "kana": "スピード",
+      "kanji": "スピード",
+      "meaning_mm": "အရှိန်၊အမြန်နှုန်း",
+      "meaning_en": "speed"
+    },
+    {
+      "#": 522,
+      "no": 10060,
+      "romaji": "rasshu",
+      "kana": "ラッシュ",
+      "kanji": "ラッシュ",
+      "meaning_mm": "အလျင်စလိုဖြစ်ခြင်း",
+      "meaning_en": "rush, rush hour"
+    },
+    {
+      "#": 523,
+      "no": 10061,
+      "romaji": "baiku",
+      "kana": "バイク",
+      "kanji": "バイク",
+      "meaning_mm": "မော်တော်ဆိုင်ကယ်",
+      "meaning_en": "motorcycle"
+    },
+    {
+      "#": 524,
+      "no": 10062,
+      "romaji": "herumetto",
+      "kana": "ヘルメット",
+      "kanji": "ヘルメット",
+      "meaning_mm": "ဆိုင်ကယ်ဦးထုပ်",
+      "meaning_en": "helmet"
+    },
+    {
+      "#": 525,
+      "no": 10063,
+      "romaji": "kontakutorenzu",
+      "kana": "コンタクトレンズ",
+      "kanji": "コンタクトレンズ",
+      "meaning_mm": "မျက်ကပ်မှန်",
+      "meaning_en": "contact lens"
+    },
+    {
+      "#": 526,
+      "no": 10064,
+      "romaji": "garasu",
+      "kana": "ガラス",
+      "kanji": "ガラス",
+      "meaning_mm": "မှန်၊ဖန်",
+      "meaning_en": "glass, pane"
+    },
+    {
+      "#": 527,
+      "no": 10065,
+      "romaji": "purasuchikku",
+      "kana": "プラスチック",
+      "kanji": "プラスチック",
+      "meaning_mm": "ပလတ်စတစ်",
+      "meaning_en": "plastic"
+    },
+    {
+      "#": 528,
+      "no": 10066,
+      "romaji": "beranda",
+      "kana": "ベランダ",
+      "kanji": "ベランダ",
+      "meaning_mm": "ဝရန်တာ",
+      "meaning_en": "balcony"
+    },
+    {
+      "#": 529,
+      "no": 10067,
+      "romaji": "petto",
+      "kana": "ペット",
+      "kanji": "ペット",
+      "meaning_mm": "အိမ်မွေးတိရစ္ဆာန်",
+      "meaning_en": "pet"
+    },
+    {
+      "#": 530,
+      "no": 10068,
+      "romaji": "benchi",
+      "kana": "ベンチ",
+      "kanji": "ベンチ",
+      "meaning_mm": "ခုံတန်းရှည်",
+      "meaning_en": "bench"
+    },
+    {
+      "#": 531,
+      "no": 10069,
+      "romaji": "dezain",
+      "kana": "デザイン",
+      "kanji": "デザイン",
+      "meaning_mm": "ဒီဇိုင်း",
+      "meaning_en": "design"
+    },
+    {
+      "#": 532,
+      "no": 10070,
+      "romaji": "bāgensēru",
+      "kana": "バーゲンセール",
+      "kanji": "バーゲンセール",
+      "meaning_mm": "စျေးချရောင်းခြင်း",
+      "meaning_en": "sale"
+    },
+    {
+      "#": 533,
+      "no": 10071,
+      "romaji": "pāto",
+      "kana": "パート",
+      "kanji": "パート",
+      "meaning_mm": "အချိန်ပိုင်းအလုပ်",
+      "meaning_en": "part-time job, part"
+    },
+    {
+      "#": 534,
+      "no": 10072,
+      "romaji": "kombiniensusutoa",
+      "kana": "コンビニエンスストア",
+      "kanji": "コンビニエンスストア",
+      "meaning_mm": "၂၄ နာရီဖွင့်ထားသောစတိုးဆိုင်",
+      "meaning_en": "convenience store"
+    },
+    {
+      "#": 535,
+      "no": 10073,
+      "romaji": "reji",
+      "kana": "レジ",
+      "kanji": "レジ",
+      "meaning_mm": "ငွေရှင်းကောင်တာ",
+      "meaning_en": "cash register"
+    },
+    {
+      "#": 536,
+      "no": 10074,
+      "romaji": "reshīto",
+      "kana": "レシート",
+      "kanji": "レシート",
+      "meaning_mm": "ငွေလက်ခံဖြတ်ပိုင်း",
+      "meaning_en": "receipt"
+    },
+    {
+      "#": 537,
+      "no": 10075,
+      "romaji": "insutanto",
+      "kana": "インスタント",
+      "kanji": "インスタント",
+      "meaning_mm": "အသင့်စား(ခေါက်ဆွဲထုပ်စသည်)",
+      "meaning_en": "instant"
+    },
+    {
+      "#": 538,
+      "no": 10076,
+      "romaji": "fasutofūdo",
+      "kana": "ファストフード",
+      "kanji": "ファストフード",
+      "meaning_mm": "အချိန်တိုအတွင်းအော်ဒါမှာယူ၍အသင့်စားသုံးနိုင်သောအစားအစာ",
+      "meaning_en": "fast food"
+    },
+    {
+      "#": 539,
+      "no": 10077,
+      "romaji": "furūtsu",
+      "kana": "フルーツ",
+      "kanji": "フルーツ",
+      "meaning_mm": "သစ်သီး",
+      "meaning_en": "fruit"
+    },
+    {
+      "#": 540,
+      "no": 10078,
+      "romaji": "dezāto",
+      "kana": "デザート",
+      "kanji": "デザート",
+      "meaning_mm": "အချိုပွဲ",
+      "meaning_en": "dessert"
+    },
+    {
+      "#": 541,
+      "no": 10079,
+      "romaji": "intānetto",
+      "kana": "インターネット",
+      "kanji": "インターネット",
+      "meaning_mm": "အင်တာနက်",
+      "meaning_en": "internet"
+    },
+    {
+      "#": 542,
+      "no": 10080,
+      "romaji": "chaimu",
+      "kana": "チャイム",
+      "kanji": "チャイム",
+      "meaning_mm": "ခေါင်းလောင်းတီးသံ၊ခေါင်းလောင်းထိုးသံ၊ဘဲလ်တီးသံ၊အချက်ပေးသံ",
+      "meaning_en": "chime"
+    },
+    {
+      "#": 543,
+      "no": 10081,
+      "romaji": "anaunsu",
+      "kana": "アナウンス",
+      "kanji": "アナウンス",
+      "meaning_mm": "ကြေညာခြင်း",
+      "meaning_en": "announcement"
+    },
+    {
+      "#": 544,
+      "no": 10082,
+      "romaji": "messēji",
+      "kana": "メッセージ",
+      "kanji": "メッセージ",
+      "meaning_mm": "စာတို၊မက်ဆေ့ချ်",
+      "meaning_en": "message"
+    },
+    {
+      "#": 545,
+      "no": 10083,
+      "romaji": "panfuretto",
+      "kana": "パンフレット",
+      "kanji": "パンフレット",
+      "meaning_mm": "လက်ကမ်းစာစောင်",
+      "meaning_en": "pamphlet, brochure"
+    },
+    {
+      "#": 546,
+      "no": 10084,
+      "romaji": "kādo",
+      "kana": "カード",
+      "kanji": "カード",
+      "meaning_mm": "ကတ်",
+      "meaning_en": "card"
+    },
+    {
+      "#": 547,
+      "no": 10085,
+      "romaji": "intabyū",
+      "kana": "インタビュー",
+      "kanji": "インタビュー",
+      "meaning_mm": "အင်တာဗျူး",
+      "meaning_en": "interview"
+    },
+    {
+      "#": 548,
+      "no": 10086,
+      "romaji": "ankēto",
+      "kana": "アンケート",
+      "kanji": "アンケート",
+      "meaning_mm": "စစ်တမ်းကောက်ယူမှု",
+      "meaning_en": "questionnaire"
+    },
+    {
+      "#": 549,
+      "no": 10087,
+      "romaji": "dēta",
+      "kana": "データ",
+      "kanji": "データ",
+      "meaning_mm": "သတင်းအချက်အလက်မှတ်တမ်းများ",
+      "meaning_en": "data"
+    },
+    {
+      "#": 550,
+      "no": 10088,
+      "romaji": "pāsento",
+      "kana": "パーセント",
+      "kanji": "パーセント",
+      "meaning_mm": "ရာခိုင်နှုန်း",
+      "meaning_en": "percent"
+    },
+    {
+      "#": 551,
+      "no": 10089,
+      "romaji": "koi",
+      "kana": "こい",
+      "kanji": "濃い",
+      "meaning_mm": "ပျစ်သော၊ အရောင်ရင့်သော၊ အတိုင်းအတာများသော",
+      "meaning_en": "dark (color), strong (flavor), think, heavy (beard)"
+    },
+    {
+      "#": 552,
+      "no": 10090,
+      "romaji": "usui",
+      "kana": "うすい",
+      "kanji": "薄い",
+      "meaning_mm": "ပါးသော၊ မှိန်သော",
+      "meaning_en": "light (color, flavor, makeup), weak (coffee), thin (bread"
+    },
+    {
+      "#": 553,
+      "no": 10091,
+      "romaji": "suppai",
+      "kana": "すっぱい",
+      "kanji": "酸っぱい",
+      "meaning_mm": "ချဥ်သော",
+      "meaning_en": "sour"
+    },
+    {
+      "#": 554,
+      "no": 10092,
+      "romaji": "kusai",
+      "kana": "くさい",
+      "kanji": "臭い",
+      "meaning_mm": "နံသော",
+      "meaning_en": "stinky"
+    },
+    {
+      "#": 555,
+      "no": 10093,
+      "romaji": "okashii",
+      "kana": "おかしい",
+      "kanji": "おかしい",
+      "meaning_mm": "ရယ်စရာကောင်းသော၊တမူထူးခြားနေသော",
+      "meaning_en": "amusing, strange, ridiculous"
+    },
+    {
+      "#": 556,
+      "no": 10094,
+      "romaji": "kakkoii",
+      "kana": "かっこいい",
+      "kanji": "かっこいい",
+      "meaning_mm": "ခန့်ညားသော၊စတိုင်လ်မိုက်သော",
+      "meaning_en": "cool, nifty"
+    },
+    {
+      "#": 557,
+      "no": 10095,
+      "romaji": "umai",
+      "kana": "うまい",
+      "kanji": "うまい",
+      "meaning_mm": "ကျွမ်းကျင်သော၊အရသာကောင်းမွန်သော",
+      "meaning_en": "skillful, tasty, smooth, successful"
+    },
+    {
+      "#": 558,
+      "no": 10096,
+      "romaji": "shitashii",
+      "kana": "したしい",
+      "kanji": "親しい",
+      "meaning_mm": "ရင်းနှီးသော",
+      "meaning_en": "intimate"
+    },
+    {
+      "#": 559,
+      "no": 10097,
+      "romaji": "kuwashii",
+      "kana": "くわしい",
+      "kanji": "詳しい",
+      "meaning_mm": "နှံ့စပ်သော၊အသေးစိတ်သိသော",
+      "meaning_en": "detailed, knowledgeable"
+    },
+    {
+      "#": 560,
+      "no": 10098,
+      "romaji": "komakai",
+      "kana": "こまかい",
+      "kanji": "細かい",
+      "meaning_mm": "သေးနုပ်သော",
+      "meaning_en": "fine, detailed, small (money)"
+    },
+    {
+      "#": 561,
+      "no": 10099,
+      "romaji": "asai",
+      "kana": "あさい",
+      "kanji": "浅い",
+      "meaning_mm": "တိမ်သည်။ အတိုင်းအတာ နည်းသော၊ အရောင်နုသော",
+      "meaning_en": "shallow"
+    },
+    {
+      "#": 562,
+      "no": 10100,
+      "romaji": "katai",
+      "kana": "かたい",
+      "kanji": "固い・硬い",
+      "meaning_mm": "မာကျောသော",
+      "meaning_en": "hard, firm, stiff"
+    },
+    {
+      "#": 563,
+      "no": 10101,
+      "romaji": "nurui",
+      "kana": "ぬるい",
+      "kanji": "ぬるい",
+      "meaning_mm": "နွေးသော",
+      "meaning_en": "lukewarm"
+    },
+    {
+      "#": 564,
+      "no": 10102,
+      "romaji": "mabushii",
+      "kana": "まぶしい",
+      "kanji": "まぶしい",
+      "meaning_mm": "မျက်စိကျိန်းသော",
+      "meaning_en": "dazzling"
+    },
+    {
+      "#": 565,
+      "no": 10103,
+      "romaji": "mushiatsui",
+      "kana": "むしあつい",
+      "kanji": "蒸し暑い",
+      "meaning_mm": "အိုက်စပ်စပ်ရှိသော",
+      "meaning_en": "sultry"
+    },
+    {
+      "#": 566,
+      "no": 10104,
+      "romaji": "seiketsuna",
+      "kana": "せいけつな",
+      "kanji": "清潔な",
+      "meaning_mm": "သန့်ရှင်းသပ်ရပ်သော",
+      "meaning_en": "clean"
+    },
+    {
+      "#": 567,
+      "no": 10105,
+      "romaji": "shinsenna",
+      "kana": "しんせんな",
+      "kanji": "新鮮な",
+      "meaning_mm": "လတ်ဆတ်သော",
+      "meaning_en": "fresh"
+    },
+    {
+      "#": 568,
+      "no": 10106,
+      "romaji": "yutakana",
+      "kana": "ゆたかな",
+      "kanji": "豊かな",
+      "meaning_mm": "ကြွယ်ဝများပြားသော",
+      "meaning_en": "abundant, rich"
+    },
+    {
+      "#": 569,
+      "no": 10107,
+      "romaji": "rippana",
+      "kana": "りっぱな",
+      "kanji": "立派な",
+      "meaning_mm": "ခန့်ညားသော",
+      "meaning_en": "great, grand, full-grown, full fledged (crime)"
+    },
+    {
+      "#": 570,
+      "no": 10108,
+      "romaji": "seikakuna",
+      "kana": "せいかくな",
+      "kanji": "正確な",
+      "meaning_mm": "တိကျမှန်ကန်သော",
+      "meaning_en": "exact, accurate, punctual"
+    },
+    {
+      "#": 571,
+      "no": 10109,
+      "romaji": "tashikana",
+      "kana": "たしかな",
+      "kanji": "確かな",
+      "meaning_mm": "တိကျသော",
+      "meaning_en": "definite, certain, probably"
+    },
+    {
+      "#": 572,
+      "no": 10110,
+      "romaji": "jūyōna",
+      "kana": "じゅうような",
+      "kanji": "重要な",
+      "meaning_mm": "အရေးပါသော၊အရေးကြီးသော",
+      "meaning_en": "important"
+    },
+    {
+      "#": 573,
+      "no": 10111,
+      "romaji": "hitsuyōna",
+      "kana": "ひつような",
+      "kanji": "必要な",
+      "meaning_mm": "လိုအပ်သော",
+      "meaning_en": "necessary"
+    },
+    {
+      "#": 574,
+      "no": 10112,
+      "romaji": "mottainai",
+      "kana": "もったいない",
+      "kanji": "もったいない",
+      "meaning_mm": "နှမျောစရာကောင်းသော",
+      "meaning_en": "what a waste!, regretful that something good is wasted"
+    },
+    {
+      "#": 575,
+      "no": 10113,
+      "romaji": "sugoi",
+      "kana": "すごい",
+      "kanji": "すごい",
+      "meaning_mm": "ထူးချွန်သော၊ကောင်းမွန်သော",
+      "meaning_en": "ferocious, incredible, great"
+    },
+    {
+      "#": 576,
+      "no": 10114,
+      "romaji": "hidoi",
+      "kana": "ひどい",
+      "kanji": "ひどい",
+      "meaning_mm": "ရက်စက်သော၊ဒုက္ခရောက်သော",
+      "meaning_en": "despicable, terrible"
+    },
+    {
+      "#": 577,
+      "no": 10115,
+      "romaji": "hageshii",
+      "kana": "はげしい",
+      "kanji": "激しい",
+      "meaning_mm": "ပြင်းထန်သော",
+      "meaning_en": "violent, intense, considerable"
+    },
+    {
+      "#": 578,
+      "no": 10116,
+      "romaji": "sokkurina",
+      "kana": "そっくりな",
+      "kanji": "そっくりな",
+      "meaning_mm": "ချွတ်စွတ်တူသော",
+      "meaning_en": "look-alike"
+    },
+    {
+      "#": 579,
+      "no": 10117,
+      "romaji": "kyūna",
+      "kana": "きゅうな",
+      "kanji": "急な",
+      "meaning_mm": "ရုတ်တရက်၊မတ်စောက်သော",
+      "meaning_en": "sudden, urgent, rapid, steep, sharp (curve)"
+    },
+    {
+      "#": 580,
+      "no": 10118,
+      "romaji": "tekitona",
+      "kana": "てきとな",
+      "kanji": "敵とな",
+      "meaning_mm": "သင့်တော်သော",
+      "meaning_en": "suitable, proper, convenient (response), irresponsible"
+    },
+    {
+      "#": 581,
+      "no": 10119,
+      "romaji": "tokubetsuna",
+      "kana": "とくべつな",
+      "kanji": "特別な",
+      "meaning_mm": "အထူးစပယ်ရှယ်ဖြစ်သော",
+      "meaning_en": "special, particular"
+    },
+    {
+      "#": 582,
+      "no": 10120,
+      "romaji": "kanzenna",
+      "kana": "かんぜんな",
+      "kanji": "完全な",
+      "meaning_mm": "ပြီးပြည့်စုံသော",
+      "meaning_en": "complete, total"
+    },
+    {
+      "#": 583,
+      "no": 10121,
+      "romaji": "sakanna",
+      "kana": "さかんな",
+      "kanji": "盛んな",
+      "meaning_mm": "စည်ကားသိုက်မြိုက်သော၊စည်ပင်သာယာသော",
+      "meaning_en": "flourishing, big, frequent"
+    },
+    {
+      "#": 584,
+      "no": 10122,
+      "romaji": "samazamana",
+      "kana": "さまざまな",
+      "kanji": "様々な",
+      "meaning_mm": "အမျိုးမျိုးသော",
+      "meaning_en": "various"
+    },
+    {
+      "#": 585,
+      "no": 10123,
+      "romaji": "kanōna",
+      "kana": "かのうな",
+      "kanji": "可能な",
+      "meaning_mm": "ဖြစ်နိုင်ချေရှိသော",
+      "meaning_en": "possible"
+    },
+    {
+      "#": 586,
+      "no": 10124,
+      "romaji": "fukanōna",
+      "kana": "ふかのうな",
+      "kanji": "不可能な",
+      "meaning_mm": "ဖြစ်နိုင်ချေမရှိသော",
+      "meaning_en": "impossible"
+    },
+    {
+      "#": 587,
+      "no": 10125,
+      "romaji": "kihontekina",
+      "kana": "きほんてきな",
+      "kanji": "基本的な",
+      "meaning_mm": "အခြေခံကျသော",
+      "meaning_en": "basic"
+    },
+    {
+      "#": 588,
+      "no": 10126,
+      "romaji": "kokusaitekina",
+      "kana": "こくさいてきな",
+      "kanji": "国際的な",
+      "meaning_mm": "အပြည်ပြည်ဆိုင်ရာဖြစ်သော",
+      "meaning_en": "international, cosmopolitan"
+    },
+    {
+      "#": 589,
+      "no": 10127,
+      "romaji": "barabarana",
+      "kana": "ばらばらな",
+      "kanji": "ばらばらな",
+      "meaning_mm": "အကွဲကွဲအပြားပြားဖြစ်သော၊ပြန့်ကျဲနေသော",
+      "meaning_en": "greatly divided, scattered"
+    },
+    {
+      "#": 590,
+      "no": 10128,
+      "romaji": "boroborona",
+      "kana": "ぼろぼろな",
+      "kanji": "ぼろぼろな",
+      "meaning_mm": "စုတ်ပြတ်သော၊ဟောင်းနွမ်းသော",
+      "meaning_en": "ragged, dilapidated, worn out"
+    },
+    {
+      "#": 591,
+      "no": 10129,
+      "romaji": "hijōni",
+      "kana": "ひじょうに",
+      "kanji": "非常に",
+      "meaning_mm": "အလွန်၊ အင်မတန်",
+      "meaning_en": "very, urgency"
+    },
+    {
+      "#": 592,
+      "no": 10130,
+      "romaji": "taihenni",
+      "kana": "たいへんに",
+      "kanji": "大変に",
+      "meaning_mm": "အလွန်၊ အင်မတန်",
+      "meaning_en": "terribly, greatly"
+    },
+    {
+      "#": 593,
+      "no": 10131,
+      "romaji": "hotondo",
+      "kana": "ほとんど",
+      "kanji": "ほとんど",
+      "meaning_mm": "အများအားဖြင့်၊တော်တော်များများ",
+      "meaning_en": "nearly, hardly"
+    },
+    {
+      "#": 594,
+      "no": 10132,
+      "romaji": "daitai",
+      "kana": "だいたい",
+      "kanji": "大体",
+      "meaning_mm": "အကြမ်းဖျင်းအားဖြင့်",
+      "meaning_en": "most, about"
+    },
+    {
+      "#": 595,
+      "no": 10133,
+      "romaji": "kanari",
+      "kana": "かなり",
+      "kanji": "かなり",
+      "meaning_mm": "တော်တော်လေး",
+      "meaning_en": "fairly, quite"
+    },
+    {
+      "#": 596,
+      "no": 10134,
+      "romaji": "zuibun",
+      "kana": "ずいぶん",
+      "kanji": "ずいぶん",
+      "meaning_mm": "အင်မတန်",
+      "meaning_en": "considerably"
+    },
+    {
+      "#": 597,
+      "no": 10135,
+      "romaji": "kekkō",
+      "kana": "けっこう",
+      "kanji": "けっこう",
+      "meaning_mm": "တော်တော်",
+      "meaning_en": "pretty, very"
+    },
+    {
+      "#": 598,
+      "no": 10136,
+      "romaji": "zuibun",
+      "kana": "ずいぶん",
+      "kanji": "大分",
+      "meaning_mm": "တော်တော်",
+      "meaning_en": "mostly, fairly"
+    },
+    {
+      "#": 599,
+      "no": 10137,
+      "romaji": "motto",
+      "kana": "もっと",
+      "kanji": "もっと",
+      "meaning_mm": "ပို၍၊ပိုပြီး",
+      "meaning_en": "more"
+    },
+    {
+      "#": 600,
+      "no": 10138,
+      "romaji": "shikkari",
+      "kana": "しっかり",
+      "kanji": "しっかり",
+      "meaning_mm": "အသေအချာ",
+      "meaning_en": "completely, quite"
+    },
+    {
+      "#": 601,
+      "no": 10139,
+      "romaji": "ippai",
+      "kana": "いっぱい",
+      "kanji": "いっぱい",
+      "meaning_mm": "အစွမ်းကုန်",
+      "meaning_en": "full"
+    },
+    {
+      "#": 602,
+      "no": 10140,
+      "romaji": "girigiri",
+      "kana": "ぎりぎり",
+      "kanji": "ぎりぎり",
+      "meaning_mm": "လက်မတင်လေး",
+      "meaning_en": "barely, the last minute"
+    },
+    {
+      "#": 603,
+      "no": 10141,
+      "romaji": "pittari",
+      "kana": "ぴったり",
+      "kanji": "ぴったり",
+      "meaning_mm": "ကွတ်တိ",
+      "meaning_en": "exactly, closely, perfectly, suddenly"
+    },
+    {
+      "#": 604,
+      "no": 10142,
+      "romaji": "taitei",
+      "kana": "たいてい",
+      "kanji": "たいてい",
+      "meaning_mm": "သာမန်အားဖြင့်",
+      "meaning_en": "usually, mostly"
+    },
+    {
+      "#": 605,
+      "no": 10143,
+      "romaji": "dōjini",
+      "kana": "どうじに",
+      "kanji": "同時に",
+      "meaning_mm": "တပြိုင်နက်တည်း",
+      "meaning_en": "simultaneously, on the other hand"
+    },
+    {
+      "#": 606,
+      "no": 10144,
+      "romaji": "maemotte",
+      "kana": "まえもって",
+      "kanji": "前もって",
+      "meaning_mm": "ကြိုတင်ပြီး",
+      "meaning_en": "in advance"
+    },
+    {
+      "#": 607,
+      "no": 10145,
+      "romaji": "suguni",
+      "kana": "すぐに",
+      "kanji": "すぐに",
+      "meaning_mm": "ချက်ချင်း",
+      "meaning_en": "immediate(ly), right"
+    },
+    {
+      "#": 608,
+      "no": 10146,
+      "romaji": "mōsugu",
+      "kana": "もうすぐ",
+      "kanji": "もうすぐ",
+      "meaning_mm": "မကြာမီ၊မကြာခင်",
+      "meaning_en": "soon"
+    },
+    {
+      "#": 609,
+      "no": 10147,
+      "romaji": "totsuzen",
+      "kana": "とつぜん",
+      "kanji": "突然",
+      "meaning_mm": "ရုတ်တရက်(မမျှော်လင့်သည့်ကိစ္စ)",
+      "meaning_en": "suddenly"
+    },
+    {
+      "#": 610,
+      "no": 10148,
+      "romaji": "atsutoyuumani",
+      "kana": "あっというまに",
+      "kanji": "あっという間に",
+      "meaning_mm": "အချိန်တိုလေးအတွင်း၊မျက်စိတမှိတ်အတွင်း",
+      "meaning_en": "in a flash"
+    },
+    {
+      "#": 611,
+      "no": 10149,
+      "romaji": "itsunomanika",
+      "kana": "いつのまにか",
+      "kanji": "いつの間にか",
+      "meaning_mm": "မသိလိုက်တဲ့အချိန်အတွင်း",
+      "meaning_en": "before one knows"
+    },
+    {
+      "#": 612,
+      "no": 10150,
+      "romaji": "shibaraku",
+      "kana": "しばらく",
+      "kanji": "しばらく",
+      "meaning_mm": "ခဏတာအတွင်း",
+      "meaning_en": "for a moment, for a while"
+    },
+    {
+      "#": 613,
+      "no": 10151,
+      "romaji": "zutto",
+      "kana": "ずっと",
+      "kanji": "ずっと",
+      "meaning_mm": "တောက်လျှောက်၊အလွန်",
+      "meaning_en": "by far, very, all the time"
+    },
+    {
+      "#": 614,
+      "no": 10152,
+      "romaji": "aikawarazu",
+      "kana": "あいかわらず",
+      "kanji": "相変わらず",
+      "meaning_mm": "ထုံးစံအတိုင်း၊ ခါတိုင်းလိုပဲ၊ အရင်အတိုင်းပဲ၊ ပုံမှန်လိုပဲ",
+      "meaning_en": "as usual, unchanged"
+    },
+    {
+      "#": 615,
+      "no": 10153,
+      "romaji": "tsugitsugini",
+      "kana": "つぎつぎに",
+      "kanji": "次々に",
+      "meaning_mm": "ဆက်ကာဆက်ကာ",
+      "meaning_en": "one after another"
+    },
+    {
+      "#": 616,
+      "no": 10154,
+      "romaji": "dondon",
+      "kana": "どんどん",
+      "kanji": "どんどん",
+      "meaning_mm": "ဆက်တိုက်",
+      "meaning_en": "steadily, farther and farther, more and more, bang"
+    },
+    {
+      "#": 617,
+      "no": 10155,
+      "romaji": "masumasu",
+      "kana": "ますます",
+      "kanji": "ますます",
+      "meaning_mm": "ပိုပိုပြီး",
+      "meaning_en": "increasingly, more and more"
+    },
+    {
+      "#": 618,
+      "no": 10156,
+      "romaji": "yatto",
+      "kana": "やっと",
+      "kanji": "やっと",
+      "meaning_mm": "နောက်ဆုံးတော့၊အဆုံးသတ်တွင်",
+      "meaning_en": "finally, barely"
+    },
+    {
+      "#": 619,
+      "no": 10157,
+      "romaji": "tōtō",
+      "kana": "とうとう",
+      "kanji": "とうとう",
+      "meaning_mm": "နောက်ဆုံးတော့၊အဆုံးသတ်တွင်",
+      "meaning_en": "finally, at long last, after all"
+    },
+    {
+      "#": 620,
+      "no": 10158,
+      "romaji": "tsuini",
+      "kana": "ついに",
+      "kanji": "ついに",
+      "meaning_mm": "နောက်ဆုံးတော့၊အဆုံးသတ်တွင်",
+      "meaning_en": "at long last, in the end"
+    },
+    {
+      "#": 621,
+      "no": 10159,
+      "romaji": "mochiron",
+      "kana": "もちろん",
+      "kanji": "もちろん",
+      "meaning_mm": "ဒါပေါ့",
+      "meaning_en": "of course, naturally"
+    },
+    {
+      "#": 622,
+      "no": 10160,
+      "romaji": "yahari",
+      "kana": "やはり",
+      "kanji": "やはり",
+      "meaning_mm": "ထင်သည့်အတိုင်း",
+      "meaning_en": "as expected, still, after all"
+    },
+    {
+      "#": 623,
+      "no": 10161,
+      "romaji": "kitto",
+      "kana": "きっと",
+      "kanji": "きっと",
+      "meaning_mm": "သေချာပေါက်၊မုချမသွေ",
+      "meaning_en": "certainly, without fail"
+    },
+    {
+      "#": 624,
+      "no": 10162,
+      "romaji": "zehi",
+      "kana": "ぜひ",
+      "kanji": "ぜひ",
+      "meaning_mm": "ဆက်ဆက်",
+      "meaning_en": "really (want to do), by all means"
+    },
+    {
+      "#": 625,
+      "no": 10163,
+      "romaji": "narubeku",
+      "kana": "なるべく",
+      "kanji": "なるべく",
+      "meaning_mm": "တက်နိုင်သလောက်၊တတ်စွမ်းသလောက်",
+      "meaning_en": "as much as possible"
+    },
+    {
+      "#": 626,
+      "no": 10164,
+      "romaji": "angai",
+      "kana": "あんがい",
+      "kanji": "案外",
+      "meaning_mm": "မျှော်မှန်းသည်ထက်ပို၍",
+      "meaning_en": "surprisingly"
+    },
+    {
+      "#": 627,
+      "no": 10165,
+      "romaji": "moshikasuruto･moshikashitara･moshikashite",
+      "kana": "もしかすると・もしかしたら・もしかして",
+      "kanji": "もしかすると・もしかしたら・もしかして",
+      "meaning_mm": "မဟုတ်မှလွဲရော..",
+      "meaning_en": "maybe"
+    },
+    {
+      "#": 628,
+      "no": 10166,
+      "romaji": "masaka",
+      "kana": "まさか",
+      "kanji": "まさか",
+      "meaning_mm": "မဟုတ်မှလွဲရော..",
+      "meaning_en": "no way, never (dream of)"
+    },
+    {
+      "#": 629,
+      "no": 10167,
+      "romaji": "ukkari",
+      "kana": "うっかり",
+      "kanji": "うっかり",
+      "meaning_mm": "အမှတ်တမဲ့",
+      "meaning_en": "absentmindedly"
+    },
+    {
+      "#": 630,
+      "no": 10168,
+      "romaji": "tsui",
+      "kana": "つい",
+      "kanji": "つい",
+      "meaning_mm": "ရုတ်တရက်",
+      "meaning_en": "in spite of oneself, involuntarily"
+    },
+    {
+      "#": 631,
+      "no": 10169,
+      "romaji": "omowazu",
+      "kana": "おもわず",
+      "kanji": "思わず",
+      "meaning_mm": "အမှတ်မထင်",
+      "meaning_en": "instinctively, uncounsciously"
+    },
+    {
+      "#": 632,
+      "no": 10170,
+      "romaji": "hotto",
+      "kana": "ほっと",
+      "kanji": "ほっと",
+      "meaning_mm": "စိတ်ချသွားခြင်း",
+      "meaning_en": "relieved, to my relief"
+    },
+    {
+      "#": 633,
+      "no": 10171,
+      "romaji": "iraira",
+      "kana": "いらいら",
+      "kanji": "いらいら",
+      "meaning_mm": "စိတ်မတည်မငြိမ်ဖြစ်သော",
+      "meaning_en": "irritated"
+    },
+    {
+      "#": 634,
+      "no": 10172,
+      "romaji": "nombiri",
+      "kana": "のんびり",
+      "kanji": "のんびり",
+      "meaning_mm": "အေးအေးဆေးဆေးလုပ်ဆောင်ခြင်း",
+      "meaning_en": "leisurely, laidback, dawdlingly"
+    },
+    {
+      "#": 635,
+      "no": 10173,
+      "romaji": "jitsuwa",
+      "kana": "じつは",
+      "kanji": "実は",
+      "meaning_mm": "အမှန်ပြောရရင်",
+      "meaning_en": "to tell the truth, actually"
+    },
+    {
+      "#": 636,
+      "no": 10174,
+      "romaji": "dokusho",
+      "kana": "どくしょ",
+      "kanji": "読書",
+      "meaning_mm": "စာဖတ်ခြင်း",
+      "meaning_en": "reading"
+    },
+    {
+      "#": 637,
+      "no": 10175,
+      "romaji": "ensō",
+      "kana": "えんそう",
+      "kanji": "演奏",
+      "meaning_mm": "တီးမှုတ်ခြင်း",
+      "meaning_en": "playing ( an instrument), musical performance"
+    },
+    {
+      "#": 638,
+      "no": 10176,
+      "romaji": "geijiyutsu",
+      "kana": "げいじゅつ",
+      "kanji": "芸術",
+      "meaning_mm": "အနုပညာ(စာပေ၊ဂီတ၊ ပန်းချီပန်းပု၊ပြဇာတ်၊ရုပ်ရှင်အစရှိသည့် )",
+      "meaning_en": "art"
+    },
+    {
+      "#": 639,
+      "no": 10177,
+      "romaji": "kensa",
+      "kana": "けんさ",
+      "kanji": "検査",
+      "meaning_mm": "စစ်ဆေးစမ်းသပ်မှု",
+      "meaning_en": "inspection, (medical) examination"
+    },
+    {
+      "#": 640,
+      "no": 10178,
+      "romaji": "ketsueki",
+      "kana": "けつえき",
+      "kanji": "血液",
+      "meaning_mm": "သွေး",
+      "meaning_en": "blood"
+    },
+    {
+      "#": 641,
+      "no": 10179,
+      "romaji": "chiriyou",
+      "kana": "ちりょう",
+      "kanji": "治療",
+      "meaning_mm": "ဆေးကုသခြင်း",
+      "meaning_en": "treatment"
+    },
+    {
+      "#": 642,
+      "no": 10180,
+      "romaji": "shōjiyou",
+      "kana": "しょうじょう",
+      "kanji": "症状",
+      "meaning_mm": "ရောဂါအခြေအနေ",
+      "meaning_en": "symptom"
+    },
+    {
+      "#": 643,
+      "no": 10181,
+      "romaji": "yobō",
+      "kana": "よぼう",
+      "kanji": "予防",
+      "meaning_mm": "ကြိုတင်ကာကွယ်မှု",
+      "meaning_en": "prevention"
+    },
+    {
+      "#": 644,
+      "no": 10182,
+      "romaji": "eiyō",
+      "kana": "えいよう",
+      "kanji": "栄養",
+      "meaning_mm": "အာဟာရ",
+      "meaning_en": "nutrition"
+    },
+    {
+      "#": 645,
+      "no": 10183,
+      "romaji": "shujutsu",
+      "kana": "しゅじゅつ",
+      "kanji": "手術",
+      "meaning_mm": "ခွဲစိတ်ကုသမှု",
+      "meaning_en": "surgery, operation"
+    },
+    {
+      "#": 646,
+      "no": 10184,
+      "romaji": "shibou",
+      "kana": "しぼう",
+      "kanji": "死亡",
+      "meaning_mm": "သေဆုံးမှု",
+      "meaning_en": "death"
+    },
+    {
+      "#": 647,
+      "no": 10185,
+      "romaji": "inochi",
+      "kana": "いのち",
+      "kanji": "命",
+      "meaning_mm": "အသက်",
+      "meaning_en": "life"
+    },
+    {
+      "#": 648,
+      "no": 10186,
+      "romaji": "isshō",
+      "kana": "いっしょう",
+      "kanji": "一生",
+      "meaning_mm": "ရာသက်ပန် ၊ တစ်ဘဝလုံး ၊ တသက်လုံး၊ တသက်တာ",
+      "meaning_en": "(whole) life, forever"
+    },
+    {
+      "#": 649,
+      "no": 10187,
+      "romaji": "gokai",
+      "kana": "ごかい",
+      "kanji": "誤解",
+      "meaning_mm": "အထင်လွဲမှု",
+      "meaning_en": "misunderstanding"
+    },
+    {
+      "#": 650,
+      "no": 10188,
+      "romaji": "kōkai",
+      "kana": "こうかい",
+      "kanji": "後悔",
+      "meaning_mm": "နောင်တရမှု",
+      "meaning_en": "regret"
+    },
+    {
+      "#": 651,
+      "no": 10189,
+      "romaji": "wake",
+      "kana": "わけ",
+      "kanji": "訳",
+      "meaning_mm": "ဘာသာပြန်",
+      "meaning_en": "reason, meaning"
+    },
+    {
+      "#": 652,
+      "no": 10190,
+      "romaji": "taido",
+      "kana": "たいど",
+      "kanji": "態度",
+      "meaning_mm": "အမူအရာ၊ဟန်အမူအရာ",
+      "meaning_en": "attitude"
+    },
+    {
+      "#": 653,
+      "no": 10191,
+      "romaji": "kuse",
+      "kana": "くせ",
+      "kanji": "癖",
+      "meaning_mm": "အကျင့်",
+      "meaning_en": "habit"
+    },
+    {
+      "#": 654,
+      "no": 10192,
+      "romaji": "reigi",
+      "kana": "れいぎ",
+      "kanji": "礼儀",
+      "meaning_mm": "လောကဝတ်",
+      "meaning_en": "etiquette"
+    },
+    {
+      "#": 655,
+      "no": 10193,
+      "romaji": "monku",
+      "kana": "もんく",
+      "kanji": "文句",
+      "meaning_mm": "အပြစ်တင်မှု၊မကျေနပ်မှု",
+      "meaning_en": "complaint, words, passage"
+    },
+    {
+      "#": 656,
+      "no": 10194,
+      "romaji": "hyōjō",
+      "kana": "ひょうじょう",
+      "kanji": "表情",
+      "meaning_mm": "မျက်နှာထား၊ မျက်နှာအမူအရာ",
+      "meaning_en": "(facial) expression"
+    },
+    {
+      "#": 657,
+      "no": 10195,
+      "romaji": "hyoumen",
+      "kana": "ひょうめん",
+      "kanji": "表面",
+      "meaning_mm": "မျက်နှာပြင်",
+      "meaning_en": "surface"
+    },
+    {
+      "#": 658,
+      "no": 10196,
+      "romaji": "kinen",
+      "kana": "きんえん",
+      "kanji": "禁煙",
+      "meaning_mm": "ဆေးလိပ်မသောက်ရ",
+      "meaning_en": "no smoking, quitting smoking"
+    },
+    {
+      "#": 659,
+      "no": 10197,
+      "romaji": "kinshi",
+      "kana": "きんし",
+      "kanji": "禁止",
+      "meaning_mm": "တားမြစ်ခြင်း",
+      "meaning_en": "proibition"
+    },
+    {
+      "#": 660,
+      "no": 10198,
+      "romaji": "kansei",
+      "kana": "かんせい",
+      "kanji": "完成",
+      "meaning_mm": "ပြီးမြောက်ခြင်း ၊",
+      "meaning_en": "completion"
+    },
+    {
+      "#": 661,
+      "no": 10199,
+      "romaji": "kadai",
+      "kana": "かだい",
+      "kanji": "課題",
+      "meaning_mm": "ဖြေရှင်းရမည့်ကိစ္စ",
+      "meaning_en": "issue, (school) assignment"
+    },
+    {
+      "#": 662,
+      "no": 10200,
+      "romaji": "reigai",
+      "kana": "れいがい",
+      "kanji": "例外",
+      "meaning_mm": "ခြွင်းချက်",
+      "meaning_en": "exception"
+    },
+    {
+      "#": 663,
+      "no": 10201,
+      "romaji": "kihon",
+      "kana": "きほん",
+      "kanji": "基本",
+      "meaning_mm": "အခြေခံ",
+      "meaning_en": "fundamentals, basis"
+    },
+    {
+      "#": 664,
+      "no": 10202,
+      "romaji": "kiroku",
+      "kana": "きろく",
+      "kanji": "記録",
+      "meaning_mm": "မှတ်တမ်း၊စံချိန်",
+      "meaning_en": "record"
+    },
+    {
+      "#": 665,
+      "no": 10203,
+      "romaji": "jōtai",
+      "kana": "じょうたい",
+      "kanji": "状態",
+      "meaning_mm": "အခြေအနေ",
+      "meaning_en": "condition, state"
+    },
+    {
+      "#": 666,
+      "no": 10204,
+      "romaji": "dekigoto",
+      "kana": "できごと",
+      "kanji": "出来事",
+      "meaning_mm": "အဖြစ်အပျက်",
+      "meaning_en": "happening"
+    },
+    {
+      "#": 667,
+      "no": 10205,
+      "romaji": "bamen",
+      "kana": "ばめん",
+      "kanji": "場面",
+      "meaning_mm": "ပြကွင်း၊ ပြကွက်",
+      "meaning_en": "situation, sight, scene( of drama)"
+    },
+    {
+      "#": 668,
+      "no": 10206,
+      "romaji": "kikai",
+      "kana": "きかい",
+      "kanji": "機会",
+      "meaning_mm": "အခွင့်အလမ်း",
+      "meaning_en": "opportunity"
+    },
+    {
+      "#": 669,
+      "no": 10207,
+      "romaji": "kiyori",
+      "kana": "きょり",
+      "kanji": "距離",
+      "meaning_mm": "အကွာအဝေး",
+      "meaning_en": "distance"
+    },
+    {
+      "#": 670,
+      "no": 10208,
+      "romaji": "teian",
+      "kana": "ていあん",
+      "kanji": "提案",
+      "meaning_mm": "အဆိုတင်သွင်းချက်",
+      "meaning_en": "proposal"
+    },
+    {
+      "#": 671,
+      "no": 10209,
+      "romaji": "yaritori",
+      "kana": "やりとり",
+      "kanji": "やり取り",
+      "meaning_mm": "အပြန်အလှန်အပေးအယူ",
+      "meaning_en": "exchange"
+    },
+    {
+      "#": 672,
+      "no": 10210,
+      "romaji": "chishiki",
+      "kana": "ちしき",
+      "kanji": "知識",
+      "meaning_mm": "အသိဥာဏ်၊ ဗဟုသုတ",
+      "meaning_en": "knowledge"
+    },
+    {
+      "#": 673,
+      "no": 10211,
+      "romaji": "jitsuriyoku",
+      "kana": "じつりょく",
+      "kanji": "実力",
+      "meaning_mm": "အရည်အချင်းအစစ်",
+      "meaning_en": "ability"
+    },
+    {
+      "#": 674,
+      "no": 10212,
+      "romaji": "shiyudan",
+      "kana": "しゅだん",
+      "kanji": "手段",
+      "meaning_mm": "နည်းလမ်း",
+      "meaning_en": "means"
+    },
+    {
+      "#": 675,
+      "no": 10213,
+      "romaji": "daihyou",
+      "kana": "だいひょう",
+      "kanji": "代表",
+      "meaning_mm": "ကိုယ်စားလှယ်၊ကိုယ်စားပြုသူ",
+      "meaning_en": "representative, representation"
+    },
+    {
+      "#": 676,
+      "no": 10214,
+      "romaji": "eikyō",
+      "kana": "えいきょう",
+      "kanji": "影響",
+      "meaning_mm": "ဩဇာလွှမ်းမိုးမှု",
+      "meaning_en": "influence"
+    },
+    {
+      "#": 677,
+      "no": 10215,
+      "romaji": "kōka",
+      "kana": "こうか",
+      "kanji": "効果",
+      "meaning_mm": "ထိရောက်မှု၊အကျိုးသက်ရောက်မှု၊ ပြဇတ်ရဲ့အလင်းရောင်၊ ဆက်တင်ပြင်ဆင်ခြင်း",
+      "meaning_en": "effect"
+    },
+    {
+      "#": 678,
+      "no": 10216,
+      "romaji": "inshō",
+      "kana": "いんしょう",
+      "kanji": "印象",
+      "meaning_mm": "ခံစားမှု ၊ စိတ်ခံစားမှု ၊ အာရုံခံစားမှုပုံရိပ်",
+      "meaning_en": "impression"
+    },
+    {
+      "#": 679,
+      "no": 10217,
+      "romaji": "shirushi",
+      "kana": "しるし",
+      "kanji": "印",
+      "meaning_mm": "အမှတ်အသား",
+      "meaning_en": "mark, sign, pledge"
+    },
+    {
+      "#": 680,
+      "no": 10218,
+      "romaji": "aizu",
+      "kana": "あいず",
+      "kanji": "合図",
+      "meaning_mm": "အချက်ပြခြင်း",
+      "meaning_en": "signal"
+    },
+    {
+      "#": 681,
+      "no": 10219,
+      "romaji": "kyōtsū",
+      "kana": "きょうつう",
+      "kanji": "共通",
+      "meaning_mm": "တူညီမှု",
+      "meaning_en": "common, shared"
+    },
+    {
+      "#": 682,
+      "no": 10220,
+      "romaji": "kyōchou",
+      "kana": "きょうちょう",
+      "kanji": "協調",
+      "meaning_mm": "ပူးပေါင်းလုပ်ဆောင်မှု၊တက်ညီလက်ညီလုပ်ခြင်း",
+      "meaning_en": "emphasis"
+    },
+    {
+      "#": 683,
+      "no": 10221,
+      "romaji": "shōryaku",
+      "kana": "しょうりゃく",
+      "kanji": "省略",
+      "meaning_mm": "အတိုကောက်ခြင်း၊တိုအောင်ဖြုတ်ခြင်း",
+      "meaning_en": "abbreviation, omission"
+    },
+    {
+      "#": 684,
+      "no": 10222,
+      "romaji": "chōsen",
+      "kana": "ちょうせん",
+      "kanji": "挑戦",
+      "meaning_mm": "စိန်ခေါ်ခြင်း",
+      "meaning_en": "challenge"
+    },
+    {
+      "#": 685,
+      "no": 10223,
+      "romaji": "yaruki",
+      "kana": "やるき",
+      "kanji": "やる気",
+      "meaning_mm": "လုပ်ချင်စိတ်",
+      "meaning_en": "motivation, willingness"
+    },
+    {
+      "#": 686,
+      "no": 10224,
+      "romaji": "yuuki",
+      "kana": "ゆうき",
+      "kanji": "勇気",
+      "meaning_mm": "သတိ",
+      "meaning_en": "courage"
+    },
+    {
+      "#": 687,
+      "no": 10225,
+      "romaji": "shikaku",
+      "kana": "しかく",
+      "kanji": "資格",
+      "meaning_mm": "အရည်အချင်း ၊ လိုင်စင်၊ ရပ်တည်ချက်၊ ရာထူး",
+      "meaning_en": "qualification, being worthy"
+    },
+    {
+      "#": 688,
+      "no": 10226,
+      "romaji": "shinsei",
+      "kana": "しんせい",
+      "kanji": "申請",
+      "meaning_mm": "လျှောက်လွှာတင်ခြင်း",
+      "meaning_en": "application"
+    },
+    {
+      "#": 689,
+      "no": 10227,
+      "romaji": "honnin",
+      "kana": "ほんにん",
+      "kanji": "本人",
+      "meaning_mm": "ကာယကံရှင်",
+      "meaning_en": "the person in question, the said person"
+    },
+    {
+      "#": 690,
+      "no": 10228,
+      "romaji": "keiyaku",
+      "kana": "けいやく",
+      "kanji": "契約",
+      "meaning_mm": "စာချုပ်ချုပ်ခြင်း",
+      "meaning_en": "contract"
+    },
+    {
+      "#": 691,
+      "no": 10229,
+      "romaji": "shōmei",
+      "kana": "しょうめい",
+      "kanji": "証明",
+      "meaning_mm": "သက်သေပြခြင်း",
+      "meaning_en": "evidence"
+    },
+    {
+      "#": 692,
+      "no": 10230,
+      "romaji": "henkō",
+      "kana": "へんこう",
+      "kanji": "変更",
+      "meaning_mm": "ပြောင်းလဲမှု(သတ်မှတ်ထားသည့်ရက်အစီအစဥ်ကိုပြောင်းသည်)",
+      "meaning_en": "change"
+    },
+    {
+      "#": 693,
+      "no": 10231,
+      "romaji": "hozon",
+      "kana": "ほぞん",
+      "kanji": "保存",
+      "meaning_mm": "သိုလှောင်ခြင်း၊ထိန်းသိမ်းခြင်း",
+      "meaning_en": "preservation"
+    },
+    {
+      "#": 694,
+      "no": 10232,
+      "romaji": "hogo",
+      "kana": "ほご",
+      "kanji": "保護",
+      "meaning_mm": "ကာကွယ်စောင့်ရှောက်မှု",
+      "meaning_en": "conservation, protection, guardianship, (social) security"
+    },
+    {
+      "#": 695,
+      "no": 10233,
+      "romaji": "kankyō",
+      "kana": "かんきょう",
+      "kanji": "環境",
+      "meaning_mm": "ပတ်ဝန်းကျင်အနေအထား",
+      "meaning_en": "environment"
+    },
+    {
+      "#": 696,
+      "no": 10234,
+      "romaji": "shigen",
+      "kana": "しげん",
+      "kanji": "資源",
+      "meaning_mm": "သယံဇာတပစ္စည်း",
+      "meaning_en": "resources"
+    },
+    {
+      "#": 697,
+      "no": 10235,
+      "romaji": "fusoku",
+      "kana": "ふそく",
+      "kanji": "不足",
+      "meaning_mm": "မလုံမလောက်ဖြစ်ခြင်း",
+      "meaning_en": "shortage"
+    },
+    {
+      "#": 698,
+      "no": 10236,
+      "romaji": "eikin",
+      "kana": "へいきん",
+      "kanji": "平均",
+      "meaning_mm": "ပျမ်းမျှခြင်း",
+      "meaning_en": "average, unvaried"
+    },
+    {
+      "#": 699,
+      "no": 10237,
+      "romaji": "wariai",
+      "kana": "わりあい",
+      "kanji": "割合",
+      "meaning_mm": "အချိုးအစား၊နှုန်း",
+      "meaning_en": "ratio, relatively"
+    },
+    {
+      "#": 700,
+      "no": 10238,
+      "romaji": "shoubai",
+      "kana": "しょうばい",
+      "kanji": "商売",
+      "meaning_mm": "အရောင်းအဝယ်",
+      "meaning_en": "business"
+    },
+    {
+      "#": 701,
+      "no": 10239,
+      "romaji": "shōhin",
+      "kana": "しょうひん",
+      "kanji": "商品",
+      "meaning_mm": "ကုန်ပစ္စည်း",
+      "meaning_en": "product"
+    },
+    {
+      "#": 702,
+      "no": 10240,
+      "romaji": "shitsu",
+      "kana": "しつ",
+      "kanji": "質",
+      "meaning_mm": "အရည်အသွေး",
+      "meaning_en": "quality"
+    },
+    {
+      "#": 703,
+      "no": 10241,
+      "romaji": "kata",
+      "kana": "かた",
+      "kanji": "型",
+      "meaning_mm": "ပုံသဏ္ဍာန်",
+      "meaning_en": "model"
+    },
+    {
+      "#": 704,
+      "no": 10242,
+      "romaji": "seisan",
+      "kana": "せいさん",
+      "kanji": "生産",
+      "meaning_mm": "ထုတ်လုပ်ခြင်း",
+      "meaning_en": "production"
+    },
+    {
+      "#": 705,
+      "no": 10243,
+      "romaji": "shōhi",
+      "kana": "しょうひ",
+      "kanji": "消費",
+      "meaning_mm": "သုံးစွဲမှု",
+      "meaning_en": "consumption"
+    },
+    {
+      "#": 706,
+      "no": 10244,
+      "romaji": "butsuka",
+      "kana": "ぶっか",
+      "kanji": "物価",
+      "meaning_mm": "ကုန်စျေးနှုန်း",
+      "meaning_en": "prices"
+    },
+    {
+      "#": 707,
+      "no": 10245,
+      "romaji": "tōsan",
+      "kana": "とうさん",
+      "kanji": "倒産",
+      "meaning_mm": "ဒေဝါလီခံခြင်း",
+      "meaning_en": "bankruptcy"
+    },
+    {
+      "#": 708,
+      "no": 10246,
+      "romaji": "keitai",
+      "kana": "けいたい",
+      "kanji": "携帯",
+      "meaning_mm": "ကိုင်ဆောင်မှု၊လက်ထဲမှာကိုင်ဆောင်ပြီးလမ်းလျှောက်",
+      "meaning_en": "carrying"
+    },
+    {
+      "#": 709,
+      "no": 10247,
+      "romaji": "gendai",
+      "kana": "げんだい",
+      "kanji": "現代",
+      "meaning_mm": "မျက်မှောက်ခေတ်၊ ဒုတိယကမ္ဘာစစ်ကြီးနောက်ပိုင်းခေတ်",
+      "meaning_en": "the present age"
+    },
+    {
+      "#": 710,
+      "no": 10248,
+      "romaji": "seiki",
+      "kana": "せいき",
+      "kanji": "世紀",
+      "meaning_mm": "ရာစုနှစ်",
+      "meaning_en": "century"
+    },
+    {
+      "#": 711,
+      "no": 10249,
+      "romaji": "bunka",
+      "kana": "ぶんか",
+      "kanji": "文化",
+      "meaning_mm": "ယဥ်ကျေးမှု",
+      "meaning_en": "culture"
+    },
+    {
+      "#": 712,
+      "no": 10250,
+      "romaji": "toshi",
+      "kana": "とし",
+      "kanji": "都市",
+      "meaning_mm": "မြို့တော်၊ မြို့ကြီး",
+      "meaning_en": "city"
+    },
+    {
+      "#": 713,
+      "no": 10251,
+      "romaji": "chihō",
+      "kana": "ちほう",
+      "kanji": "地方",
+      "meaning_mm": "ဒေသ၊ နယ်",
+      "meaning_en": "region, the provinces"
+    },
+    {
+      "#": 714,
+      "no": 10252,
+      "romaji": "sensō",
+      "kana": "せんそう",
+      "kanji": "戦争",
+      "meaning_mm": "စစ်၊စစ်ပွဲ",
+      "meaning_en": "war"
+    },
+    {
+      "#": 715,
+      "no": 10253,
+      "romaji": "eiwa",
+      "kana": "へいわ",
+      "kanji": "平和",
+      "meaning_mm": "ငြိမ်းချမ်းရေး",
+      "meaning_en": "peace"
+    },
+    {
+      "#": 716,
+      "no": 10254,
+      "romaji": "noboru",
+      "kana": "のぼる",
+      "kanji": "上る",
+      "meaning_mm": "တက်သည်",
+      "meaning_en": "go up, reach ( a number)"
+    },
+    {
+      "#": 717,
+      "no": 10255,
+      "romaji": "kudaru",
+      "kana": "くだる",
+      "kanji": "下る",
+      "meaning_mm": "ဆင်းသည်၊ရေစုန်ဖြစ်သည်။နယ်မြေဆင်းသည်",
+      "meaning_en": "go down"
+    },
+    {
+      "#": 718,
+      "no": 10256,
+      "romaji": "susumu",
+      "kana": "すすむ",
+      "kanji": "進む",
+      "meaning_mm": "ရှေ့တိုးသည်",
+      "meaning_en": "move forward, progress, advance"
+    },
+    {
+      "#": 719,
+      "no": 10257,
+      "romaji": "susumeru",
+      "kana": "すすめる",
+      "kanji": "進める",
+      "meaning_mm": "ရှေ့တိုးတက်စေသည်",
+      "meaning_en": "move forward, proceed with, set forward"
+    },
+    {
+      "#": 720,
+      "no": 10258,
+      "romaji": "tōru",
+      "kana": "とおる",
+      "kanji": "通る",
+      "meaning_mm": "ဖြတ်သန်းသည်",
+      "meaning_en": "pass through, pass (exam), be accepted"
+    },
+    {
+      "#": 721,
+      "no": 10259,
+      "romaji": "tōsu",
+      "kana": "とおす",
+      "kanji": "通す",
+      "meaning_mm": "ဖြတ််သွားစေသည်၊ ထိုးဖေါက်သည်",
+      "meaning_en": "pass (through something), run through, push ( a proposal)"
+    },
+    {
+      "#": 722,
+      "no": 10260,
+      "romaji": "koeru",
+      "kana": "こえる",
+      "kanji": "超える・越える",
+      "meaning_mm": "ကျော်လွန်သည်၊ကျော်လွှားသည်",
+      "meaning_en": "cross, surpass"
+    },
+    {
+      "#": 723,
+      "no": 10261,
+      "romaji": "sugiru",
+      "kana": "すぎる",
+      "kanji": "過ぎる",
+      "meaning_mm": "-လွန်သည်",
+      "meaning_en": "pass by, elapse"
+    },
+    {
+      "#": 724,
+      "no": 10262,
+      "romaji": "sugosu",
+      "kana": "すごす",
+      "kanji": "過ごす",
+      "meaning_mm": "အချိန်ကုန်စေသည်",
+      "meaning_en": "spend (time)"
+    },
+    {
+      "#": 725,
+      "no": 10263,
+      "romaji": "utsuru",
+      "kana": "うつる",
+      "kanji": "移る",
+      "meaning_mm": "ရွေ့ပြောင်းသည်",
+      "meaning_en": "move, relocate, (illness) is transmitted"
+    },
+    {
+      "#": 726,
+      "no": 10264,
+      "romaji": "utsusu",
+      "kana": "うつす",
+      "kanji": "移す",
+      "meaning_mm": "ရွှေပြောင်းသည်",
+      "meaning_en": "move, relocate, transmit (an illness)"
+    },
+    {
+      "#": 727,
+      "no": 10265,
+      "romaji": "tsureru",
+      "kana": "つれる",
+      "kanji": "連れる",
+      "meaning_mm": "အဖော်ခေါ်သည်",
+      "meaning_en": "take/bring (someone)"
+    },
+    {
+      "#": 728,
+      "no": 10266,
+      "romaji": "yoru",
+      "kana": "よる",
+      "kanji": "寄る",
+      "meaning_mm": "လမ်းကြုံဝင်သည်",
+      "meaning_en": "move closer, be one-sided, stop by"
+    },
+    {
+      "#": 729,
+      "no": 10267,
+      "romaji": "yoseru",
+      "kana": "よせる",
+      "kanji": "寄せる",
+      "meaning_mm": "နီးကပ်စေသည်၊ဘေးကိုတိုးစေသည်",
+      "meaning_en": "move toward"
+    },
+    {
+      "#": 730,
+      "no": 10268,
+      "romaji": "ataeru",
+      "kana": "あたえる",
+      "kanji": "与える",
+      "meaning_mm": "ပေးအပ်သည်( ဘေးအန္တရာယ်ပေးသည်)",
+      "meaning_en": "provide, give, cause"
+    },
+    {
+      "#": 731,
+      "no": 10269,
+      "romaji": "eru",
+      "kana": "える",
+      "kanji": "得る",
+      "meaning_mm": "ရရှိသည် ၊ လုပ်နိုင်သည်",
+      "meaning_en": "obtain"
+    },
+    {
+      "#": 732,
+      "no": 10270,
+      "romaji": "muku",
+      "kana": "むく",
+      "kanji": "向く",
+      "meaning_mm": "မျက်နှာမူသည်၊သင့်တော်သည်",
+      "meaning_en": "face, be suited for"
+    },
+    {
+      "#": 733,
+      "no": 10271,
+      "romaji": "mukeru",
+      "kana": "むける",
+      "kanji": "向ける",
+      "meaning_mm": "မျက်နှာမူသည်",
+      "meaning_en": "turn toward, aim at, target"
+    },
+    {
+      "#": 734,
+      "no": 10272,
+      "romaji": "susumeru",
+      "kana": "すすめる",
+      "kanji": "勧める",
+      "meaning_mm": "တိုက်တွန်းသည်",
+      "meaning_en": "recommend, offer"
+    },
+    {
+      "#": 735,
+      "no": 10273,
+      "romaji": "susumeru",
+      "kana": "すすめる",
+      "kanji": "薦める",
+      "meaning_mm": "တိုက်တွန်းသည်",
+      "meaning_en": "recommend, suggest"
+    },
+    {
+      "#": 736,
+      "no": 10274,
+      "romaji": "makaseru",
+      "kana": "まかせる",
+      "kanji": "任せる",
+      "meaning_mm": "တာဝန်ကိုလွှဲအပ်သည်",
+      "meaning_en": "entrust, leave it to"
+    },
+    {
+      "#": 737,
+      "no": 10275,
+      "romaji": "mamoru",
+      "kana": "まもる",
+      "kanji": "守る",
+      "meaning_mm": "လိုက်နာသည်၊ကာကွယ်သည်",
+      "meaning_en": "respect, protect"
+    },
+    {
+      "#": 738,
+      "no": 10276,
+      "romaji": "arasō",
+      "kana": "あらそう",
+      "kanji": "争う",
+      "meaning_mm": "ပြိုင်သည်။စစ်ပွဲပြုလုပ်သည်၊ယှဉ်ပြိုင်သည်၊ပြိုင်ဆိုင်သည်",
+      "meaning_en": "quarrel, complete"
+    },
+    {
+      "#": 739,
+      "no": 10277,
+      "romaji": "nozomu",
+      "kana": "のぞむ",
+      "kanji": "臨む",
+      "meaning_mm": "မျက်နှာမူသည်၊ တက်ရောက်သည်၊ ပါဝင်ဆင်နွှဲသည်၊ ကြုံတွေ့သည်",
+      "meaning_en": "wish"
+    },
+    {
+      "#": 740,
+      "no": 10278,
+      "romaji": "shinjiru",
+      "kana": "しんじる",
+      "kanji": "信じる",
+      "meaning_mm": "ယုံကြည်သည်",
+      "meaning_en": "believe, believe in ( a religion)"
+    },
+    {
+      "#": 741,
+      "no": 10279,
+      "romaji": "tsūjiru",
+      "kana": "つうじる",
+      "kanji": "通じる",
+      "meaning_mm": "သဘောပေါက်သည်",
+      "meaning_en": "be understood, lead to, get through"
+    },
+    {
+      "#": 742,
+      "no": 10280,
+      "romaji": "akiru",
+      "kana": "あきる",
+      "kanji": "飽きる",
+      "meaning_mm": "ငြီးငွေ့သည်",
+      "meaning_en": "be tired of"
+    },
+    {
+      "#": 743,
+      "no": 10281,
+      "romaji": "omoitsuku",
+      "kana": "おもいつく",
+      "kanji": "思いつく",
+      "meaning_mm": "အကြံရသည်၊အကြံပေါ်သည်",
+      "meaning_en": "think of"
+    },
+    {
+      "#": 744,
+      "no": 10282,
+      "romaji": "omoiyaru",
+      "kana": "おもいやる",
+      "kanji": "思いやる",
+      "meaning_mm": "စာနာသည်၊သူတပါးအတွက်တွေးပေးသည်၊ကိုယ်ချင်းစာသည်",
+      "meaning_en": "be considerate of"
+    },
+    {
+      "#": 745,
+      "no": 10283,
+      "romaji": "netchūsuru",
+      "kana": "ねっちゅうする",
+      "kanji": "熱中する",
+      "meaning_mm": "တခုခုတွင်အာရုံစူးစိုက်နေသည်",
+      "meaning_en": "be addicted to ( a hobby), be absorbed in"
+    },
+    {
+      "#": 746,
+      "no": 10284,
+      "romaji": "kurasu",
+      "kana": "くらす",
+      "kanji": "暮らす",
+      "meaning_mm": "နေထိုင်သည်",
+      "meaning_en": "live, get by"
+    },
+    {
+      "#": 747,
+      "no": 10285,
+      "romaji": "maku",
+      "kana": "まく",
+      "kanji": "巻く",
+      "meaning_mm": "လိမ့်သည်",
+      "meaning_en": "wrap, wind up"
+    },
+    {
+      "#": 748,
+      "no": 10286,
+      "romaji": "musubu",
+      "kana": "むすぶ",
+      "kanji": "結ぶ",
+      "meaning_mm": "ချည်နှောင်သည်",
+      "meaning_en": "tie (up), connect, enter into ( a treaty/contract)"
+    },
+    {
+      "#": 749,
+      "no": 10287,
+      "romaji": "sumu",
+      "kana": "すむ",
+      "kanji": "済む",
+      "meaning_mm": "ပြီးဆုံးသည်",
+      "meaning_en": "finish, get by with/without"
+    },
+    {
+      "#": 750,
+      "no": 10288,
+      "romaji": "sumaseru･sumasu",
+      "kana": "すませる・済ます",
+      "kanji": "済ませる・済ます",
+      "meaning_mm": "ပြီးဆုံးစေသည်",
+      "meaning_en": "finish, make do with"
+    },
+    {
+      "#": 751,
+      "no": 10289,
+      "romaji": "dekiru",
+      "kana": "できる",
+      "kanji": "出来る",
+      "meaning_mm": "လုပ််နိုင်သည်၊ တက်နိုင်သည်",
+      "meaning_en": "be built, arise, make, can do"
+    },
+    {
+      "#": 752,
+      "no": 10290,
+      "romaji": "kireru",
+      "kana": "きれる",
+      "kanji": "切れる",
+      "meaning_mm": "ပြတ်သည်",
+      "meaning_en": "cut well, expire, run down/out"
+    },
+    {
+      "#": 753,
+      "no": 10291,
+      "romaji": "kirasu",
+      "kana": "きらす",
+      "kanji": "切らす",
+      "meaning_mm": "ဖြတ်သည်",
+      "meaning_en": "run out of"
+    },
+    {
+      "#": 754,
+      "no": 10292,
+      "romaji": "tsutawaru",
+      "kana": "つたわる",
+      "kanji": "伝わる",
+      "meaning_mm": "တဆင့်ပြောခံရသည်၊ သတင်းရသည်",
+      "meaning_en": "be spread, be handed down, be introduced, be transmitted"
+    },
+    {
+      "#": 755,
+      "no": 10293,
+      "romaji": "tsutaeru",
+      "kana": "つたえる",
+      "kanji": "伝える",
+      "meaning_mm": "တဆင့်ပြောသည်",
+      "meaning_en": "tell, teach, introduce, conduct"
+    },
+    {
+      "#": 756,
+      "no": 10294,
+      "romaji": "tsuzuku",
+      "kana": "つづく",
+      "kanji": "続く",
+      "meaning_mm": "ဆက်သည်",
+      "meaning_en": "contine, occur repeatedly, follow"
+    },
+    {
+      "#": 757,
+      "no": 10295,
+      "romaji": "tsuzukeru",
+      "kana": "つづける",
+      "kanji": "続ける",
+      "meaning_mm": "ဆက််လက်ပြုလုပ်သည်",
+      "meaning_en": "continue, happen in a row"
+    },
+    {
+      "#": 758,
+      "no": 10296,
+      "romaji": "tsunagaru",
+      "kana": "つながる",
+      "kanji": "つながる",
+      "meaning_mm": "ဆက်သွယ်သည်",
+      "meaning_en": "be connected, lead to, extend, (call) gets through"
+    },
+    {
+      "#": 759,
+      "no": 10297,
+      "romaji": "tsunagu",
+      "kana": "つなぐ",
+      "kanji": "つなぐ",
+      "meaning_mm": "ဆက်သွယ်သည်",
+      "meaning_en": "connect, join"
+    },
+    {
+      "#": 760,
+      "no": 10298,
+      "romaji": "tsunageru",
+      "kana": "つなげる",
+      "kanji": "つなげる",
+      "meaning_mm": "ချည်နှောင်သည်",
+      "meaning_en": "tie to"
+    },
+    {
+      "#": 761,
+      "no": 10299,
+      "romaji": "nobiru",
+      "kana": "のびる",
+      "kanji": "伸びる",
+      "meaning_mm": "ရှည်လာသည်၊ အချိန်ကြာသည်၊ ရမှတ်တိုးလာသည်",
+      "meaning_en": "grow, straighten, increase, become soggy, lose elasticity"
+    },
+    {
+      "#": 762,
+      "no": 10300,
+      "romaji": "nobasu",
+      "kana": "のばす",
+      "kanji": "伸ばす",
+      "meaning_mm": "ဆန့်သည်၊ ရွှေ့ဆိုင်းသည်",
+      "meaning_en": "let grow, increase, smooth out, stretch, extend"
+    },
+    {
+      "#": 763,
+      "no": 10301,
+      "romaji": "nobiru",
+      "kana": "のびる",
+      "kanji": "延びる",
+      "meaning_mm": "ရှည်လာသည်၊ အချိန်ကြာသည်၊ ရမှတ်တိုးလာသည်",
+      "meaning_en": "be postponed, be prolonged, become longer, be extended"
+    },
+    {
+      "#": 764,
+      "no": 10302,
+      "romaji": "nobasu",
+      "kana": "のばす",
+      "kanji": "延ばす",
+      "meaning_mm": "ဆန့်သည်၊ ရွှေ့ဆိုင်းသည်",
+      "meaning_en": "postpone, extend"
+    },
+    {
+      "#": 765,
+      "no": 10303,
+      "romaji": "kasanaru",
+      "kana": "かさなる",
+      "kanji": "重なる",
+      "meaning_mm": "စုပုံသည်/ထပ်သည်",
+      "meaning_en": "be on top of another, fall on same day, clash"
+    },
+    {
+      "#": 766,
+      "no": 10304,
+      "romaji": "kasaneru",
+      "kana": "かさねる",
+      "kanji": "重ねる",
+      "meaning_mm": "ထပ်ဆင့်သည်",
+      "meaning_en": "stack, put on top of another, accumulate, do over and over"
+    },
+    {
+      "#": 767,
+      "no": 10305,
+      "romaji": "hirogaru",
+      "kana": "ひろがる",
+      "kanji": "広がる",
+      "meaning_mm": "ပြန့်ပွားသည်၊ ပျံ့နှံ့သည်",
+      "meaning_en": "widen, flare, spread, stretch across"
+    },
+    {
+      "#": 768,
+      "no": 10306,
+      "romaji": "hirogeru",
+      "kana": "ひろげる",
+      "kanji": "広げる",
+      "meaning_mm": "ဖြန့်သည်၊ ချဲ့သည်",
+      "meaning_en": "open more (stores), widen, broaden, open up"
+    },
+    {
+      "#": 769,
+      "no": 10307,
+      "romaji": "noru",
+      "kana": "のる",
+      "kanji": "載る",
+      "meaning_mm": "ထည့်သွင်းသည်၊ သတင်းစာအစရှိသည်တို့တွင်ပါဝင်သည်",
+      "meaning_en": "fit in (a car), be published"
+    },
+    {
+      "#": 770,
+      "no": 10308,
+      "romaji": "noseru",
+      "kana": "のせる",
+      "kanji": "載せる",
+      "meaning_mm": "ထည့်သွင်းသည်",
+      "meaning_en": "put on, publish"
+    },
+    {
+      "#": 771,
+      "no": 10309,
+      "romaji": "sorou",
+      "kana": "そろう",
+      "kanji": "そろう",
+      "meaning_mm": "အစီအရီဖြစ်သည်၊အစီအစဥ်ကျသည်",
+      "meaning_en": "gather, be collected together, match"
+    },
+    {
+      "#": 772,
+      "no": 10310,
+      "romaji": "soroeru",
+      "kana": "そろえる",
+      "kanji": "そろえる",
+      "meaning_mm": "အစီအရီဖြစ်အောင်လုပ်သည်၊စီရီသည်",
+      "meaning_en": "bring together, get everything ready, match"
+    },
+    {
+      "#": 773,
+      "no": 10311,
+      "romaji": "matomaru",
+      "kana": "まとまる",
+      "kanji": "まとまる",
+      "meaning_mm": "စုမိသည်",
+      "meaning_en": "reach ( consensus), be sorted out, be well organized, be united"
+    },
+    {
+      "#": 774,
+      "no": 10312,
+      "romaji": "matomeru",
+      "kana": "まとめる",
+      "kanji": "まとめる",
+      "meaning_mm": "စုဆောင်းသည်",
+      "meaning_en": "gather together, sort out, unify, write up, organize"
+    },
+    {
+      "#": 775,
+      "no": 10313,
+      "romaji": "tsuku",
+      "kana": "つく",
+      "kanji": "付く",
+      "meaning_mm": "စွဲငြိသည်",
+      "meaning_en": "be stained with, be gained, come with"
+    },
+    {
+      "#": 776,
+      "no": 10314,
+      "romaji": "tsukeru",
+      "kana": "つける",
+      "kanji": "付ける",
+      "meaning_mm": "တပ်ဆင်သည်",
+      "meaning_en": "put on, gain, assign, attach (conditions)"
+    },
+    {
+      "#": 777,
+      "no": 10315,
+      "romaji": "tamaru",
+      "kana": "たまる",
+      "kanji": "たまる",
+      "meaning_mm": "စုမိသည်",
+      "meaning_en": "(money) is saved up, accumulate, build up"
+    },
+    {
+      "#": 778,
+      "no": 10316,
+      "romaji": "tameru",
+      "kana": "ためる",
+      "kanji": "ためる",
+      "meaning_mm": "စုသည်(ပိုက်ဆံစသည်)",
+      "meaning_en": "save (money), pile up"
+    },
+    {
+      "#": 779,
+      "no": 10317,
+      "romaji": "majiru",
+      "kana": "まじる",
+      "kanji": "交じる・混じる",
+      "meaning_mm": "ရောပါသည်",
+      "meaning_en": "be mingled with"
+    },
+    {
+      "#": 780,
+      "no": 10318,
+      "romaji": "mazaru",
+      "kana": "まざる",
+      "kanji": "交ざる・混ざる",
+      "meaning_mm": "ရောပါသည်",
+      "meaning_en": "be mixed together"
+    },
+    {
+      "#": 781,
+      "no": 10319,
+      "romaji": "mazeru",
+      "kana": "まぜる",
+      "kanji": "交ぜる・混ぜる",
+      "meaning_mm": "ရောနှောသည်",
+      "meaning_en": "mix, stir"
+    },
+    {
+      "#": 782,
+      "no": 10320,
+      "romaji": "tokeru",
+      "kana": "とける",
+      "kanji": "解ける・溶ける",
+      "meaning_mm": "အရည်ပျော်သည်",
+      "meaning_en": "be solved, melt, dissolve"
+    },
+    {
+      "#": 783,
+      "no": 10321,
+      "romaji": "toku",
+      "kana": "とく",
+      "kanji": "解く・溶く",
+      "meaning_mm": "အရည်ဖျော်သည်",
+      "meaning_en": "solve, melt, dissolve"
+    },
+    {
+      "#": 784,
+      "no": 10322,
+      "romaji": "fukumu",
+      "kana": "ふくむ",
+      "kanji": "含む",
+      "meaning_mm": "အကျုံးဝင်သည်၊ ပါဝင်သည်",
+      "meaning_en": "contain, include"
+    },
+    {
+      "#": 785,
+      "no": 10323,
+      "romaji": "fukumeru",
+      "kana": "ふくめる",
+      "kanji": "含める",
+      "meaning_mm": "ထည့်သွင်းသည်၊ ပါဝင်စေသည်",
+      "meaning_en": "include"
+    },
+    {
+      "#": 786,
+      "no": 10324,
+      "romaji": "nukeru",
+      "kana": "ぬける",
+      "kanji": "抜ける",
+      "meaning_mm": "ကျွတ်သည်၊ အစည်းအဝေးမှခဏထွက်သည်",
+      "meaning_en": "fall out, come out, leak out, be missing, leave"
+    },
+    {
+      "#": 787,
+      "no": 10325,
+      "romaji": "nuku",
+      "kana": "ぬく",
+      "kanji": "抜く",
+      "meaning_mm": "နှုတ်သည်၊​ချွတ်သည်၊​ကျော်သွားသည်",
+      "meaning_en": "pull out, remove, relax (one’s body), skip, overtake"
+    },
+    {
+      "#": 788,
+      "no": 10326,
+      "romaji": "arawareru",
+      "kana": "あらわれる",
+      "kanji": "現れる",
+      "meaning_mm": "ဖြစ်ပေါ်လာသည်၊ပေါ်ထွက်လာသည်",
+      "meaning_en": "appear, (signs) are shown"
+    },
+    {
+      "#": 789,
+      "no": 10327,
+      "romaji": "arawasu",
+      "kana": "あらわす",
+      "kanji": "現す",
+      "meaning_mm": "ဖော်သည်၊ပေါ်လာသည်",
+      "meaning_en": "appear, show (signs)"
+    },
+    {
+      "#": 790,
+      "no": 10328,
+      "romaji": "arawareru",
+      "kana": "あらわれる",
+      "kanji": "表れる",
+      "meaning_mm": "ပေါ်လာသည်",
+      "meaning_en": "show (one one’s face)"
+    },
+    {
+      "#": 791,
+      "no": 10329,
+      "romaji": "arawasu",
+      "kana": "あらわす",
+      "kanji": "表す",
+      "meaning_mm": "ဖေါ်ပြသည်။ ဖြစ်ပေါ်သည်",
+      "meaning_en": "express, represent"
+    },
+    {
+      "#": 792,
+      "no": 10330,
+      "romaji": "chiru",
+      "kana": "ちる",
+      "kanji": "散る",
+      "meaning_mm": "ကြွေကျသည်",
+      "meaning_en": "fall, be scattered"
+    },
+    {
+      "#": 793,
+      "no": 10331,
+      "romaji": "chirasu",
+      "kana": "ちらす",
+      "kanji": "散らす",
+      "meaning_mm": "ဖြန့်ကြဲသည်",
+      "meaning_en": "spread, scatter"
+    },
+    {
+      "#": 794,
+      "no": 10332,
+      "romaji": "akeru",
+      "kana": "あける",
+      "kanji": "明ける",
+      "meaning_mm": "ဖွင့်ပြောသည်",
+      "meaning_en": "(dawn) comes, (new year) starts, (rainy reason) ends"
+    },
+    {
+      "#": 795,
+      "no": 10333,
+      "romaji": "sasu",
+      "kana": "さす",
+      "kanji": "差す",
+      "meaning_mm": "ထီးဆောင်းသည်",
+      "meaning_en": "(sun) shines, open up ( an umbrella), apply (eye drops)"
+    },
+    {
+      "#": 796,
+      "no": 10334,
+      "romaji": "pātonā",
+      "kana": "パートナー",
+      "kanji": "パートナ",
+      "meaning_mm": "ပါတနာ၊အဖော်",
+      "meaning_en": "partner"
+    },
+    {
+      "#": 797,
+      "no": 10335,
+      "romaji": "rīdā",
+      "kana": "リーダー",
+      "kanji": "リーダー",
+      "meaning_mm": "ခေါင်းဆောင်",
+      "meaning_en": "leader"
+    },
+    {
+      "#": 798,
+      "no": 10336,
+      "romaji": "borantia",
+      "kana": "ボランティア",
+      "kanji": "ボランティア",
+      "meaning_mm": "ပြည်သူ့အကျိုးပြုဆောင်ရွက်သူ၊စေတနာ့ဝန်ထမ်း",
+      "meaning_en": "volunteer"
+    },
+    {
+      "#": 799,
+      "no": 10337,
+      "romaji": "komyunikēshon",
+      "kana": "コミュニケーション",
+      "kanji": "コミュニケーション",
+      "meaning_mm": "စကားအပြန်အလှန်ပြောကြားဆက်သွယ်ခြင်း",
+      "meaning_en": "communication"
+    },
+    {
+      "#": 800,
+      "no": 10338,
+      "romaji": "yūmoa",
+      "kana": "ユーモア",
+      "kanji": "ユーモア",
+      "meaning_mm": "ဟာသဥာဏ်ရွှင်သော",
+      "meaning_en": "humor"
+    },
+    {
+      "#": 801,
+      "no": 10339,
+      "romaji": "shokku",
+      "kana": "ショック",
+      "kanji": "ショック",
+      "meaning_mm": "ရှော့ဖြစ်သော",
+      "meaning_en": "shock"
+    },
+    {
+      "#": 802,
+      "no": 10340,
+      "romaji": "sutoresu",
+      "kana": "ストレス",
+      "kanji": "ストレス",
+      "meaning_mm": "စိတ်ဖိစီးမှု",
+      "meaning_en": "stress"
+    },
+    {
+      "#": 803,
+      "no": 10341,
+      "romaji": "baransu",
+      "kana": "バランス",
+      "kanji": "バランス",
+      "meaning_mm": "ညီမျှမှု",
+      "meaning_en": "balance"
+    },
+    {
+      "#": 804,
+      "no": 10342,
+      "romaji": "reberu",
+      "kana": "レベル",
+      "kanji": "レベル",
+      "meaning_mm": "အဆင့်",
+      "meaning_en": "level"
+    },
+    {
+      "#": 805,
+      "no": 10343,
+      "romaji": "appu",
+      "kana": "アップ",
+      "kanji": "アップ",
+      "meaning_mm": "အပေါ်",
+      "meaning_en": "up, increase, up close"
+    },
+    {
+      "#": 806,
+      "no": 10344,
+      "romaji": "daun",
+      "kana": "ダウン",
+      "kanji": "ダウン",
+      "meaning_mm": "အောက်",
+      "meaning_en": "down, reduction, being down (with a cold)"
+    },
+    {
+      "#": 807,
+      "no": 10345,
+      "romaji": "purasu",
+      "kana": "プラス",
+      "kanji": "プラス",
+      "meaning_mm": "ပေါင်းခြင်း",
+      "meaning_en": "addition, surplus, positive impact"
+    },
+    {
+      "#": 808,
+      "no": 10346,
+      "romaji": "mainasu",
+      "kana": "マイナス",
+      "kanji": "マイナス",
+      "meaning_mm": "နှုတ်ခြင်း",
+      "meaning_en": "substraction, deficit, negative impact"
+    },
+    {
+      "#": 809,
+      "no": 10347,
+      "romaji": "imēji",
+      "kana": "イメージ",
+      "kanji": "イメージ",
+      "meaning_mm": "အတွေးပုံစံ",
+      "meaning_en": "image"
+    },
+    {
+      "#": 810,
+      "no": 10348,
+      "romaji": "kontesuto",
+      "kana": "コンテスト",
+      "kanji": "コンテスト",
+      "meaning_mm": "ပြိုင်ပွဲ",
+      "meaning_en": "contest"
+    },
+    {
+      "#": 811,
+      "no": 10349,
+      "romaji": "masukomi",
+      "kana": "マスコミ",
+      "kanji": "マスコミ",
+      "meaning_mm": "မီဒီယာ",
+      "meaning_en": "mass media, mass communication"
+    },
+    {
+      "#": 812,
+      "no": 10350,
+      "romaji": "puraibashī",
+      "kana": "プライバシー",
+      "kanji": "プライバシー",
+      "meaning_mm": "ကိုယ်ရေးကိုယ်တာနှင့်ဆိုင်သော",
+      "meaning_en": "privacy"
+    },
+    {
+      "#": 813,
+      "no": 10351,
+      "romaji": "ofisu",
+      "kana": "オフィス",
+      "kanji": "オフィス",
+      "meaning_mm": "ရုံး",
+      "meaning_en": "office"
+    },
+    {
+      "#": 814,
+      "no": 10352,
+      "romaji": "rūru",
+      "kana": "ルール",
+      "kanji": "ルール",
+      "meaning_mm": "စည်းမျဥ်းစည်းကမ်း",
+      "meaning_en": "rule"
+    },
+    {
+      "#": 815,
+      "no": 10353,
+      "romaji": "manā",
+      "kana": "マナー",
+      "kanji": "マナー",
+      "meaning_mm": "ဝတ္တရား",
+      "meaning_en": "manners"
+    },
+    {
+      "#": 816,
+      "no": 10354,
+      "romaji": "misu",
+      "kana": "ミス",
+      "kanji": "ミス",
+      "meaning_mm": "အမှား",
+      "meaning_en": "mistake"
+    },
+    {
+      "#": 817,
+      "no": 10355,
+      "romaji": "sukejūru",
+      "kana": "スケジュール",
+      "kanji": "スケジュール",
+      "meaning_mm": "အချိန်ဇယား",
+      "meaning_en": "schedule"
+    },
+    {
+      "#": 818,
+      "no": 10356,
+      "romaji": "taitoru",
+      "kana": "タイトル",
+      "kanji": "タイトル",
+      "meaning_mm": "ခေါင်းစဥ်",
+      "meaning_en": "title"
+    },
+    {
+      "#": 819,
+      "no": 10357,
+      "romaji": "tēma",
+      "kana": "テーマ",
+      "kanji": "テーマ",
+      "meaning_mm": "ခေါင်းစဥ်",
+      "meaning_en": "theme, topic"
+    },
+    {
+      "#": 820,
+      "no": 10358,
+      "romaji": "sutōrī",
+      "kana": "ストーリー",
+      "kanji": "ストーリー",
+      "meaning_mm": "ပုံပြင်၊ဇာတ်ကြောင်း",
+      "meaning_en": "story"
+    },
+    {
+      "#": 821,
+      "no": 10359,
+      "romaji": "hitto",
+      "kana": "ヒット",
+      "kanji": "ヒット",
+      "meaning_mm": "ရေပန်းစားခြင်း",
+      "meaning_en": "hit"
+    },
+    {
+      "#": 822,
+      "no": 10360,
+      "romaji": "burando",
+      "kana": "ブランド",
+      "kanji": "ブランド",
+      "meaning_mm": "brand",
+      "meaning_en": "brand"
+    },
+    {
+      "#": 823,
+      "no": 10361,
+      "romaji": "rentaru",
+      "kana": "レンタル",
+      "kanji": "レンタル",
+      "meaning_mm": "ငှားရမ်းခြင်း",
+      "meaning_en": "rental"
+    },
+    {
+      "#": 824,
+      "no": 10362,
+      "romaji": "risaikuru",
+      "kana": "リサイクル",
+      "kanji": "リサイクル",
+      "meaning_mm": "ပြန်လည်သုံးစွဲခြင်း",
+      "meaning_en": "recycling"
+    },
+    {
+      "#": 825,
+      "no": 10363,
+      "romaji": "raberu",
+      "kana": "ラベル",
+      "kanji": "ラベル",
+      "meaning_mm": "လေဘယ်",
+      "meaning_en": "label"
+    },
+    {
+      "#": 826,
+      "no": 10364,
+      "romaji": "taipu",
+      "kana": "タイプ",
+      "kanji": "タイプ",
+      "meaning_mm": "ပုံစံ",
+      "meaning_en": "type, sort"
+    },
+    {
+      "#": 827,
+      "no": 10365,
+      "romaji": "sutairu",
+      "kana": "スタイル",
+      "kanji": "スタイル",
+      "meaning_mm": "စတိုင်လ်",
+      "meaning_en": "style"
+    },
+    {
+      "#": 828,
+      "no": 10366,
+      "romaji": "setto",
+      "kana": "セット",
+      "kanji": "セット",
+      "meaning_mm": "အစုံလိုက်၊အတွဲလိုက်",
+      "meaning_en": "set, setting ( a clock)"
+    },
+    {
+      "#": 829,
+      "no": 10367,
+      "romaji": "uirusu",
+      "kana": "ウイルス",
+      "kanji": "ウイルス",
+      "meaning_mm": "ဗိုင်းရပ်စ်",
+      "meaning_en": "virus"
+    },
+    {
+      "#": 830,
+      "no": 10368,
+      "romaji": "robotto",
+      "kana": "ロボット",
+      "kanji": "ロボット",
+      "meaning_mm": "စက်ရုပ်",
+      "meaning_en": "robot"
+    },
+    {
+      "#": 831,
+      "no": 10369,
+      "romaji": "enerugī",
+      "kana": "エネルギー",
+      "kanji": "エネルギー",
+      "meaning_mm": "စွမ်းအင်",
+      "meaning_en": "energy"
+    },
+    {
+      "#": 832,
+      "no": 10370,
+      "romaji": "dejitaru",
+      "kana": "デジタル",
+      "kanji": "デジタル",
+      "meaning_mm": "တီဂျီတယ်လ်",
+      "meaning_en": "digital"
+    },
+    {
+      "#": 833,
+      "no": 10371,
+      "romaji": "maiku",
+      "kana": "マイク",
+      "kanji": "マイク",
+      "meaning_mm": "မိုက်ခရိုဖုန်း",
+      "meaning_en": "microphone"
+    },
+    {
+      "#": 834,
+      "no": 10372,
+      "romaji": "burēki",
+      "kana": "ブレーキ",
+      "kanji": "ブレーキ",
+      "meaning_mm": "ဘရိတ်",
+      "meaning_en": "brake"
+    },
+    {
+      "#": 835,
+      "no": 10373,
+      "romaji": "penki",
+      "kana": "ペンキ",
+      "kanji": "ペンキ",
+      "meaning_mm": "ဆေးခြယ်ခြင်း",
+      "meaning_en": "paint"
+    },
+    {
+      "#": 836,
+      "no": 10374,
+      "romaji": "takeru",
+      "kana": "たける",
+      "kanji": "炊ける",
+      "meaning_mm": "ထမင်းကျက်သည်",
+      "meaning_en": "(rice) is cooked"
+    },
+    {
+      "#": 837,
+      "no": 10375,
+      "romaji": "taku",
+      "kana": "たく",
+      "kanji": "炊く",
+      "meaning_mm": "ချက်ပြုတ်သည်၊ထမင်းချက်သည်",
+      "meaning_en": "cook (rice)"
+    },
+    {
+      "#": 838,
+      "no": 10376,
+      "romaji": "nieru",
+      "kana": "にえる",
+      "kanji": "煮える",
+      "meaning_mm": "ကျက်သည်၊ နူးသည်",
+      "meaning_en": "boil, cook, simmer"
+    },
+    {
+      "#": 839,
+      "no": 10377,
+      "romaji": "niru",
+      "kana": "にる",
+      "kanji": "煮る",
+      "meaning_mm": "ချက်ပြုတ်သည်",
+      "meaning_en": "boil, stew"
+    },
+    {
+      "#": 840,
+      "no": 10378,
+      "romaji": "itameru",
+      "kana": "いためる",
+      "kanji": "炒める",
+      "meaning_mm": "ကြော်သည်၊ဆီနည်းနည်းနှင့်ကြော်သည်",
+      "meaning_en": "fry, frizzle"
+    },
+    {
+      "#": 841,
+      "no": 10379,
+      "romaji": "yakeru",
+      "kana": "やける",
+      "kanji": "焼ける",
+      "meaning_mm": "လောင်ကျွမ်းသည်",
+      "meaning_en": "be cooked, be baked, be roasted"
+    },
+    {
+      "#": 842,
+      "no": 10380,
+      "romaji": "yaku",
+      "kana": "やく",
+      "kanji": "焼く",
+      "meaning_mm": "မီးကင်သည်",
+      "meaning_en": "cook, bake, roast"
+    },
+    {
+      "#": 843,
+      "no": 10381,
+      "romaji": "yuderu",
+      "kana": "ゆでる",
+      "kanji": "ゆでる",
+      "meaning_mm": "ပြုတ်သည်",
+      "meaning_en": "boil"
+    },
+    {
+      "#": 844,
+      "no": 10382,
+      "romaji": "ageru",
+      "kana": "あげる",
+      "kanji": "揚げる",
+      "meaning_mm": "မြှင့်တင်သည်။ ချက်ပြုတ်သည်။ ကြော်လှော်သည်။ ကုန်းမြေသို့တင်သည်",
+      "meaning_en": "deep-fry"
+    },
+    {
+      "#": 845,
+      "no": 10383,
+      "romaji": "musu",
+      "kana": "むす",
+      "kanji": "蒸す",
+      "meaning_mm": "ပေါင်းသည်",
+      "meaning_en": "steam"
+    },
+    {
+      "#": 846,
+      "no": 10384,
+      "romaji": "gussuri",
+      "kana": "ぐっすり",
+      "kanji": "ぐっすり",
+      "meaning_mm": "နှစ်နှစ်ခြိုက်ခြိုက်",
+      "meaning_en": "soundly"
+    },
+    {
+      "#": 847,
+      "no": 10385,
+      "romaji": "kichinto",
+      "kana": "きちんと",
+      "kanji": "きちんと",
+      "meaning_mm": "အသေအချာ",
+      "meaning_en": "properly, exactly, neat"
+    },
+    {
+      "#": 848,
+      "no": 10386,
+      "romaji": "shikkari",
+      "kana": "しっかり",
+      "kanji": "しっかり",
+      "meaning_mm": "အသေအချာ",
+      "meaning_en": "firmly, hard, reliable"
+    },
+    {
+      "#": 849,
+      "no": 10387,
+      "romaji": "hakkiri",
+      "kana": "はっきり",
+      "kanji": "はっきり",
+      "meaning_mm": "ပြတ်ပြတ်သားသား၊ထင်ထင်လင်းလင်း",
+      "meaning_en": "clearly, definitely"
+    },
+    {
+      "#": 850,
+      "no": 10388,
+      "romaji": "jitto",
+      "kana": "じっと",
+      "kanji": "じっと",
+      "meaning_mm": "(ခန္ဓာကိုယ်၊မျက်လုံး)စသည်တို့ကိုမလှုပ်မရှားဘဲစူးစိုက်ကြည့်သည်၊ကျောက်ရုပ်ကဲ့သို့မလှုပ်မရှားဘဲနေခြင်း",
+      "meaning_en": "intently, patiently, still"
+    },
+    {
+      "#": 851,
+      "no": 10389,
+      "romaji": "sotto",
+      "kana": "そっと",
+      "kanji": "そっと",
+      "meaning_mm": "အသာလေး",
+      "meaning_en": "quietly, gently, leaving alone"
+    },
+    {
+      "#": 852,
+      "no": 10390,
+      "romaji": "betsubetsuni",
+      "kana": "べつべつに",
+      "kanji": "別々に",
+      "meaning_mm": "သီးသန့်စီ",
+      "meaning_en": "separately"
+    },
+    {
+      "#": 853,
+      "no": 10391,
+      "romaji": "sorezore",
+      "kana": "それぞれ",
+      "kanji": "それぞれ",
+      "meaning_mm": "အသီးသီး",
+      "meaning_en": "each, respective"
+    },
+    {
+      "#": 854,
+      "no": 10392,
+      "romaji": "tagaini",
+      "kana": "たがいに",
+      "kanji": "互いに",
+      "meaning_mm": "အချင်းချင်း ၊ အပြန်အလှန်",
+      "meaning_en": "each other"
+    },
+    {
+      "#": 855,
+      "no": 10393,
+      "romaji": "chokusetsu",
+      "kana": "ちょくせつ",
+      "kanji": "直接",
+      "meaning_mm": "တိုက်ရိုက်",
+      "meaning_en": "directly, on one’s own"
+    },
+    {
+      "#": 856,
+      "no": 10394,
+      "romaji": "hontōni",
+      "kana": "ほんとうに",
+      "kanji": "本当に",
+      "meaning_mm": "တကယ်ပဲ",
+      "meaning_en": "really, to tell the truth"
+    },
+    {
+      "#": 857,
+      "no": 10395,
+      "romaji": "kanarazu",
+      "kana": "かならず",
+      "kanji": "必ず",
+      "meaning_mm": "မပျက်မကွက်",
+      "meaning_en": "surely, without fail, always"
+    },
+    {
+      "#": 858,
+      "no": 10396,
+      "romaji": "zettaini",
+      "kana": "ぜったいに",
+      "kanji": "絶対に",
+      "meaning_mm": "လုံးဝ၊မလွဲမသွေ",
+      "meaning_en": "absouletly, never"
+    },
+    {
+      "#": 859,
+      "no": 10397,
+      "romaji": "tokuni",
+      "kana": "とくに",
+      "kanji": "特に",
+      "meaning_mm": "အထူးသဖြင့်",
+      "meaning_en": "especially, in particular"
+    },
+    {
+      "#": 860,
+      "no": 10398,
+      "romaji": "tada",
+      "kana": "ただ",
+      "kanji": "ただ",
+      "meaning_mm": "ပြာယာခတ်သော",
+      "meaning_en": "just, only"
+    },
+    {
+      "#": 861,
+      "no": 10399,
+      "romaji": "sukunakutomo",
+      "kana": "すくなくとも",
+      "kanji": "少なくとも",
+      "meaning_mm": "အနည်းဆုံး",
+      "meaning_en": "at least"
+    },
+    {
+      "#": 862,
+      "no": 10400,
+      "romaji": "kesshite",
+      "kana": "けっして",
+      "kanji": "決して",
+      "meaning_mm": "ဘယ်တော့မှလုံးဝ. . . ဘူး",
+      "meaning_en": "never"
+    },
+    {
+      "#": 863,
+      "no": 10401,
+      "romaji": "sukoshimo",
+      "kana": "すこしも",
+      "kanji": "少しも",
+      "meaning_mm": "နည်းနည်းလေးမှ",
+      "meaning_en": "(not) at all"
+    },
+    {
+      "#": 864,
+      "no": 10402,
+      "romaji": "chittomo",
+      "kana": "ちっとも",
+      "kanji": "ちっとも",
+      "meaning_mm": "နည်းနည်းလေးမှ",
+      "meaning_en": "(not) at all"
+    },
+    {
+      "#": 865,
+      "no": 10403,
+      "romaji": "mattaku",
+      "kana": "まったく",
+      "kanji": "全く",
+      "meaning_mm": "လုံးဝ",
+      "meaning_en": "(not) at all, completely, really"
+    },
+    {
+      "#": 866,
+      "no": 10404,
+      "romaji": "totemo",
+      "kana": "とても",
+      "kanji": "とても",
+      "meaning_mm": "အရမ်း၊အလွန်",
+      "meaning_en": "very, hardly"
+    },
+    {
+      "#": 867,
+      "no": 10405,
+      "romaji": "donnani",
+      "kana": "どんなに",
+      "kanji": "どんなに",
+      "meaning_mm": "ဘယ်လောက်တောင်",
+      "meaning_en": "how much, no matter how"
+    },
+    {
+      "#": 868,
+      "no": 10406,
+      "romaji": "dōshitemo",
+      "kana": "どうしても",
+      "kanji": "どうしても",
+      "meaning_mm": "ဘယ်လိုပဲဖြစ်ဖြစ်",
+      "meaning_en": "by all means, not matter what, just (can’t)"
+    },
+    {
+      "#": 869,
+      "no": 10407,
+      "romaji": "marude",
+      "kana": "まるで",
+      "kanji": "まるで",
+      "meaning_mm": "တကယ့်ကို",
+      "meaning_en": "just like, (not) at all"
+    },
+    {
+      "#": 870,
+      "no": 10408,
+      "romaji": "ittai",
+      "kana": "いったい",
+      "kanji": "一体",
+      "meaning_mm": "တကိုယ်တည်း ၊ ဘုရားတစ်ဆူ၊ ယေဘုယအားဖြင့်",
+      "meaning_en": "what in the world"
+    },
+    {
+      "#": 871,
+      "no": 10409,
+      "romaji": "betsuni",
+      "kana": "べつに",
+      "kanji": "別に",
+      "meaning_mm": "တသီးတခြား၊ထူးထူးခြားခြား၊သပ်သပ်",
+      "meaning_en": "nothing in particular"
+    },
+    {
+      "#": 872,
+      "no": 10410,
+      "romaji": "tatta",
+      "kana": "たった",
+      "kanji": "たった",
+      "meaning_mm": "ရုံသာ၊ရုံမျှ",
+      "meaning_en": "just"
+    },
+    {
+      "#": 873,
+      "no": 10411,
+      "romaji": "honno",
+      "kana": "ほんの",
+      "kanji": "ほんの",
+      "meaning_mm": "တကယ့်အနည်းငယ်",
+      "meaning_en": "just, merely"
+    },
+    {
+      "#": 874,
+      "no": 10412,
+      "romaji": "sorede",
+      "kana": "それで",
+      "kanji": "それで",
+      "meaning_mm": "ဒါနဲ့၊ထို့ကြောင့်",
+      "meaning_en": "so, then"
+    },
+    {
+      "#": 875,
+      "no": 10413,
+      "romaji": "sokode",
+      "kana": "そこで",
+      "kanji": "そこで",
+      "meaning_mm": "အဲဒါနဲ့",
+      "meaning_en": "and so"
+    },
+    {
+      "#": 876,
+      "no": 10414,
+      "romaji": "sonoue",
+      "kana": "そのうえ",
+      "kanji": "そのうえ",
+      "meaning_mm": "၎င်းအပြင်",
+      "meaning_en": "what’s more"
+    },
+    {
+      "#": 877,
+      "no": 10415,
+      "romaji": "mata",
+      "kana": "また",
+      "kanji": "また",
+      "meaning_mm": "တဖန်၊ထပ်ပြီး",
+      "meaning_en": "and, or, also"
+    },
+    {
+      "#": 878,
+      "no": 10416,
+      "romaji": "matawa",
+      "kana": "または",
+      "kanji": "または",
+      "meaning_mm": "သို့မဟုတ်",
+      "meaning_en": "or"
+    },
+    {
+      "#": 879,
+      "no": 10417,
+      "romaji": "soretomo",
+      "kana": "それとも",
+      "kanji": "それとも",
+      "meaning_mm": "ဒါမှမဟုတ်",
+      "meaning_en": "or"
+    },
+    {
+      "#": 880,
+      "no": 10418,
+      "romaji": "tsumari",
+      "kana": "つまり",
+      "kanji": "つまり",
+      "meaning_mm": "တနည်းအားဖြင့်",
+      "meaning_en": "that is, in other words"
+    }
+  ]
