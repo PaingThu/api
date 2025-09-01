@@ -1,0 +1,139 @@
+[
+    {
+        "kanji": "氏",
+        "meanings": [
+            "Family name",
+            "Surname",
+            "Clan"
+        ],
+        "readings_on": [
+            "シ"
+        ],
+        "readings_kun": [
+            "うじ"
+        ],
+        "level": 1,
+        "on_vocab":[
+            {
+                "word": "氏名",
+                "reading": "しめい",
+                "meaning": "full name"
+            },
+            {
+                "word": "氏族",
+                "reading": "しぞく",
+                "meaning": "clan, family"
+            },
+            {
+                "word": "彼氏",
+                "reading": "かれし",
+                "meaning": "boyfriend"
+            },
+            {
+                "word": "彼女氏",
+                "reading": "かのじょし",
+                "meaning": "girlfriend"
+            },
+            {
+                "word": "同氏",
+                "reading": "どうし",
+                "meaning": "the same person, the same gentleman"
+            },
+            {
+                "word": "各氏",
+                "reading": "かくし",
+                "meaning": "each person"
+            },
+            {
+                "word": "両氏",
+                "reading": "りょうし",
+                "meaning": "both persons"
+            },
+            {
+                "word": "有名氏",
+                "reading": "ゆうめいし",
+                "meaning": "famous family"
+            },
+            {
+                "word": "無名氏",
+                "reading": "むめいし",
+                "meaning": "unknown person"
+            }
+        ],
+        "kun_vocab": [
+            {
+                "word": "氏子",
+                "reading": "うじこ",
+                "meaning": "member of a clan"
+            },
+            {
+                "word": "氏神",
+                "reading": "うじがみ",
+                "meaning": "tutelary deity of a clan"
+            },
+            {
+                "word": "氏素性",
+                "reading": "うじそせい",
+                "meaning": "family background"
+            },
+            {
+                "word": "氏",
+                "reading": "うじ",
+                "meaning": "family name, surname, clan"
+            }
+        ],
+        "examples": [
+            {
+                "japanese": "氏名を教えてください。",
+                "meaning": "Please tell me your name.",
+                "furigana": "しめいをおしえてください。"
+            },
+            {
+                "japanese": "彼は有名な氏族の出身です。",
+                "meaning": "He comes from a famous clan.",
+                "furigana": "かれはゆうめいなしぞくのしゅっしんです。"
+            },
+            {
+                "japanese": "神社の祭りには、たくさんの氏子が参加した。",
+                "meaning": "Many members of the clan participated in the shrine festival.",
+                "furigana": "じんじゃのまつりには、たくさんのうじこがさんかした。"
+            },
+            {
+                "japanese": "氏神にお参りに行きました。",
+                "meaning": "We went to visit the tutelary deity of our clan.",
+                "furigana": "うじがみにおまいりにいきました。"
+            },
+            {
+                "japanese": "彼氏とデートしました。",
+                "meaning": "I went on a date with my boyfriend.",
+                "furigana": "かれしとデートしました。"
+            },
+            {
+                "japanese": "彼女氏はとても優しいです。",
+                "meaning": "My girlfriend is very kind.",
+                "furigana": "かのじょしはとてもやさしいです。"
+            },
+            {
+                "japanese": "同氏によると、来月から新しい制度が始まる予定だ。",
+                "meaning": "According to the said person, a new system is scheduled to begin next month.",
+                "furigana": "どうしによると、らいげつからあたらしいせいどがはじまるよていだ。"
+            },
+            {
+                "japanese": "各氏は自己紹介をしてください。",
+                "meaning": "Each person, please introduce yourself.",
+                "furigana": "かくしはじこしょうかいをしてください。"
+            },
+            {
+                "japanese": "山田氏と高橋氏は、両氏とも新しいプロジェクトに賛成した。",
+                "meaning": "Both Mr. Yamada and Mr. Takahashi agreed to the new project.",
+                "furigana": "やまだしとたかはししは、りょうしともあたらしいプロジェクトにさんせいした。"
+            },
+            {
+                "japanese": "この詩は無名氏によって書かれた。",
+                "meaning": "This poem was written by an unknown person.",
+                "furigana": "このしはむめいしによってかかれた。"
+            }
+        ]
+    }
+
+]
